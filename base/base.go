@@ -46,27 +46,25 @@ type Wasi_snapshot_preview1Imports interface {
 type EnvImports interface {
 	X__cxa_allocate_exception(m *Module, l0 int32) int32
 	X__cxa_throw(m *Module, l0 int32, l1 int32, l2 int32)
+	X_ZN9googlesql31GetDefaultErrorMessageStabilityEv(m *Module) int32
 	X_ZN4absl12lts_2026010716raw_log_internal6RawLogENS0_11LogSeverityEPKciS4_z(m *Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-	X_ZN4absl12lts_2026010712log_internal13WriteToStderrENSt3__217basic_string_viewIcNS2_11char_traitsIcEEEENS0_11LogSeverityE(m *Module, l0 int32, l1 int32)
-	X_ZN4absl12lts_2026010712log_internal13IsInitializedEv(m *Module) int32
+	X_ZN9googlesql32DeprecationWarningsToDebugStringEN4absl12lts_202601074SpanIKNS_30FreestandingDeprecationWarningEEE(m *Module, l0 int32, l1 int32)
 	X_ZN4absl12lts_2026010712log_internal8TimeZoneEv(m *Module) int32
+	X_ZN4absl12lts_2026010712log_internal13IsInitializedEv(m *Module) int32
 	X_ZN4absl12lts_2026010712log_internal24MaxFramesInLogStackTraceEv(m *Module) int32
 	X_ZN4absl12lts_2026010712log_internal28ShouldSymbolizeLogStackTraceEv(m *Module) int32
 	X_ZN4absl12lts_2026010712log_internal24SetSuppressSigabortTraceEb(m *Module, l0 int32) int32
 	X_ZN4absl12lts_2026010712log_internal12ExitOnDFatalEv(m *Module) int32
-	X_ZN9googlesql31GetDefaultErrorMessageStabilityEv(m *Module) int32
-	X_ZN9googlesql31StatusWithInternalErrorLocationERKN4absl12lts_202601076StatusERKNS_18ParseLocationPointE(m *Module, l0 int32, l1 int32, l2 int32)
-	X_ZN9googlesql20ShouldPropagateErrorERKN4absl12lts_202601076StatusE(m *Module, l0 int32) int32
-	X_ZN9googlesql15MakeErrorSourceERKN4absl12lts_202601076StatusENSt3__217basic_string_viewIcNS5_11char_traitsIcEEEENS_16ErrorMessageModeE(m *Module, l0 int32, l1 int32, l2 int32, l3 int32)
-	X_ZN9googlesql15GetErrorSourcesERKN4absl12lts_202601076StatusE(m *Module, l0 int32, l1 int32)
-	X_ZN9googlesql32DeprecationWarningsToDebugStringEN4absl12lts_202601074SpanIKNS_30FreestandingDeprecationWarningEEE(m *Module, l0 int32, l1 int32)
+	X_ZN4absl12lts_2026010712log_internal13WriteToStderrENSt3__217basic_string_viewIcNS2_11char_traitsIcEEEENS0_11LogSeverityE(m *Module, l0 int32, l1 int32)
 	X_ZN6google7spanner8emulator7backend17RemoteUdfProtocol6ToJsonERKN9googlesql5ValueE(m *Module, l0 int32, l1 int32)
 	X_ZN6google7spanner8emulator7backend18RemoteUdfEvaluator22EvaluateRemoteFunctionENSt3__217basic_string_viewIcNS4_11char_traitsIcEEEES8_N4absl12lts_202601074SpanIKN9googlesql5ValueEEE(m *Module, l0 int32, l1 int32, l2 int32, l3 int32)
 	X_ZN6google7spanner8emulator7backend17RemoteUdfProtocol7ToValueEN9googlesql17JSONValueConstRefEPKNS4_4TypeE(m *Module, l0 int32, l1 int32, l2 int32)
 	X_ZN6google7spanner8emulator7backend17RemoteUdfProtocol11FingerprintEN4absl12lts_202601074SpanIKN9googlesql5ValueEEE(m *Module, l0 int32, l1 int32)
 	X_ZN6google7spanner8emulator7backend17RemoteUdfProtocol7ToValueEyPKN9googlesql4TypeE(m *Module, l0 int32, l1 int64, l2 int32)
-	X_ZN9googlesql14FirstCharLowerENSt3__217basic_string_viewIcNS0_11char_traitsIcEEEE(m *Module, l0 int32, l1 int32)
-	X_ZN9googlesql29StatusesToDeprecationWarningsEN4absl12lts_202601074SpanIKNS1_6StatusEEENSt3__217basic_string_viewIcNS6_11char_traitsIcEEEE(m *Module, l0 int32, l1 int32, l2 int32)
+	X_ZN9googlesql31StatusWithInternalErrorLocationERKN4absl12lts_202601076StatusERKNS_18ParseLocationPointE(m *Module, l0 int32, l1 int32, l2 int32)
+	X_ZN9googlesql20ShouldPropagateErrorERKN4absl12lts_202601076StatusE(m *Module, l0 int32) int32
+	X_ZN9googlesql15MakeErrorSourceERKN4absl12lts_202601076StatusENSt3__217basic_string_viewIcNS5_11char_traitsIcEEEENS_16ErrorMessageModeE(m *Module, l0 int32, l1 int32, l2 int32, l3 int32)
+	X_ZN9googlesql15GetErrorSourcesERKN4absl12lts_202601076StatusE(m *Module, l0 int32, l1 int32)
 	X_ZN6google7spanner8emulator7backend18RemoteUdfEvaluator14BuildEvaluatorENSt3__212basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEESA_PKN9googlesql4TypeE(m *Module, l0 int32, l1 int32, l2 int32, l3 int32)
 	X_ZN9googlesql22EvaluateQuantifiedLikeERKNS_30QuantifiedLikeEvaluationParamsE(m *Module, l0 int32, l1 int32)
 	X_ZN9googlesql8internal19GetTopPrivateDomainENSt3__217basic_string_viewIcNS1_11char_traitsIcEEEE(m *Module, l0 int32, l1 int32)
@@ -78,6 +76,8 @@ type EnvImports interface {
 	X_ZN9googlesql29RegisterBuiltinRangeFunctionsEv(m *Module)
 	X_ZN9googlesql9functions12ZstdCompressENSt3__217basic_string_viewIcNS1_11char_traitsIcEEEEx(m *Module, l0 int32, l1 int32, l2 int64)
 	X_ZN9googlesql9functions14ZstdDecompressENSt3__217basic_string_viewIcNS1_11char_traitsIcEEEEbx(m *Module, l0 int32, l1 int32, l2 int32, l3 int64)
+	X_ZN9googlesql14FirstCharLowerENSt3__217basic_string_viewIcNS0_11char_traitsIcEEEE(m *Module, l0 int32, l1 int32)
+	X_ZN9googlesql29StatusesToDeprecationWarningsEN4absl12lts_202601074SpanIKNS1_6StatusEEENSt3__217basic_string_viewIcNS6_11char_traitsIcEEEE(m *Module, l0 int32, l1 int32, l2 int32)
 	Emscripten_stack_snapshot(m *Module) int32
 	Emscripten_stack_unwind_buffer(m *Module, l0 int32, l1 int32, l2 int32) int32
 	X_ZN9googlesql9functions27StartsWithUtf8WithCollationERKNS_17GoogleSqlCollatorENSt3__217basic_string_viewIcNS4_11char_traitsIcEEEES8_PbPN4absl12lts_202601076StatusE(m *Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32

@@ -10,6694 +10,6721 @@ import (
 //go:linkname Fn67 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn67
 func Fn67(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn69 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn69
-func Fn69(m *base.Module, l0 int32) int64
+//go:linkname Fn68 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn68
+func Fn68(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn70 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn70
-func Fn70(m *base.Module, l0 int32)
-
-//go:linkname Fn71 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn71
-func Fn71(m *base.Module, l0 int32)
-
-//go:linkname Fn72 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn72
-func Fn72(m *base.Module, l0 int32)
-
-//go:linkname Fn73 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn73
-func Fn73(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn74 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn74
-func Fn74(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn73 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn73
+func Fn73(m *base.Module, l0 int32)
 
 //go:linkname Fn75 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn75
-func Fn75(m *base.Module, l0 int32, l1 int32)
+func Fn75(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn76 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn76
-func Fn76(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn80 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn80
+func Fn80(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn77 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn77
-func Fn77(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn84 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn84
+func Fn84(m *base.Module, l0 int32)
 
-//go:linkname Fn78 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn78
-func Fn78(m *base.Module, l0 int32) int64
+//go:linkname Fn91 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn91
+func Fn91(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn79 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn79
-func Fn79(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn83 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn83
-func Fn83(m *base.Module, l0 int32)
-
-//go:linkname Fn89 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn89
-func Fn89(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn90 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn90
-func Fn90(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn91 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn91
-func Fn91(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn92 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn92
-func Fn92(m *base.Module, l0 int32)
+//go:linkname Fn92 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn92
+func Fn92(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
 //go:linkname Fn93 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn93
-func Fn93(m *base.Module)
+func Fn93(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn95 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn95
-func Fn95(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn94 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn94
+func Fn94(m *base.Module, l0 int32)
 
-//go:linkname Fn96 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn96
-func Fn96(m *base.Module, l0 int32)
+//go:linkname Fn95 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn95
+func Fn95(m *base.Module)
 
-//go:linkname Fn97 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn97
-func Fn97(m *base.Module)
+//go:linkname Fn97 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn97
+func Fn97(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn100 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn100
-func Fn100(m *base.Module, l0 int32)
+//go:linkname Fn98 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn98
+func Fn98(m *base.Module, l0 int32)
 
-//go:linkname Fn104 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn104
-func Fn104(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn99 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn99
+func Fn99(m *base.Module)
+
+//go:linkname Fn100 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn100
+func Fn100(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn103 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn103
+func Fn103(m *base.Module, l0 int32)
 
 //go:linkname Fn105 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn105
-func Fn105(m *base.Module, l0 int32, l1 int32, l2 int32)
+func Fn105(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn106 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn106
-func Fn106(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn106 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn106
+func Fn106(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn107 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn107
-func Fn107(m *base.Module, l0 int32)
+//go:linkname Fn107 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn107
+func Fn107(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn108 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn108
-func Fn108(m *base.Module, l0 int32) int32
+func Fn108(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn109 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn109
 func Fn109(m *base.Module, l0 int32) int32
 
-//go:linkname Fn110 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn110
-func Fn110(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn110 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn110
+func Fn110(m *base.Module, l0 int32) int32
 
-//go:linkname Fn111 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn111
-func Fn111(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn111 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn111
+func Fn111(m *base.Module, l0 int64, l1 int64, l2 int32) int32
 
-//go:linkname Fn112 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn112
-func Fn112(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn130 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn130
+func Fn130(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn115 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn115
-func Fn115(m *base.Module, l0 int32) int32
+//go:linkname Fn131 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn131
+func Fn131(m *base.Module, l0 int32) int32
 
-//go:linkname Fn116 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn116
-func Fn116(m *base.Module, l0 int32)
+//go:linkname Fn132 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn132
+func Fn132(m *base.Module, l0 int32)
 
-//go:linkname Fn117 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn117
-func Fn117(m *base.Module, l0 int32)
+//go:linkname Fn139 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn139
+func Fn139(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn118 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn118
-func Fn118(m *base.Module, l0 int32)
+//go:linkname Fn141 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn141
+func Fn141(m *base.Module, l0 int32)
 
-//go:linkname Fn119 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn119
-func Fn119(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn147 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn147
+func Fn147(m *base.Module, l0 int32) int32
 
-//go:linkname Fn122 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn122
-func Fn122(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn148 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn148
+func Fn148(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn123 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn123
-func Fn123(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn124 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn124
-func Fn124(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn125 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn125
-func Fn125(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn127 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn127
-func Fn127(m *base.Module, l0 int32) int32
-
-//go:linkname Fn131 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn131
-func Fn131(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn133 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn133
-func Fn133(m *base.Module, l0 int32)
-
-//go:linkname Fn134 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn134
-func Fn134(m *base.Module, l0 int32)
-
-//go:linkname Fn135 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn135
-func Fn135(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn136 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn136
-func Fn136(m *base.Module, l0 int32)
-
-//go:linkname Fn137 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn137
-func Fn137(m *base.Module, l0 int32)
-
-//go:linkname Fn138 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn138
-func Fn138(m *base.Module, l0 int32) int32
-
-//go:linkname Fn139 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn139
-func Fn139(m *base.Module, l0 int32)
-
-//go:linkname Fn144 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn144
-func Fn144(m *base.Module, l0 int32)
+//go:linkname Fn151 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn151
+func Fn151(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn152 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn152
-func Fn152(m *base.Module, l0 int32, l1 int32) int32
+func Fn152(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn158 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn158
-func Fn158(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn153 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn153
+func Fn153(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn163 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn163
-func Fn163(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn154 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn154
+func Fn154(m *base.Module, l0 int32) int32
 
-//go:linkname Fn164 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn164
-func Fn164(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn155 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn155
+func Fn155(m *base.Module, l0 int32) int32
+
+//go:linkname Fn159 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn159
+func Fn159(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn168 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn168
-func Fn168(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+func Fn168(m *base.Module, l0 int32, l1 int32)
 
 //go:linkname Fn169 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn169
 func Fn169(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn170 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn170
-func Fn170(m *base.Module, l0 int32)
+func Fn170(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn178 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn178
-func Fn178(m *base.Module, l0 int32)
+//go:linkname Fn172 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn172
+func Fn172(m *base.Module, l0 int32)
 
-//go:linkname Fn185 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn185
-func Fn185(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn173 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn173
+func Fn173(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn199 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn199
-func Fn199(m *base.Module, l0 int32)
+//go:linkname Fn183 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn183
+func Fn183(m *base.Module, l0 int32) int32
 
-//go:linkname Fn209 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn209
-func Fn209(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn186 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn186
+func Fn186(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn210 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn210
-func Fn210(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn187 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn187
+func Fn187(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn188 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn188
+func Fn188(m *base.Module, l0 int32)
+
+//go:linkname Fn189 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn189
+func Fn189(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn190 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn190
+func Fn190(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn191 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn191
+func Fn191(m *base.Module, l0 int32)
+
+//go:linkname Fn192 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn192
+func Fn192(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn193 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn193
+func Fn193(m *base.Module, l0 int32) int32
+
+//go:linkname Fn194 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn194
+func Fn194(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn195 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn195
+func Fn195(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn196 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn196
+func Fn196(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn197 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn197
+func Fn197(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn198 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn198
+func Fn198(m *base.Module, l0 int32)
+
+//go:linkname Fn202 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn202
+func Fn202(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn203 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn203
+func Fn203(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn205 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn205
+func Fn205(m *base.Module, l0 int32)
+
+//go:linkname Fn206 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn206
+func Fn206(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn208 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn208
+func Fn208(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn210 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn210
+func Fn210(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn211 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn211
-func Fn211(m *base.Module, l0 int32, l1 int32)
+func Fn211(m *base.Module, l0 int32, l1 int32, l2 int32)
 
 //go:linkname Fn212 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn212
 func Fn212(m *base.Module, l0 int32) int32
 
-//go:linkname Fn213 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn213
-func Fn213(m *base.Module, l0 int32) int32
+//go:linkname Fn215 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn215
+func Fn215(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn220 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn220
-func Fn220(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn216 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn216
+func Fn216(m *base.Module, l0 int32)
 
-//go:linkname Fn227 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn227
-func Fn227(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn217 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn217
+func Fn217(m *base.Module, l0 int32) int32
+
+//go:linkname Fn218 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn218
+func Fn218(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn221 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn221
+func Fn221(m *base.Module, l0 int32) int32
+
+//go:linkname Fn224 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn224
+func Fn224(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn225 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn225
+func Fn225(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn230 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn230
-func Fn230(m *base.Module, l0 int32, l1 int32, l2 int32)
+func Fn230(m *base.Module, l0 int32) int32
+
+//go:linkname Fn231 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn231
+func Fn231(m *base.Module, l0 int32)
 
 //go:linkname Fn232 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn232
-func Fn232(m *base.Module, l0 int32) int32
+func Fn232(m *base.Module, l0 int32)
 
-//go:linkname Fn233 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn233
-func Fn233(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn235 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn235
+func Fn235(m *base.Module, l0 int32)
 
-//go:linkname Fn234 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn234
-func Fn234(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn237 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn237
+func Fn237(m *base.Module, l0 int32)
 
-//go:linkname Fn235 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn235
-func Fn235(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn238 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn238
+func Fn238(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn236 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn236
-func Fn236(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn239 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn239
+func Fn239(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn237 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn237
-func Fn237(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn240 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn240
+func Fn240(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn240 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn240
-func Fn240(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn242 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn242
-func Fn242(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn243 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn243
-func Fn243(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn241 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn241
+func Fn241(m *base.Module, l0 int32, l1 int32)
 
 //go:linkname Fn244 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn244
-func Fn244(m *base.Module, l0 int32) int32
+func Fn244(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn245 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn245
-func Fn245(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn245 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn245
+func Fn245(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn246 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn246
-func Fn246(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn246 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn246
+func Fn246(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn248 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn248
-func Fn248(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int64, l4 int32) int32
+//go:linkname Fn247 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn247
+func Fn247(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn259 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn259
-func Fn259(m *base.Module, l0 int32)
+//go:linkname Fn250 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn250
+func Fn250(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn269 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn269
-func Fn269(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn254 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn254
+func Fn254(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn271 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn271
-func Fn271(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn255 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn255
+func Fn255(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn276 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn276
-func Fn276(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn256 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn256
+func Fn256(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn279 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn279
-func Fn279(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn257 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn257
+func Fn257(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn285 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn285
-func Fn285(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn258 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn258
+func Fn258(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn287 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn287
-func Fn287(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn261 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn261
+func Fn261(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn312 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn312
-func Fn312(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn262 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn262
+func Fn262(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn314 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn314
-func Fn314(m *base.Module, l0 int32) int32
+//go:linkname Fn266 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn266
+func Fn266(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn315 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn315
-func Fn315(m *base.Module, l0 int32) int32
+//go:linkname Fn268 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn268
+func Fn268(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn319 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn319
-func Fn319(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn269 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn269
+func Fn269(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn323 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn323
-func Fn323(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn280 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn280
+func Fn280(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn281 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn281
+func Fn281(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn282 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn282
+func Fn282(m *base.Module, l0 int32) int32
+
+//go:linkname Fn284 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn284
+func Fn284(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn295 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn295
+func Fn295(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn300 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn300
+func Fn300(m *base.Module, l0 int32)
+
+//go:linkname Fn301 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn301
+func Fn301(m *base.Module, l0 int32)
+
+//go:linkname Fn303 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn303
+func Fn303(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn304 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn304
+func Fn304(m *base.Module, l0 int32)
+
+//go:linkname Fn306 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn306
+func Fn306(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn308 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn308
+func Fn308(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn309 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn309
+func Fn309(m *base.Module, l0 int32)
+
+//go:linkname Fn316 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn316
+func Fn316(m *base.Module, l0 int64, l1 int32) int64
+
+//go:linkname Fn317 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn317
+func Fn317(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn325 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn325
+func Fn325(m *base.Module, l0 int32)
 
 //go:linkname Fn326 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn326
-func Fn326(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+func Fn326(m *base.Module, l0 int32)
 
-//go:linkname Fn328 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn328
-func Fn328(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn329 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn329
-func Fn329(m *base.Module, l0 int32)
-
-//go:linkname Fn331 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn331
-func Fn331(m *base.Module)
-
-//go:linkname Fn333 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn333
-func Fn333(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn335 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn335
+//go:linkname Fn335 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn335
 func Fn335(m *base.Module, l0 int32)
 
+//go:linkname Fn336 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn336
+func Fn336(m *base.Module, l0 int32)
+
+//go:linkname Fn338 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn338
+func Fn338(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn339 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn339
+func Fn339(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
 //go:linkname Fn340 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn340
-func Fn340(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+func Fn340(m *base.Module, l0 int32)
 
 //go:linkname Fn341 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn341
-func Fn341(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+func Fn341(m *base.Module, l0 int32) int32
 
-//go:linkname Fn342 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn342
-func Fn342(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn342 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn342
+func Fn342(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn343 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn343
-func Fn343(m *base.Module)
+//go:linkname Fn343 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn343
+func Fn343(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn344 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn344
-func Fn344(m *base.Module, l0 int32)
+//go:linkname Fn344 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn344
+func Fn344(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn345 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn345
+func Fn345(m *base.Module, l0 int32, l1 int32, l2 int32)
 
 //go:linkname Fn346 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn346
-func Fn346(m *base.Module)
+func Fn346(m *base.Module, l0 int32)
 
-//go:linkname Fn352 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn352
-func Fn352(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn347 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn347
+func Fn347(m *base.Module, l0 int32)
+
+//go:linkname Fn348 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn348
+func Fn348(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn349 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn349
+func Fn349(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn356 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn356
+func Fn356(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
 //go:linkname Fn357 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn357
-func Fn357(m *base.Module, l0 int32, l1 int32, l2 int32)
+func Fn357(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn359 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn359
+func Fn359(m *base.Module, l0 int32)
+
+//go:linkname Fn362 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn362
+func Fn362(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn364 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn364
+func Fn364(m *base.Module, l0 int32) int32
+
+//go:linkname Fn372 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn372
+func Fn372(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
 //go:linkname Fn373 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn373
-func Fn373(m *base.Module, l0 int32, l1 int32)
+func Fn373(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn374 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn374
-func Fn374(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn375 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn375
+func Fn375(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn385 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn385
-func Fn385(m *base.Module, l0 int32) int32
+//go:linkname Fn378 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn378
+func Fn378(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn388 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn388
-func Fn388(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn379 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn379
+func Fn379(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn389 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn389
-func Fn389(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn386 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn386
+func Fn386(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn390 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn390
-func Fn390(m *base.Module, l0 int32)
+//go:linkname Fn396 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn396
+func Fn396(m *base.Module, l0 int32)
 
 //go:linkname Fn397 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn397
-func Fn397(m *base.Module, l0 int32)
+func Fn397(m *base.Module, l0 int32) int32
 
-//go:linkname Fn401 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn401
-func Fn401(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn403 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn403
-func Fn403(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn405 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn405
+//go:linkname Fn405 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn405
 func Fn405(m *base.Module, l0 int32) int32
 
-//go:linkname Fn406 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn406
-func Fn406(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn417 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn417
+func Fn417(m *base.Module, l0 int32) int32
 
-//go:linkname Fn410 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn410
-func Fn410(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn430 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn430
+func Fn430(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn411 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn411
-func Fn411(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn432 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn432
+func Fn432(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn415 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn415
-func Fn415(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn435 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn435
+func Fn435(m *base.Module, l0 int32) int32
 
-//go:linkname Fn416 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn416
-func Fn416(m *base.Module, l0 int32)
+//go:linkname Fn438 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn438
+func Fn438(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn423 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn423
-func Fn423(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn442 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn442
+func Fn442(m *base.Module, l0 int32) int32
 
-//go:linkname Fn452 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn452
-func Fn452(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn443 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn443
+func Fn443(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn453 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn453
-func Fn453(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn444 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn444
+func Fn444(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn455 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn455
-func Fn455(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn445 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn445
+func Fn445(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn478 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn478
-func Fn478(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn446 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn446
+func Fn446(m *base.Module, l0 int32) int32
+
+//go:linkname Fn447 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn447
+func Fn447(m *base.Module, l0 int32)
+
+//go:linkname Fn454 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn454
+func Fn454(m *base.Module, l0 int32) int32
+
+//go:linkname Fn456 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn456
+func Fn456(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn464 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn464
+func Fn464(m *base.Module, l0 int32)
+
+//go:linkname Fn469 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn469
+func Fn469(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn477 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn477
+func Fn477(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn478 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn478
+func Fn478(m *base.Module, l0 int32)
+
+//go:linkname Fn479 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn479
+func Fn479(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn480 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn480
+func Fn480(m *base.Module, l0 int32)
+
+//go:linkname Fn481 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn481
+func Fn481(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn482 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn482
+func Fn482(m *base.Module, l0 int32) int32
+
+//go:linkname Fn485 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn485
+func Fn485(m *base.Module) int32
 
 //go:linkname Fn486 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn486
-func Fn486(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+func Fn486(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn498 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn498
-func Fn498(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn488 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn488
+func Fn488(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn490 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn490
+func Fn490(m *base.Module, l0 int32)
+
+//go:linkname Fn491 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn491
+func Fn491(m *base.Module, l0 int32)
+
+//go:linkname Fn492 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn492
+func Fn492(m *base.Module, l0 int32)
+
+//go:linkname Fn493 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn493
+func Fn493(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn495 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn495
+func Fn495(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn499 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn499
 func Fn499(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn500 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn500
-func Fn500(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn500 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn500
+func Fn500(m *base.Module, l0 int32) int32
 
-//go:linkname Fn502 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn502
-func Fn502(m *base.Module, l0 int32) int32
+//go:linkname Fn503 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn503
+func Fn503(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn508 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn508
-func Fn508(m *base.Module, l0 int32)
+//go:linkname Fn505 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn505
+func Fn505(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn510 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn510
-func Fn510(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn506 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn506
+func Fn506(m *base.Module, l0 int32)
 
-//go:linkname Fn511 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn511
+//go:linkname Fn511 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn511
 func Fn511(m *base.Module, l0 int32)
 
-//go:linkname Fn517 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn517
-func Fn517(m *base.Module, l0 int32)
+//go:linkname Fn513 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn513
+func Fn513(m *base.Module, l0 int32)
 
-//go:linkname Fn538 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn538
-func Fn538(m *base.Module, l0 int32)
+//go:linkname Fn516 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn516
+func Fn516(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn567 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn567
-func Fn567(m *base.Module, l0 int32)
+//go:linkname Fn519 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn519
+func Fn519(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn573 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn573
-func Fn573(m *base.Module, l0 int32)
+//go:linkname Fn521 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn521
+func Fn521(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn577 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn577
-func Fn577(m *base.Module, l0 int32)
+//go:linkname Fn522 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn522
+func Fn522(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn587 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn587
-func Fn587(m *base.Module, l0 int32)
+//go:linkname Fn525 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn525
+func Fn525(m *base.Module, l0 int32)
 
-//go:linkname Fn590 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn590
-func Fn590(m *base.Module, l0 int32)
+//go:linkname Fn527 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn527
+func Fn527(m *base.Module, l0 int32)
 
-//go:linkname Fn630 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn630
-func Fn630(m *base.Module, l0 int32) int32
+//go:linkname Fn533 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn533
+func Fn533(m *base.Module, l0 int32)
 
-//go:linkname Fn631 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn631
-func Fn631(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn534 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn534
+func Fn534(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn641 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn641
-func Fn641(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn535 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn535
+func Fn535(m *base.Module, l0 int32) int32
 
-//go:linkname Fn670 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn670
-func Fn670(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
+//go:linkname Fn536 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn536
+func Fn536(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn673 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn673
-func Fn673(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn537 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn537
+func Fn537(m *base.Module, l0 int32)
+
+//go:linkname Fn538 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn538
+func Fn538(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn539 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn539
+func Fn539(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn542 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn542
+func Fn542(m *base.Module, l0 int32) int32
+
+//go:linkname Fn543 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn543
+func Fn543(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn546 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn546
+func Fn546(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn597 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn597
+func Fn597(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn631 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn631
+func Fn631(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn646 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn646
+func Fn646(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn672 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn672
+func Fn672(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn674 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn674
-func Fn674(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+func Fn674(m *base.Module, l0 int32)
 
-//go:linkname Fn677 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn677
-func Fn677(m *base.Module, l0 int32)
+//go:linkname Fn682 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn682
+func Fn682(m *base.Module, l0 int32)
 
-//go:linkname Fn678 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn678
-func Fn678(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn705 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn705
+func Fn705(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn681 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn681
-func Fn681(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn729 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn729
+func Fn729(m *base.Module, l0 int32) int32
 
-//go:linkname Fn682 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn682
-func Fn682(m *base.Module, l0 int32) int32
+//go:linkname Fn749 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn749
+func Fn749(m *base.Module, l0 int32) int32
 
-//go:linkname Fn683 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn683
-func Fn683(m *base.Module, l0 int32) int32
+//go:linkname Fn795 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn795
+func Fn795(m *base.Module, l0 int32)
 
-//go:linkname Fn684 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn684
-func Fn684(m *base.Module, l0 int64, l1 int64, l2 int32) int32
+//go:linkname Fn813 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn813
+func Fn813(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn714 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn714
-func Fn714(m *base.Module, l0 int32) int32
+//go:linkname Fn814 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn814
+func Fn814(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn715 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn715
-func Fn715(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn816 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn816
+func Fn816(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn721 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn721
-func Fn721(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn817 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn817
+func Fn817(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn738 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn738
-func Fn738(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn818 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn818
+func Fn818(m *base.Module, l0 int32)
 
-//go:linkname Fn768 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn768
-func Fn768(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn819 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn819
+func Fn819(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn798 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn798
-func Fn798(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn820 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn820
+func Fn820(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn800 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn800
-func Fn800(m *base.Module, l0 int32)
+//go:linkname Fn821 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn821
+func Fn821(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn805 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn805
-func Fn805(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn822 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn822
+func Fn822(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn873 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn873
-func Fn873(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn823 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn823
+func Fn823(m *base.Module, l0 int32, l1 int64) int32
 
-//go:linkname Fn906 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn906
-func Fn906(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn825 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn825
+func Fn825(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn925 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn925
-func Fn925(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn831 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn831
+func Fn831(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn978 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn978
-func Fn978(m *base.Module, l0 int32) int32
+//go:linkname Fn839 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn839
+func Fn839(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn1326 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1326
-func Fn1326(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn844 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn844
+func Fn844(m *base.Module, l0 int32)
 
-//go:linkname Fn1392 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1392
-func Fn1392(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn846 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn846
+func Fn846(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn1393 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1393
-func Fn1393(m *base.Module, l0 int32) int32
+//go:linkname Fn870 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn870
+func Fn870(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn1394 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1394
-func Fn1394(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn900 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn900
+func Fn900(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn1395 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1395
-func Fn1395(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn919 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn919
+func Fn919(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn930 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn930
+func Fn930(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn932 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn932
+func Fn932(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn934 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn934
+func Fn934(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn944 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn944
+func Fn944(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn974 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn974
+func Fn974(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn979 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn979
+func Fn979(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn980 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn980
+func Fn980(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn981 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn981
+func Fn981(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn982 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn982
+func Fn982(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn983 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn983
+func Fn983(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn996 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn996
+func Fn996(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn998 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn998
+func Fn998(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1000 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1000
+func Fn1000(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1005 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1005
+func Fn1005(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn1007 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1007
+func Fn1007(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn1013 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1013
+func Fn1013(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn1020 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1020
+func Fn1020(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1025 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1025
+func Fn1025(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1072 github.com/tyzerrr/spanneranalyzerwasm2go/p3.Fn1072
+func Fn1072(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32) int32
+
+//go:linkname Fn1077 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1077
+func Fn1077(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1078 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1078
+func Fn1078(m *base.Module, l0 int32)
+
+//go:linkname Fn1079 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1079
+func Fn1079(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1080 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1080
+func Fn1080(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1081 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1081
+func Fn1081(m *base.Module, l0 int32)
+
+//go:linkname Fn1082 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1082
+func Fn1082(m *base.Module, l0 int32)
+
+//go:linkname Fn1083 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1083
+func Fn1083(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1084 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1084
+func Fn1084(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1093 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1093
+func Fn1093(m *base.Module)
+
+//go:linkname Fn1095 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1095
+func Fn1095(m *base.Module, l0 int32)
+
+//go:linkname Fn1098 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1098
+func Fn1098(m *base.Module, l0 int32)
+
+//go:linkname Fn1099 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1099
+func Fn1099(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1101 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1101
+func Fn1101(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1102 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1102
+func Fn1102(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1103 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1103
+func Fn1103(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1104 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1104
+func Fn1104(m *base.Module, l0 int32)
+
+//go:linkname Fn1105 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1105
+func Fn1105(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1106 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1106
+func Fn1106(m *base.Module, l0 int32)
+
+//go:linkname Fn1107 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1107
+func Fn1107(m *base.Module, l0 int32)
+
+//go:linkname Fn1115 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1115
+func Fn1115(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1133 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1133
+func Fn1133(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1153 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1153
+func Fn1153(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1154 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1154
+func Fn1154(m *base.Module, l0 int32)
+
+//go:linkname Fn1155 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1155
+func Fn1155(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1156 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1156
+func Fn1156(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1157 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1157
+func Fn1157(m *base.Module, l0 int32)
+
+//go:linkname Fn1158 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1158
+func Fn1158(m *base.Module, l0 int32)
+
+//go:linkname Fn1159 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1159
+func Fn1159(m *base.Module, l0 int32)
+
+//go:linkname Fn1162 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1162
+func Fn1162(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1163 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1163
+func Fn1163(m *base.Module, l0 int32)
+
+//go:linkname Fn1164 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1164
+func Fn1164(m *base.Module, l0 int32)
+
+//go:linkname Fn1165 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1165
+func Fn1165(m *base.Module, l0 int32)
+
+//go:linkname Fn1167 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1167
+func Fn1167(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1181 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1181
+func Fn1181(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1183 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1183
+func Fn1183(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1184 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1184
+func Fn1184(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1190 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1190
+func Fn1190(m *base.Module, l0 int32)
+
+//go:linkname Fn1197 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1197
+func Fn1197(m *base.Module, l0 int32)
+
+//go:linkname Fn1230 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1230
+func Fn1230(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1239 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1239
+func Fn1239(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1240 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1240
+func Fn1240(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1241 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1241
+func Fn1241(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1247 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1247
+func Fn1247(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1252 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1252
+func Fn1252(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1254 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1254
+func Fn1254(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1259 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1259
+func Fn1259(m *base.Module, l0 int32)
+
+//go:linkname Fn1260 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1260
+func Fn1260(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1272 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn1272
+func Fn1272(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1290 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1290
+func Fn1290(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1304 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1304
+func Fn1304(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1309 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1309
+func Fn1309(m *base.Module, l0 int32)
+
+//go:linkname Fn1310 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1310
+func Fn1310(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1311 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1311
+func Fn1311(m *base.Module, l0 int32)
+
+//go:linkname Fn1316 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn1316
+func Fn1316(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1317 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1317
+func Fn1317(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn1320 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1320
+func Fn1320(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1327 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn1327
+func Fn1327(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn1337 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1337
+func Fn1337(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1352 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1352
+func Fn1352(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1361 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1361
+func Fn1361(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1364 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1364
+func Fn1364(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1365 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1365
+func Fn1365(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1366 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1366
+func Fn1366(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1367 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1367
+func Fn1367(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1368 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1368
+func Fn1368(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1369 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1369
+func Fn1369(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1370 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1370
+func Fn1370(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1371 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1371
+func Fn1371(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1375 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1375
+func Fn1375(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1376 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1376
+func Fn1376(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1377 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1377
+func Fn1377(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1380 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1380
+func Fn1380(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1384 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1384
+func Fn1384(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1385 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1385
+func Fn1385(m *base.Module, l0 int32)
+
+//go:linkname Fn1386 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1386
+func Fn1386(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1393 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1393
+func Fn1393(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1398 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1398
+func Fn1398(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn1399 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1399
-func Fn1399(m *base.Module, l0 int32)
+func Fn1399(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1404 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1404
-func Fn1404(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn1405 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1405
-func Fn1405(m *base.Module, l0 int32)
-
-//go:linkname Fn1406 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1406
-func Fn1406(m *base.Module, l0 int32) int32
-
-//go:linkname Fn1407 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1407
-func Fn1407(m *base.Module, l0 int32) int32
-
-//go:linkname Fn1409 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1409
-func Fn1409(m *base.Module, l0 int32)
-
-//go:linkname Fn1410 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1410
-func Fn1410(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn1411 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1411
-func Fn1411(m *base.Module, l0 int32) int32
-
-//go:linkname Fn1412 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1412
-func Fn1412(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn1413 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1413
-func Fn1413(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn1414 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1414
-func Fn1414(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn1415 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1415
-func Fn1415(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn1418 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1418
-func Fn1418(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn1415 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1415
+func Fn1415(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn1419 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1419
 func Fn1419(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1420 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn1420
-func Fn1420(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn1428 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1428
+func Fn1428(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1422 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1422
-func Fn1422(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn1431 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1431
+func Fn1431(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1423 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn1423
-func Fn1423(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn1424 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1424
-func Fn1424(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn1427 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn1427
-func Fn1427(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn1428 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1428
-func Fn1428(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn1429 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1429
-func Fn1429(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn1430 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1430
-func Fn1430(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn1432 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1432
-func Fn1432(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn1433 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1433
-func Fn1433(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn1434 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1434
-func Fn1434(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn1435 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1435
-func Fn1435(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn1436 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1436
-func Fn1436(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn1436 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1436
+func Fn1436(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn1437 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1437
-func Fn1437(m *base.Module, l0 int32, l1 int32)
+func Fn1437(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn1438 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1438
-func Fn1438(m *base.Module, l0 int32, l1 int32)
+func Fn1438(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn1439 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1439
 func Fn1439(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1440 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1440
-func Fn1440(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn1447 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1447
+func Fn1447(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1441 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1441
-func Fn1441(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn1442 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1442
-func Fn1442(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn1443 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1443
-func Fn1443(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn1447 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1447
-func Fn1447(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn1448 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1448
+func Fn1448(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn1449 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1449
-func Fn1449(m *base.Module, l0 int32)
+func Fn1449(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1450 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1450
-func Fn1450(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn1450 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1450
+func Fn1450(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1451 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1451
+func Fn1451(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn1452 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1452
-func Fn1452(m *base.Module, l0 int32)
+func Fn1452(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1455 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1455
+func Fn1455(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1467 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1467
+func Fn1467(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1468 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1468
+func Fn1468(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1469 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1469
+func Fn1469(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1471 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1471
+func Fn1471(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1472 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1472
+func Fn1472(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1473 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1473
+func Fn1473(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1474 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1474
+func Fn1474(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1475 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1475
+func Fn1475(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1476 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1476
+func Fn1476(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1477 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1477
+func Fn1477(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1478 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1478
+func Fn1478(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1479 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1479
+func Fn1479(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1480 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1480
+func Fn1480(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1481 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1481
+func Fn1481(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1482 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1482
+func Fn1482(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1483 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1483
+func Fn1483(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1484 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1484
+func Fn1484(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1485 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1485
+func Fn1485(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1486 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1486
+func Fn1486(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1487 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1487
+func Fn1487(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1488 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1488
+func Fn1488(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1489 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1489
+func Fn1489(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1490 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1490
+func Fn1490(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1491 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1491
+func Fn1491(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1492 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1492
+func Fn1492(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1493 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1493
+func Fn1493(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1494 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1494
+func Fn1494(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1495 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1495
+func Fn1495(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1496 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1496
+func Fn1496(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1497 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1497
+func Fn1497(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1498 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1498
+func Fn1498(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1499 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1499
+func Fn1499(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1500 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1500
+func Fn1500(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1501 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1501
+func Fn1501(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1502 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1502
+func Fn1502(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1503 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1503
+func Fn1503(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1504 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1504
+func Fn1504(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1505 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1505
+func Fn1505(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1506 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1506
+func Fn1506(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1507 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1507
+func Fn1507(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1508 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1508
+func Fn1508(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn1510 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1510
-func Fn1510(m *base.Module, l0 int32, l1 int32)
+func Fn1510(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1522 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1522
-func Fn1522(m *base.Module, l0 int32)
+//go:linkname Fn1511 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1511
+func Fn1511(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1524 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1524
-func Fn1524(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn1512 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1512
+func Fn1512(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1563 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1563
-func Fn1563(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn1513 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1513
+func Fn1513(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1514 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1514
+func Fn1514(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1515 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1515
+func Fn1515(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1516 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1516
+func Fn1516(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1517 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1517
+func Fn1517(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1518 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1518
+func Fn1518(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1519 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1519
+func Fn1519(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1520 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1520
+func Fn1520(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1521 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1521
+func Fn1521(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1522 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1522
+func Fn1522(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1523 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1523
+func Fn1523(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1524 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1524
+func Fn1524(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1525 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1525
+func Fn1525(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1526 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1526
+func Fn1526(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1527 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1527
+func Fn1527(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1528 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1528
+func Fn1528(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1529 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1529
+func Fn1529(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1530 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1530
+func Fn1530(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1531 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1531
+func Fn1531(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1532 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1532
+func Fn1532(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1533 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1533
+func Fn1533(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1534 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1534
+func Fn1534(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1535 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1535
+func Fn1535(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1536 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1536
+func Fn1536(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1537 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1537
+func Fn1537(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1538 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1538
+func Fn1538(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1539 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1539
+func Fn1539(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1540 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1540
+func Fn1540(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1541 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1541
+func Fn1541(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1542 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1542
+func Fn1542(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1543 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1543
+func Fn1543(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1544 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1544
+func Fn1544(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1545 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1545
+func Fn1545(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1546 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1546
+func Fn1546(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1547 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1547
+func Fn1547(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1548 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1548
+func Fn1548(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1549 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1549
+func Fn1549(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1550 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1550
+func Fn1550(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1551 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1551
+func Fn1551(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1552 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1552
+func Fn1552(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1553 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1553
+func Fn1553(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1554 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1554
+func Fn1554(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1555 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1555
+func Fn1555(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1556 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1556
+func Fn1556(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1557 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1557
+func Fn1557(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1558 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1558
+func Fn1558(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1559 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1559
+func Fn1559(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1560 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1560
+func Fn1560(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1561 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1561
+func Fn1561(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1562 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1562
+func Fn1562(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1563 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1563
+func Fn1563(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1564 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1564
+func Fn1564(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1565 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1565
+func Fn1565(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1566 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1566
+func Fn1566(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1567 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1567
+func Fn1567(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1568 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1568
+func Fn1568(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1569 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1569
+func Fn1569(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1570 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1570
+func Fn1570(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1571 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1571
+func Fn1571(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1572 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1572
+func Fn1572(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1573 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1573
+func Fn1573(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1574 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1574
+func Fn1574(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1575 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1575
+func Fn1575(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn1576 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1576
-func Fn1576(m *base.Module, l0 int32)
+func Fn1576(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1577 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1577
+func Fn1577(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1578 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1578
+func Fn1578(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1579 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1579
+func Fn1579(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn1580 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1580
-func Fn1580(m *base.Module, l0 int32)
+func Fn1580(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1583 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1583
-func Fn1583(m *base.Module, l0 int32)
+//go:linkname Fn1581 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1581
+func Fn1581(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1586 github.com/tyzerrr/spanneranalyzerwasm2go/p2.Fn1586
-func Fn1586(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn1582 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1582
+func Fn1582(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1591 github.com/tyzerrr/spanneranalyzerwasm2go/p2.Fn1591
-func Fn1591(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn1583 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1583
+func Fn1583(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1632 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1632
-func Fn1632(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn1584 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1584
+func Fn1584(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1638 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1638
-func Fn1638(m *base.Module, l0 int32)
+//go:linkname Fn1585 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1585
+func Fn1585(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1666 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1666
-func Fn1666(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn1586 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1586
+func Fn1586(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn1691 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1691
+//go:linkname Fn1587 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1587
+func Fn1587(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1588 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1588
+func Fn1588(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1589 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1589
+func Fn1589(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1590 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1590
+func Fn1590(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1591 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1591
+func Fn1591(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1592 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1592
+func Fn1592(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1593 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1593
+func Fn1593(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1594 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1594
+func Fn1594(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1595 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1595
+func Fn1595(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1596 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1596
+func Fn1596(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1597 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1597
+func Fn1597(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1598 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1598
+func Fn1598(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1599 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1599
+func Fn1599(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1600 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1600
+func Fn1600(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1601 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1601
+func Fn1601(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1602 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1602
+func Fn1602(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1603 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1603
+func Fn1603(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1604 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1604
+func Fn1604(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1605 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1605
+func Fn1605(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1606 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1606
+func Fn1606(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1607 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1607
+func Fn1607(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1608 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1608
+func Fn1608(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1609 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1609
+func Fn1609(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1610 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1610
+func Fn1610(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1611 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1611
+func Fn1611(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1612 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1612
+func Fn1612(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1613 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1613
+func Fn1613(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1614 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1614
+func Fn1614(m *base.Module, l0 int32)
+
+//go:linkname Fn1616 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1616
+func Fn1616(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1617 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1617
+func Fn1617(m *base.Module, l0 int32)
+
+//go:linkname Fn1618 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1618
+func Fn1618(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1621 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1621
+func Fn1621(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1631 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn1631
+func Fn1631(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1634 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1634
+func Fn1634(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1635 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1635
+func Fn1635(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1639 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1639
+func Fn1639(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn1640 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn1640
+func Fn1640(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1647 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn1647
+func Fn1647(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1648 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn1648
+func Fn1648(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1650 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1650
+func Fn1650(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1651 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1651
+func Fn1651(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1652 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1652
+func Fn1652(m *base.Module, l0 int32)
+
+//go:linkname Fn1656 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1656
+func Fn1656(m *base.Module, l0 int32)
+
+//go:linkname Fn1657 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1657
+func Fn1657(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1658 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1658
+func Fn1658(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1659 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1659
+func Fn1659(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1661 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1661
+func Fn1661(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1662 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn1662
+func Fn1662(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1663 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1663
+func Fn1663(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1664 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1664
+func Fn1664(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1667 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1667
+func Fn1667(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1668 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1668
+func Fn1668(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1669 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1669
+func Fn1669(m *base.Module, l0 int32)
+
+//go:linkname Fn1670 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1670
+func Fn1670(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1671 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1671
+func Fn1671(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1672 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1672
+func Fn1672(m *base.Module, l0 int32)
+
+//go:linkname Fn1674 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1674
+func Fn1674(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1675 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1675
+func Fn1675(m *base.Module, l0 int32)
+
+//go:linkname Fn1676 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1676
+func Fn1676(m *base.Module, l0 int32)
+
+//go:linkname Fn1677 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1677
+func Fn1677(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1684 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1684
+func Fn1684(m *base.Module, l0 int32)
+
+//go:linkname Fn1685 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1685
+func Fn1685(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1687 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1687
+func Fn1687(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1688 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1688
+func Fn1688(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1691 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1691
 func Fn1691(m *base.Module, l0 int32, l1 int32) int32
 
+//go:linkname Fn1692 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1692
+func Fn1692(m *base.Module, l0 int32)
+
+//go:linkname Fn1699 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1699
+func Fn1699(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1700 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1700
+func Fn1700(m *base.Module, l0 int32, l1 int32)
+
 //go:linkname Fn1701 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1701
-func Fn1701(m *base.Module, l0 int32, l1 int32)
+func Fn1701(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn1923 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1923
-func Fn1923(m *base.Module, l0 int32) int32
+//go:linkname Fn1702 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn1702
+func Fn1702(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn2165 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2165
-func Fn2165(m *base.Module, l0 int32) int32
+//go:linkname Fn1704 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1704
+func Fn1704(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
 
-//go:linkname Fn2187 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2187
-func Fn2187(m *base.Module, l0 int32)
+//go:linkname Fn1705 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn1705
+func Fn1705(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn2211 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2211
-func Fn2211(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn1708 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn1708
+func Fn1708(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2214 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2214
-func Fn2214(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn1709 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1709
+func Fn1709(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1710 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1710
+func Fn1710(m *base.Module, l0 int32)
+
+//go:linkname Fn1711 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1711
+func Fn1711(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1712 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1712
+func Fn1712(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1715 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1715
+func Fn1715(m *base.Module, l0 int32)
+
+//go:linkname Fn1716 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn1716
+func Fn1716(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn1721 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1721
+func Fn1721(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1777 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1777
+func Fn1777(m *base.Module, l0 int32)
+
+//go:linkname Fn1787 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1787
+func Fn1787(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1788 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1788
+func Fn1788(m *base.Module, l0 int32)
+
+//go:linkname Fn1810 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1810
+func Fn1810(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1818 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1818
+func Fn1818(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+
+//go:linkname Fn1823 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1823
+func Fn1823(m *base.Module, l0 int32) int64
+
+//go:linkname Fn1824 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn1824
+func Fn1824(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn1827 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1827
+func Fn1827(m *base.Module, l0 int64, l1 int32, l2 int32) int32
+
+//go:linkname Fn1831 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn1831
+func Fn1831(m *base.Module, l0 int32) int32
+
+//go:linkname Fn1833 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1833
+func Fn1833(m *base.Module, l0 int32)
+
+//go:linkname Fn1837 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1837
+func Fn1837(m *base.Module, l0 int64, l1 int32, l2 int32, l3 int64, l4 int32, l5 int32) int64
+
+//go:linkname Fn1852 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1852
+func Fn1852(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+
+//go:linkname Fn1866 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1866
+func Fn1866(m *base.Module, l0 int32, l1 int64, l2 int32)
+
+//go:linkname Fn1868 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1868
+func Fn1868(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1897 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1897
+func Fn1897(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+
+//go:linkname Fn1898 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1898
+func Fn1898(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn1903 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn1903
+func Fn1903(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn1904 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn1904
+func Fn1904(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1908 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn1908
+func Fn1908(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn1911 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1911
+func Fn1911(m *base.Module, l0 int32, l1 int64, l2 int32, l3 int32)
+
+//go:linkname Fn1924 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1924
+func Fn1924(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn1926 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn1926
+func Fn1926(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn1948 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1948
+func Fn1948(m *base.Module, l0 int32, l1 int64)
+
+//go:linkname Fn1956 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1956
+func Fn1956(m *base.Module, l0 int32, l1 int64)
+
+//go:linkname Fn1957 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn1957
+func Fn1957(m *base.Module, l0 int32, l1 int64, l2 int64)
+
+//go:linkname Fn1970 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn1970
+func Fn1970(m *base.Module, l0 int32, l1 int64, l2 int64) int32
+
+//go:linkname Fn2004 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2004
+func Fn2004(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2020 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn2020
+func Fn2020(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn2081 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2081
+func Fn2081(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn2124 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2124
+func Fn2124(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn2143 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2143
+func Fn2143(m *base.Module, l0 int32) int32
+
+//go:linkname Fn2147 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2147
+func Fn2147(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2148 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2148
+func Fn2148(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn2149 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2149
+func Fn2149(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn2150 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2150
+func Fn2150(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2151 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2151
+func Fn2151(m *base.Module, l0 int32)
+
+//go:linkname Fn2156 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn2156
+func Fn2156(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn2173 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2173
+func Fn2173(m *base.Module, l0 int32) int32
+
+//go:linkname Fn2178 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2178
+func Fn2178(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2191 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2191
+func Fn2191(m *base.Module, l0 int32) int32
+
+//go:linkname Fn2192 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2192
+func Fn2192(m *base.Module, l0 int32)
+
+//go:linkname Fn2201 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2201
+func Fn2201(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn2204 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2204
+func Fn2204(m *base.Module, l0 int32) int32
+
+//go:linkname Fn2214 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2214
+func Fn2214(m *base.Module, l0 int32)
 
 //go:linkname Fn2215 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2215
 func Fn2215(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn2220 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2220
-func Fn2220(m *base.Module, l0 int32)
+//go:linkname Fn2217 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2217
+func Fn2217(m *base.Module, l0 int32)
 
-//go:linkname Fn2227 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2227
-func Fn2227(m *base.Module, l0 int32) int32
+//go:linkname Fn2227 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2227
+func Fn2227(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn2247 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2247
-func Fn2247(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn2228 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2228
+func Fn2228(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn2254 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2254
-func Fn2254(m *base.Module, l0 int32) int32
+//go:linkname Fn2231 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2231
+func Fn2231(m *base.Module, l0 int32)
 
-//go:linkname Fn2255 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2255
-func Fn2255(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn2235 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2235
+func Fn2235(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn2265 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2265
-func Fn2265(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn2236 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2236
+func Fn2236(m *base.Module, l0 int32)
 
-//go:linkname Fn2266 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2266
-func Fn2266(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn2237 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2237
+func Fn2237(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2272 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2272
-func Fn2272(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn2238 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2238
+func Fn2238(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn2285 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2285
-func Fn2285(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn2239 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn2239
+func Fn2239(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn2309 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2309
-func Fn2309(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2241 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn2241
+func Fn2241(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn2310 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2310
-func Fn2310(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2248 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2248
+func Fn2248(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn2314 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2314
-func Fn2314(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2263 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2263
+func Fn2263(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn2348 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2348
+//go:linkname Fn2286 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2286
+func Fn2286(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn2296 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2296
+func Fn2296(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn2299 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2299
+func Fn2299(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn2307 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2307
+func Fn2307(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn2313 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2313
+func Fn2313(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2314 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn2314
+func Fn2314(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn2317 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn2317
+func Fn2317(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn2337 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2337
+func Fn2337(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+
+//go:linkname Fn2347 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2347
+func Fn2347(m *base.Module, l0 int32)
+
+//go:linkname Fn2348 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2348
 func Fn2348(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn2369 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2369
-func Fn2369(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2350 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2350
+func Fn2350(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2370 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2370
-func Fn2370(m *base.Module, l0 int32)
+//go:linkname Fn2352 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2352
+func Fn2352(m *base.Module, l0 int32)
 
-//go:linkname Fn2428 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2428
-func Fn2428(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn2353 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2353
+func Fn2353(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn2429 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2429
-func Fn2429(m *base.Module, l0 int32) int32
+//go:linkname Fn2354 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2354
+func Fn2354(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn2431 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2431
-func Fn2431(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn2355 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2355
+func Fn2355(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn2433 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2433
-func Fn2433(m *base.Module, l0 int32) int32
+//go:linkname Fn2375 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2375
+func Fn2375(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2435 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2435
-func Fn2435(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn2382 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2382
+func Fn2382(m *base.Module, l0 int32)
 
-//go:linkname Fn2482 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2482
-func Fn2482(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn2387 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2387
+func Fn2387(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2486 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2486
-func Fn2486(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn2399 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2399
+func Fn2399(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2493 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2493
-func Fn2493(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn2400 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2400
+func Fn2400(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn2572 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2572
-func Fn2572(m *base.Module, l0 int32)
+//go:linkname Fn2413 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn2413
+func Fn2413(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
 
-//go:linkname Fn2580 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2580
-func Fn2580(m *base.Module, l0 int32) int32
+//go:linkname Fn2414 github.com/tyzerrr/spanneranalyzerwasm2go/p2.Fn2414
+func Fn2414(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn2686 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2686
-func Fn2686(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2419 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2419
+func Fn2419(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2694 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2694
-func Fn2694(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn2427 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2427
+func Fn2427(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn2695 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2695
-func Fn2695(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn2431 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2431
+func Fn2431(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn2730 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2730
-func Fn2730(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn2432 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2432
+func Fn2432(m *base.Module, l0 int32)
 
-//go:linkname Fn2735 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2735
-func Fn2735(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2468 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2468
+func Fn2468(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2779 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2779
-func Fn2779(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2470 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2470
+func Fn2470(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2780 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2780
-func Fn2780(m *base.Module, l0 int32)
+//go:linkname Fn2520 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2520
+func Fn2520(m *base.Module) int32
 
-//go:linkname Fn2781 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2781
-func Fn2781(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2522 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2522
+func Fn2522(m *base.Module, l0 int32)
 
-//go:linkname Fn2783 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2783
-func Fn2783(m *base.Module, l0 int32)
+//go:linkname Fn2523 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2523
+func Fn2523(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn2786 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2786
-func Fn2786(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn2524 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2524
+func Fn2524(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn2796 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2796
-func Fn2796(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn2529 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2529
+func Fn2529(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn2797 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2797
-func Fn2797(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn2533 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2533
+func Fn2533(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn2819 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2819
-func Fn2819(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2534 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2534
+func Fn2534(m *base.Module, l0 int32)
 
-//go:linkname Fn2837 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2837
-func Fn2837(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2537 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2537
+func Fn2537(m *base.Module, l0 int32)
 
-//go:linkname Fn2840 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2840
-func Fn2840(m *base.Module, l0 int32)
+//go:linkname Fn2548 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2548
+func Fn2548(m *base.Module, l0 int32, l1 int64) int32
 
-//go:linkname Fn2842 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2842
-func Fn2842(m *base.Module, l0 int32)
+//go:linkname Fn2603 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2603
+func Fn2603(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn2890 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2890
-func Fn2890(m *base.Module, l0 int32)
+//go:linkname Fn2604 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2604
+func Fn2604(m *base.Module, l0 int32)
 
-//go:linkname Fn2901 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2901
-func Fn2901(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn2609 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2609
+func Fn2609(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn2907 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2907
-func Fn2907(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2638 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2638
+func Fn2638(m *base.Module, l0 int32)
 
-//go:linkname Fn2908 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2908
-func Fn2908(m *base.Module, l0 int32)
+//go:linkname Fn2639 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2639
+func Fn2639(m *base.Module, l0 int32)
 
-//go:linkname Fn2909 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2909
-func Fn2909(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn2640 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2640
+func Fn2640(m *base.Module, l0 int32)
 
-//go:linkname Fn2920 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn2920
-func Fn2920(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn2643 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2643
+func Fn2643(m *base.Module, l0 int32)
 
-//go:linkname Fn2927 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2927
-func Fn2927(m *base.Module, l0 int32, l1 int64) int32
+//go:linkname Fn2644 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2644
+func Fn2644(m *base.Module, l0 int32)
 
-//go:linkname Fn2938 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2938
-func Fn2938(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn2645 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2645
+func Fn2645(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2698 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2698
+func Fn2698(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2699 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2699
+func Fn2699(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2700 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2700
+func Fn2700(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2703 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2703
+func Fn2703(m *base.Module, l0 int32)
+
+//go:linkname Fn2705 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2705
+func Fn2705(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2728 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2728
+func Fn2728(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn2760 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2760
+func Fn2760(m *base.Module) int32
+
+//go:linkname Fn2832 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2832
+func Fn2832(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn2847 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2847
+func Fn2847(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn2851 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2851
+func Fn2851(m *base.Module, l0 int32) int32
+
+//go:linkname Fn2853 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2853
+func Fn2853(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn2854 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2854
+func Fn2854(m *base.Module, l0 int32)
+
+//go:linkname Fn2859 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2859
+func Fn2859(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn2863 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2863
+func Fn2863(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn2864 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2864
+func Fn2864(m *base.Module, l0 int32)
+
+//go:linkname Fn2867 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2867
+func Fn2867(m *base.Module, l0 int32) int32
+
+//go:linkname Fn2868 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2868
+func Fn2868(m *base.Module, l0 int32)
+
+//go:linkname Fn2875 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2875
+func Fn2875(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn2877 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2877
+func Fn2877(m *base.Module, l0 int32)
+
+//go:linkname Fn2881 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2881
+func Fn2881(m *base.Module, l0 int32) int32
+
+//go:linkname Fn2882 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2882
+func Fn2882(m *base.Module, l0 int32)
+
+//go:linkname Fn2883 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2883
+func Fn2883(m *base.Module, l0 int32)
+
+//go:linkname Fn2889 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2889
+func Fn2889(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2890 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2890
+func Fn2890(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn2891 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2891
+func Fn2891(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn2892 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2892
+func Fn2892(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2893 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2893
+func Fn2893(m *base.Module, l0 int32)
+
+//go:linkname Fn2914 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2914
+func Fn2914(m *base.Module, l0 int32) int32
+
+//go:linkname Fn2915 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2915
+func Fn2915(m *base.Module, l0 int32)
+
+//go:linkname Fn2934 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2934
+func Fn2934(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn2935 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2935
+func Fn2935(m *base.Module, l0 int32)
+
+//go:linkname Fn2939 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2939
+func Fn2939(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn2941 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2941
+func Fn2941(m *base.Module, l0 int32)
 
 //go:linkname Fn2942 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2942
-func Fn2942(m *base.Module, l0 int32, l1 int32) int32
+func Fn2942(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2951 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2951
-func Fn2951(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2943 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2943
+func Fn2943(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2952 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2952
-func Fn2952(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2944 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn2944
+func Fn2944(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn2954 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2954
-func Fn2954(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2958 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2958
+func Fn2958(m *base.Module, l0 int32)
 
-//go:linkname Fn2964 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2964
-func Fn2964(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn2960 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn2960
+func Fn2960(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2965 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2965
-func Fn2965(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2961 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2961
+func Fn2961(m *base.Module, l0 int32) int32
 
-//go:linkname Fn2966 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2966
-func Fn2966(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn2965 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2965
+func Fn2965(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn2968 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2968
-func Fn2968(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2968 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2968
+func Fn2968(m *base.Module, l0 int32)
 
-//go:linkname Fn2969 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2969
-func Fn2969(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn2972 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2972
+func Fn2972(m *base.Module, l0 int32)
 
-//go:linkname Fn2970 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2970
-func Fn2970(m *base.Module, l0 int32)
+//go:linkname Fn2974 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2974
+func Fn2974(m *base.Module, l0 int32)
 
-//go:linkname Fn2983 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn2983
-func Fn2983(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn2975 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2975
+func Fn2975(m *base.Module, l0 int32)
 
-//go:linkname Fn3135 github.com/tyzerrr/spanneranalyzerwasm2go/p2.Fn3135
-func Fn3135(m *base.Module, l0 int32)
+//go:linkname Fn2976 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2976
+func Fn2976(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn3147 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3147
-func Fn3147(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn2977 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2977
+func Fn2977(m *base.Module, l0 int32) int32
 
-//go:linkname Fn3158 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3158
-func Fn3158(m *base.Module, l0 int32)
+//go:linkname Fn2978 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn2978
+func Fn2978(m *base.Module, l0 int32)
 
-//go:linkname Fn3186 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3186
-func Fn3186(m *base.Module, l0 int32)
+//go:linkname Fn2993 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2993
+func Fn2993(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn3191 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn3191
-func Fn3191(m *base.Module, l0 int32)
+//go:linkname Fn2996 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn2996
+func Fn2996(m *base.Module, l0 int32)
 
-//go:linkname Fn3193 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3193
-func Fn3193(m *base.Module, l0 int32) int32
+//go:linkname Fn3006 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3006
+func Fn3006(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3027 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3027
+func Fn3027(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3031 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3031
+func Fn3031(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3034 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3034
+func Fn3034(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3035 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3035
+func Fn3035(m *base.Module, l0 int32)
+
+//go:linkname Fn3036 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3036
+func Fn3036(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3039 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3039
+func Fn3039(m *base.Module, l0 int32)
+
+//go:linkname Fn3050 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn3050
+func Fn3050(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3063 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3063
+func Fn3063(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3066 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3066
+func Fn3066(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3071 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3071
+func Fn3071(m *base.Module, l0 int32)
+
+//go:linkname Fn3073 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3073
+func Fn3073(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3074 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3074
+func Fn3074(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3075 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3075
+func Fn3075(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3076 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3076
+func Fn3076(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3077 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3077
+func Fn3077(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3078 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3078
+func Fn3078(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3079 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3079
+func Fn3079(m *base.Module, l0 int32)
+
+//go:linkname Fn3081 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3081
+func Fn3081(m *base.Module, l0 int32)
+
+//go:linkname Fn3098 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3098
+func Fn3098(m *base.Module, l0 int32)
+
+//go:linkname Fn3105 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3105
+func Fn3105(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3114 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3114
+func Fn3114(m *base.Module, l0 int32)
+
+//go:linkname Fn3115 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3115
+func Fn3115(m *base.Module, l0 int32)
+
+//go:linkname Fn3130 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3130
+func Fn3130(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3134 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3134
+func Fn3134(m *base.Module, l0 int32)
+
+//go:linkname Fn3140 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3140
+func Fn3140(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3141 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3141
+func Fn3141(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3146 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3146
+func Fn3146(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3147 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3147
+func Fn3147(m *base.Module, l0 int32)
+
+//go:linkname Fn3149 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3149
+func Fn3149(m *base.Module, l0 int32)
+
+//go:linkname Fn3163 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3163
+func Fn3163(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3168 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3168
+func Fn3168(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3181 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3181
+func Fn3181(m *base.Module, l0 int32)
+
+//go:linkname Fn3182 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3182
+func Fn3182(m *base.Module) int32
+
+//go:linkname Fn3183 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3183
+func Fn3183(m *base.Module, l0 int32)
+
+//go:linkname Fn3185 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3185
+func Fn3185(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3187 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3187
+func Fn3187(m *base.Module, l0 int32)
+
+//go:linkname Fn3194 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3194
+func Fn3194(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3195 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3195
+func Fn3195(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3196 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3196
+func Fn3196(m *base.Module, l0 int32)
+
+//go:linkname Fn3199 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3199
+func Fn3199(m *base.Module, l0 int32) int32
 
 //go:linkname Fn3200 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3200
 func Fn3200(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn3322 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3322
-func Fn3322(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn3201 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3201
+func Fn3201(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn3323 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3323
-func Fn3323(m *base.Module, l0 int32) int32
+//go:linkname Fn3202 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3202
+func Fn3202(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn3362 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3362
-func Fn3362(m *base.Module, l0 int32) int32
+//go:linkname Fn3203 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3203
+func Fn3203(m *base.Module, l0 int32)
 
-//go:linkname Fn3400 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3400
-func Fn3400(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn3204 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3204
+func Fn3204(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn3402 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3402
-func Fn3402(m *base.Module, l0 int32) int32
+//go:linkname Fn3208 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3208
+func Fn3208(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn3439 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3439
-func Fn3439(m *base.Module, l0 int32) int32
+//go:linkname Fn3209 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3209
+func Fn3209(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn3534 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3534
-func Fn3534(m *base.Module, l0 int32)
+//go:linkname Fn3211 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3211
+func Fn3211(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3212 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3212
+func Fn3212(m *base.Module, l0 int32)
+
+//go:linkname Fn3213 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3213
+func Fn3213(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3214 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3214
+func Fn3214(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3218 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3218
+func Fn3218(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3219 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3219
+func Fn3219(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3220 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3220
+func Fn3220(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3221 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3221
+func Fn3221(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3222 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3222
+func Fn3222(m *base.Module, l0 int32)
+
+//go:linkname Fn3226 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3226
+func Fn3226(m *base.Module, l0 int32)
+
+//go:linkname Fn3230 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3230
+func Fn3230(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3231 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3231
+func Fn3231(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3232 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3232
+func Fn3232(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3233 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3233
+func Fn3233(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3235 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3235
+func Fn3235(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3240 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3240
+func Fn3240(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3241 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3241
+func Fn3241(m *base.Module, l0 int32)
+
+//go:linkname Fn3243 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3243
+func Fn3243(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3244 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3244
+func Fn3244(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3249 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3249
+func Fn3249(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3250 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3250
+func Fn3250(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3252 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3252
+func Fn3252(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3254 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3254
+func Fn3254(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3255 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3255
+func Fn3255(m *base.Module, l0 int32)
+
+//go:linkname Fn3256 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3256
+func Fn3256(m *base.Module, l0 int32)
+
+//go:linkname Fn3257 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3257
+func Fn3257(m *base.Module, l0 int32)
+
+//go:linkname Fn3259 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3259
+func Fn3259(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3260 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3260
+func Fn3260(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn3261 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3261
+func Fn3261(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3262 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3262
+func Fn3262(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3270 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3270
+func Fn3270(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3275 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3275
+func Fn3275(m *base.Module, l0 int32)
+
+//go:linkname Fn3276 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3276
+func Fn3276(m *base.Module, l0 int32)
+
+//go:linkname Fn3277 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3277
+func Fn3277(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3279 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3279
+func Fn3279(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3289 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3289
+func Fn3289(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3295 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3295
+func Fn3295(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+
+//go:linkname Fn3298 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3298
+func Fn3298(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3300 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3300
+func Fn3300(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3301 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3301
+func Fn3301(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3302 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3302
+func Fn3302(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3303 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3303
+func Fn3303(m *base.Module, l0 int32)
+
+//go:linkname Fn3305 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3305
+func Fn3305(m *base.Module, l0 int32)
+
+//go:linkname Fn3313 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3313
+func Fn3313(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3321 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn3321
+func Fn3321(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3328 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3328
+func Fn3328(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3330 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3330
+func Fn3330(m *base.Module, l0 int32)
+
+//go:linkname Fn3331 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3331
+func Fn3331(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3332 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3332
+func Fn3332(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3335 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3335
+func Fn3335(m *base.Module, l0 int32)
+
+//go:linkname Fn3336 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3336
+func Fn3336(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3338 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3338
+func Fn3338(m *base.Module, l0 int32)
+
+//go:linkname Fn3339 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3339
+func Fn3339(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32) int32
+
+//go:linkname Fn3340 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3340
+func Fn3340(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3341 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3341
+func Fn3341(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3345 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3345
+func Fn3345(m *base.Module, l0 int32)
+
+//go:linkname Fn3346 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3346
+func Fn3346(m *base.Module, l0 int32)
+
+//go:linkname Fn3347 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3347
+func Fn3347(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3349 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3349
+func Fn3349(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3354 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3354
+func Fn3354(m *base.Module, l0 int32)
+
+//go:linkname Fn3359 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3359
+func Fn3359(m *base.Module, l0 int32)
+
+//go:linkname Fn3360 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3360
+func Fn3360(m *base.Module, l0 int32)
+
+//go:linkname Fn3362 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn3362
+func Fn3362(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32) int32
+
+//go:linkname Fn3368 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3368
+func Fn3368(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3369 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3369
+func Fn3369(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3370 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3370
+func Fn3370(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3371 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3371
+func Fn3371(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3377 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3377
+func Fn3377(m *base.Module, l0 int32)
+
+//go:linkname Fn3382 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3382
+func Fn3382(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3383 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3383
+func Fn3383(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3385 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3385
+func Fn3385(m *base.Module, l0 int32)
+
+//go:linkname Fn3388 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3388
+func Fn3388(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3397 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3397
+func Fn3397(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3402 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3402
+func Fn3402(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3403 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3403
+func Fn3403(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3404 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3404
+func Fn3404(m *base.Module, l0 int32)
+
+//go:linkname Fn3407 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3407
+func Fn3407(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3408 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3408
+func Fn3408(m *base.Module, l0 int32)
+
+//go:linkname Fn3409 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3409
+func Fn3409(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3421 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3421
+func Fn3421(m *base.Module, l0 int32)
+
+//go:linkname Fn3423 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3423
+func Fn3423(m *base.Module, l0 int32)
+
+//go:linkname Fn3428 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3428
+func Fn3428(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3430 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn3430
+func Fn3430(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32) int32
+
+//go:linkname Fn3431 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3431
+func Fn3431(m *base.Module, l0 int32)
+
+//go:linkname Fn3433 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3433
+func Fn3433(m *base.Module, l0 int32)
+
+//go:linkname Fn3434 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3434
+func Fn3434(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3461 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3461
+func Fn3461(m *base.Module, l0 int32)
+
+//go:linkname Fn3463 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3463
+func Fn3463(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3473 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3473
+func Fn3473(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3477 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3477
+func Fn3477(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3483 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3483
+func Fn3483(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3485 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3485
+func Fn3485(m *base.Module, l0 int32)
+
+//go:linkname Fn3486 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3486
+func Fn3486(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3496 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3496
+func Fn3496(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn3503 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3503
+func Fn3503(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3509 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn3509
+func Fn3509(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3511 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn3511
+func Fn3511(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn3516 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3516
+func Fn3516(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3519 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3519
+func Fn3519(m *base.Module, l0 int32)
+
+//go:linkname Fn3523 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3523
+func Fn3523(m *base.Module, l0 int32, l1 int32)
 
 //go:linkname Fn3535 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3535
-func Fn3535(m *base.Module, l0 int32, l1 int32) int32
+func Fn3535(m *base.Module, l0 int32)
 
-//go:linkname Fn3722 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3722
-func Fn3722(m *base.Module, l0 int32)
+//go:linkname Fn3542 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3542
+func Fn3542(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn3729 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3729
-func Fn3729(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn3546 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3546
+func Fn3546(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn3737 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3737
-func Fn3737(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn3549 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3549
+func Fn3549(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn3757 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3757
-func Fn3757(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn3550 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3550
+func Fn3550(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn3758 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3758
-func Fn3758(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn3551 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3551
+func Fn3551(m *base.Module, l0 int32)
 
-//go:linkname Fn3762 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3762
-func Fn3762(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn3552 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3552
+func Fn3552(m *base.Module, l0 int32) int32
 
-//go:linkname Fn3894 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn3894
-func Fn3894(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn3553 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3553
+func Fn3553(m *base.Module)
 
-//go:linkname Fn3907 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3907
-func Fn3907(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn3556 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3556
+func Fn3556(m *base.Module, l0 int32) int32
 
-//go:linkname Fn3908 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3908
-func Fn3908(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn3557 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3557
+func Fn3557(m *base.Module, l0 int32) int32
 
-//go:linkname Fn3912 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3912
-func Fn3912(m *base.Module, l0 int32)
+//go:linkname Fn3559 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3559
+func Fn3559(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn3914 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3914
-func Fn3914(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn3560 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3560
+func Fn3560(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3576 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3576
+func Fn3576(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3581 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3581
+func Fn3581(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3582 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3582
+func Fn3582(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3585 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3585
+func Fn3585(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3586 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3586
+func Fn3586(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3588 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3588
+func Fn3588(m *base.Module, l0 int32)
+
+//go:linkname Fn3590 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn3590
+func Fn3590(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3594 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3594
+func Fn3594(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn3596 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3596
+func Fn3596(m *base.Module, l0 int32)
+
+//go:linkname Fn3597 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3597
+func Fn3597(m *base.Module, l0 int32)
+
+//go:linkname Fn3598 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3598
+func Fn3598(m *base.Module, l0 int32)
+
+//go:linkname Fn3604 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3604
+func Fn3604(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3605 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3605
+func Fn3605(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3606 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3606
+func Fn3606(m *base.Module, l0 int32)
+
+//go:linkname Fn3609 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3609
+func Fn3609(m *base.Module, l0 int32)
+
+//go:linkname Fn3703 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3703
+func Fn3703(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3704 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3704
+func Fn3704(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3712 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3712
+func Fn3712(m *base.Module, l0 int32)
+
+//go:linkname Fn3715 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3715
+func Fn3715(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3717 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3717
+func Fn3717(m *base.Module, l0 int32)
+
+//go:linkname Fn3718 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3718
+func Fn3718(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3719 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3719
+func Fn3719(m *base.Module, l0 int32)
+
+//go:linkname Fn3720 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3720
+func Fn3720(m *base.Module, l0 int32)
+
+//go:linkname Fn3722 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3722
+func Fn3722(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn3723 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3723
+func Fn3723(m *base.Module, l0 int32)
+
+//go:linkname Fn3724 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3724
+func Fn3724(m *base.Module, l0 int32)
+
+//go:linkname Fn3725 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3725
+func Fn3725(m *base.Module, l0 int32)
+
+//go:linkname Fn3726 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3726
+func Fn3726(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3728 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3728
+func Fn3728(m *base.Module, l0 int32)
+
+//go:linkname Fn3737 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3737
+func Fn3737(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3746 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3746
+func Fn3746(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn3747 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn3747
+func Fn3747(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3752 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn3752
+func Fn3752(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn3766 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn3766
+func Fn3766(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3772 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3772
+func Fn3772(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3786 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3786
+func Fn3786(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn3812 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3812
+func Fn3812(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3839 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3839
+func Fn3839(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn3844 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3844
+func Fn3844(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3892 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3892
+func Fn3892(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn3893 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3893
+func Fn3893(m *base.Module, l0 int32)
+
+//go:linkname Fn3898 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn3898
+func Fn3898(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn3899 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3899
+func Fn3899(m *base.Module, l0 int32) int32
+
+//go:linkname Fn3921 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3921
+func Fn3921(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
 
 //go:linkname Fn3935 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3935
-func Fn3935(m *base.Module, l0 int32, l1 int32)
+func Fn3935(m *base.Module, l0 int32) int32
 
-//go:linkname Fn3965 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3965
-func Fn3965(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn3945 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3945
+func Fn3945(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn3984 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn3984
-func Fn3984(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn3946 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3946
+func Fn3946(m *base.Module, l0 int32) int32
 
-//go:linkname Fn3995 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3995
-func Fn3995(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn3951 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn3951
+func Fn3951(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn3996 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn3996
-func Fn3996(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn3952 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn3952
+func Fn3952(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn3998 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn3998
-func Fn3998(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn3960 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3960
+func Fn3960(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int64, l4 int32) int32
 
-//go:linkname Fn3999 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn3999
-func Fn3999(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn3962 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3962
+func Fn3962(m *base.Module, l0 int32) int32
 
-//go:linkname Fn4002 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4002
-func Fn4002(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn3966 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3966
+func Fn3966(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn4021 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4021
-func Fn4021(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn3973 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3973
+func Fn3973(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn4024 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4024
-func Fn4024(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn3975 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3975
+func Fn3975(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn4026 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4026
-func Fn4026(m *base.Module, l0 int32)
+//go:linkname Fn3978 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn3978
+func Fn3978(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn4027 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4027
-func Fn4027(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4009 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn4009
+func Fn4009(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn4028 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4028
-func Fn4028(m *base.Module, l0 int32)
+//go:linkname Fn4018 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4018
+func Fn4018(m *base.Module, l0 int32) int32
 
-//go:linkname Fn4036 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4036
-func Fn4036(m *base.Module, l0 int32)
+//go:linkname Fn4023 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4023
+func Fn4023(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn4037 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn4037
-func Fn4037(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn4024 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4024
+func Fn4024(m *base.Module, l0 int32) int32
 
-//go:linkname Fn4038 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4038
-func Fn4038(m *base.Module, l0 int32)
+//go:linkname Fn4026 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn4026
+func Fn4026(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn4108 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4108
-func Fn4108(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4028 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4028
+func Fn4028(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4130 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4130
-func Fn4130(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4030 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4030
+func Fn4030(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn4145 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4145
-func Fn4145(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4031 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4031
+func Fn4031(m *base.Module, l0 int32) int32
 
-//go:linkname Fn4146 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4146
-func Fn4146(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4036 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn4036
+func Fn4036(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn4147 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4147
-func Fn4147(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4038 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4038
+func Fn4038(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn4250 github.com/tyzerrr/spanneranalyzerwasm2go/p3.Fn4250
-func Fn4250(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4040 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4040
+func Fn4040(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn4372 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4372
-func Fn4372(m *base.Module, l0 int32)
+//go:linkname Fn4043 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4043
+func Fn4043(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn4392 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4392
-func Fn4392(m *base.Module, l0 int32) int32
+//go:linkname Fn4045 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4045
+func Fn4045(m *base.Module, l0 int32) int32
 
-//go:linkname Fn4393 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4393
-func Fn4393(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4046 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4046
+func Fn4046(m *base.Module, l0 int32) int32
 
-//go:linkname Fn4394 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4394
-func Fn4394(m *base.Module, l0 int32)
+//go:linkname Fn4047 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn4047
+func Fn4047(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4402 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4402
-func Fn4402(m *base.Module, l0 int32) int32
+//go:linkname Fn4048 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4048
+func Fn4048(m *base.Module, l0 int32)
 
-//go:linkname Fn4470 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4470
-func Fn4470(m *base.Module, l0 int32)
+//go:linkname Fn4060 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4060
+func Fn4060(m *base.Module, l0 int32)
 
-//go:linkname Fn4483 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4483
-func Fn4483(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn4111 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4111
+func Fn4111(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn4485 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4485
-func Fn4485(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn4121 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4121
+func Fn4121(m *base.Module, l0 int32)
 
-//go:linkname Fn4552 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4552
-func Fn4552(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4127 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4127
+func Fn4127(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
 
-//go:linkname Fn4553 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4553
-func Fn4553(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4134 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4134
+func Fn4134(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4555 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4555
-func Fn4555(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4136 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4136
+func Fn4136(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4556 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4556
-func Fn4556(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4167 github.com/tyzerrr/spanneranalyzerwasm2go/p3.Fn4167
+func Fn4167(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn4563 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4563
-func Fn4563(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4198 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4198
+func Fn4198(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn4577 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn4577
-func Fn4577(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+//go:linkname Fn4201 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4201
+func Fn4201(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4603 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4603
-func Fn4603(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn4411 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4411
+func Fn4411(m *base.Module, l0 int32)
 
-//go:linkname Fn4604 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4604
-func Fn4604(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4416 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4416
+func Fn4416(m *base.Module, l0 int32)
 
-//go:linkname Fn4609 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4609
-func Fn4609(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn4423 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4423
+func Fn4423(m *base.Module, l0 int32)
 
-//go:linkname Fn4611 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4611
-func Fn4611(m *base.Module, l0 int32, l1 int64) int32
+//go:linkname Fn4431 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn4431
+func Fn4431(m *base.Module, l0 int32)
 
-//go:linkname Fn4618 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4618
-func Fn4618(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn4436 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4436
+func Fn4436(m *base.Module, l0 int32)
 
-//go:linkname Fn4619 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4619
-func Fn4619(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4438 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4438
+func Fn4438(m *base.Module, l0 int32)
 
-//go:linkname Fn4626 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4626
-func Fn4626(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4448 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4448
+func Fn4448(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4627 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4627
-func Fn4627(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4455 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn4455
+func Fn4455(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4628 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4628
-func Fn4628(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn4460 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4460
+func Fn4460(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4629 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4629
-func Fn4629(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4489 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4489
+func Fn4489(m *base.Module, l0 int32)
 
-//go:linkname Fn4743 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4743
-func Fn4743(m *base.Module) int32
+//go:linkname Fn4491 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4491
+func Fn4491(m *base.Module, l0 int32)
 
-//go:linkname Fn4744 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn4744
-func Fn4744(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4492 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4492
+func Fn4492(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4745 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4745
-func Fn4745(m *base.Module, l0 int32)
+//go:linkname Fn4514 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4514
+func Fn4514(m *base.Module, l0 int32)
 
-//go:linkname Fn4746 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4746
-func Fn4746(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4516 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4516
+func Fn4516(m *base.Module, l0 int32)
 
-//go:linkname Fn4747 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4747
-func Fn4747(m *base.Module) int32
+//go:linkname Fn4524 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4524
+func Fn4524(m *base.Module, l0 int32)
 
-//go:linkname Fn4751 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4751
-func Fn4751(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn4537 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4537
+func Fn4537(m *base.Module, l0 int32)
+
+//go:linkname Fn4540 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4540
+func Fn4540(m *base.Module, l0 int32)
+
+//go:linkname Fn4556 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4556
+func Fn4556(m *base.Module, l0 int32)
+
+//go:linkname Fn4562 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn4562
+func Fn4562(m *base.Module, l0 int32)
+
+//go:linkname Fn4564 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4564
+func Fn4564(m *base.Module, l0 int32)
+
+//go:linkname Fn4566 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4566
+func Fn4566(m *base.Module, l0 int32)
+
+//go:linkname Fn4568 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4568
+func Fn4568(m *base.Module, l0 int32)
+
+//go:linkname Fn4570 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4570
+func Fn4570(m *base.Module, l0 int32)
+
+//go:linkname Fn4576 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4576
+func Fn4576(m *base.Module, l0 int32)
+
+//go:linkname Fn4582 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4582
+func Fn4582(m *base.Module, l0 int32)
+
+//go:linkname Fn4604 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4604
+func Fn4604(m *base.Module, l0 int32)
+
+//go:linkname Fn4617 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4617
+func Fn4617(m *base.Module, l0 int32)
+
+//go:linkname Fn4624 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4624
+func Fn4624(m *base.Module, l0 int32)
+
+//go:linkname Fn4626 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4626
+func Fn4626(m *base.Module, l0 int32)
+
+//go:linkname Fn4632 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4632
+func Fn4632(m *base.Module, l0 int32)
+
+//go:linkname Fn4634 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4634
+func Fn4634(m *base.Module, l0 int32)
+
+//go:linkname Fn4637 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn4637
+func Fn4637(m *base.Module, l0 int32)
+
+//go:linkname Fn4644 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn4644
+func Fn4644(m *base.Module, l0 int32)
+
+//go:linkname Fn4646 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn4646
+func Fn4646(m *base.Module, l0 int32)
+
+//go:linkname Fn4698 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4698
+func Fn4698(m *base.Module, l0 int32)
+
+//go:linkname Fn4703 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4703
+func Fn4703(m *base.Module, l0 int32)
+
+//go:linkname Fn4706 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4706
+func Fn4706(m *base.Module, l0 int32)
+
+//go:linkname Fn4726 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4726
+func Fn4726(m *base.Module, l0 int32)
+
+//go:linkname Fn4732 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4732
+func Fn4732(m *base.Module, l0 int32)
+
+//go:linkname Fn4736 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4736
+func Fn4736(m *base.Module, l0 int32)
 
 //go:linkname Fn4752 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4752
 func Fn4752(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn4755 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4755
-func Fn4755(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn4758 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4758
+func Fn4758(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4756 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4756
-func Fn4756(m *base.Module, l0 int32) int32
+//go:linkname Fn4759 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4759
+func Fn4759(m *base.Module, l0 int32)
 
-//go:linkname Fn4770 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4770
-func Fn4770(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4760 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4760
+func Fn4760(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4771 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4771
-func Fn4771(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4771 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4771
+func Fn4771(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4777 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4777
-func Fn4777(m *base.Module, l0 int32)
+//go:linkname Fn4772 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4772
+func Fn4772(m *base.Module, l0 int32)
+
+//go:linkname Fn4774 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4774
+func Fn4774(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4776 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4776
+func Fn4776(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4779 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4779
+func Fn4779(m *base.Module, l0 int32)
+
+//go:linkname Fn4783 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4783
+func Fn4783(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4785 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4785
+func Fn4785(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4786 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4786
+func Fn4786(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4788 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4788
+func Fn4788(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4789 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4789
+func Fn4789(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4793 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4793
+func Fn4793(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4794 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4794
+func Fn4794(m *base.Module, l0 int32)
+
+//go:linkname Fn4795 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn4795
+func Fn4795(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4796 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4796
+func Fn4796(m *base.Module, l0 int32, l1 int32)
 
 //go:linkname Fn4797 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4797
 func Fn4797(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4798 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4798
-func Fn4798(m *base.Module, l0 int32) int32
+//go:linkname Fn4798 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4798
+func Fn4798(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn4890 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4890
+//go:linkname Fn4799 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4799
+func Fn4799(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4800 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4800
+func Fn4800(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4801 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4801
+func Fn4801(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4803 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4803
+func Fn4803(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4815 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4815
+func Fn4815(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4826 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4826
+func Fn4826(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4827 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4827
+func Fn4827(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4828 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4828
+func Fn4828(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4829 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4829
+func Fn4829(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4830 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4830
+func Fn4830(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4831 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4831
+func Fn4831(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4832 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4832
+func Fn4832(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4833 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4833
+func Fn4833(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4835 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn4835
+func Fn4835(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4836 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4836
+func Fn4836(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4837 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4837
+func Fn4837(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4838 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn4838
+func Fn4838(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4839 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn4839
+func Fn4839(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4840 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn4840
+func Fn4840(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4866 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4866
+func Fn4866(m *base.Module, l0 int32)
+
+//go:linkname Fn4883 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4883
+func Fn4883(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4886 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4886
+func Fn4886(m *base.Module, l0 int32)
+
+//go:linkname Fn4887 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4887
+func Fn4887(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4888 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4888
+func Fn4888(m *base.Module, l0 int32)
+
+//go:linkname Fn4889 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4889
+func Fn4889(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn4890 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4890
 func Fn4890(m *base.Module, l0 int32)
 
-//go:linkname Fn4891 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn4891
-func Fn4891(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4898 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4898
+func Fn4898(m *base.Module, l0 int32)
 
-//go:linkname Fn4892 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn4892
-func Fn4892(m *base.Module, l0 int32)
-
-//go:linkname Fn4897 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn4897
-func Fn4897(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn4899 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4899
+func Fn4899(m *base.Module, l0 int32)
 
 //go:linkname Fn4900 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4900
-func Fn4900(m *base.Module, l0 int32, l1 int32, l2 int32)
+func Fn4900(m *base.Module, l0 int32)
 
-//go:linkname Fn4906 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn4906
-func Fn4906(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn4901 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4901
+func Fn4901(m *base.Module, l0 int32)
 
-//go:linkname Fn4960 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4960
-func Fn4960(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn4902 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4902
+func Fn4902(m *base.Module, l0 int32)
 
-//go:linkname Fn4984 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4984
-func Fn4984(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn4903 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4903
+func Fn4903(m *base.Module, l0 int32)
 
-//go:linkname Fn4992 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4992
-func Fn4992(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4904 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4904
+func Fn4904(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn5008 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5008
-func Fn5008(m *base.Module, l0 int32)
+//go:linkname Fn4907 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4907
+func Fn4907(m *base.Module, l0 int32)
 
-//go:linkname Fn5019 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5019
-func Fn5019(m *base.Module, l0 int32)
+//go:linkname Fn4908 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4908
+func Fn4908(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn5020 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5020
-func Fn5020(m *base.Module, l0 int32)
+//go:linkname Fn4909 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4909
+func Fn4909(m *base.Module, l0 int32)
 
-//go:linkname Fn5041 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5041
-func Fn5041(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn4911 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4911
+func Fn4911(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn5042 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5042
-func Fn5042(m *base.Module, l0 int32) int32
+//go:linkname Fn4915 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4915
+func Fn4915(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn5043 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5043
-func Fn5043(m *base.Module, l0 int32)
+//go:linkname Fn4919 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4919
+func Fn4919(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn5049 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5049
-func Fn5049(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn4921 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4921
+func Fn4921(m *base.Module, l0 int32)
 
-//go:linkname Fn5050 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5050
-func Fn5050(m *base.Module, l0 int32) int32
+//go:linkname Fn4928 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4928
+func Fn4928(m *base.Module, l0 int32)
 
-//go:linkname Fn5051 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5051
-func Fn5051(m *base.Module, l0 int32)
+//go:linkname Fn4932 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn4932
+func Fn4932(m *base.Module, l0 int32) int32
 
-//go:linkname Fn5054 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5054
-func Fn5054(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn4970 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4970
+func Fn4970(m *base.Module, l0 int32)
 
-//go:linkname Fn5059 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5059
-func Fn5059(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn4981 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4981
+func Fn4981(m *base.Module, l0 int32)
 
-//go:linkname Fn5060 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5060
-func Fn5060(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn4982 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn4982
+func Fn4982(m *base.Module, l0 int32)
 
-//go:linkname Fn5061 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5061
-func Fn5061(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn4991 github.com/tyzerrr/spanneranalyzerwasm2go/p3.Fn4991
+func Fn4991(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn5064 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn5064
-func Fn5064(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn5037 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5037
+func Fn5037(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn6208 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6208
-func Fn6208(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5091 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5091
+func Fn5091(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn6217 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6217
-func Fn6217(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5132 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5132
+func Fn5132(m *base.Module, l0 int32)
 
-//go:linkname Fn6220 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6220
-func Fn6220(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5180 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5180
+func Fn5180(m *base.Module, l0 int32)
 
-//go:linkname Fn6434 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6434
-func Fn6434(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5209 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5209
+func Fn5209(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn6679 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6679
-func Fn6679(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5220 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5220
+func Fn5220(m *base.Module, l0 int32)
 
-//go:linkname Fn6682 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6682
-func Fn6682(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5230 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5230
+func Fn5230(m *base.Module, l0 int32)
 
-//go:linkname Fn6684 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn6684
-func Fn6684(m *base.Module, l0 int32)
+//go:linkname Fn5237 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn5237
+func Fn5237(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn6685 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6685
-func Fn6685(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5247 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5247
+func Fn5247(m *base.Module, l0 int32)
 
-//go:linkname Fn6687 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6687
-func Fn6687(m *base.Module, l0 int32) int32
+//go:linkname Fn5265 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5265
+func Fn5265(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn6690 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6690
-func Fn6690(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5274 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5274
+func Fn5274(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn6698 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6698
-func Fn6698(m *base.Module, l0 int32) int32
+//go:linkname Fn5275 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5275
+func Fn5275(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn6709 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6709
-func Fn6709(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5285 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5285
+func Fn5285(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn6710 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6710
-func Fn6710(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5290 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5290
+func Fn5290(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn6733 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6733
-func Fn6733(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5299 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5299
+func Fn5299(m *base.Module, l0 int32)
 
-//go:linkname Fn6735 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6735
-func Fn6735(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5304 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5304
+func Fn5304(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn6749 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6749
-func Fn6749(m *base.Module, l0 int32) int32
+//go:linkname Fn5305 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5305
+func Fn5305(m *base.Module, l0 int32) int32
 
-//go:linkname Fn6764 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6764
-func Fn6764(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5308 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn5308
+func Fn5308(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn6847 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6847
-func Fn6847(m *base.Module, l0 int32) int32
+//go:linkname Fn5313 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn5313
+func Fn5313(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7281 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7281
-func Fn7281(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn5314 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5314
+func Fn5314(m *base.Module, l0 int32)
 
-//go:linkname Fn7283 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7283
-func Fn7283(m *base.Module, l0 int32)
+//go:linkname Fn5316 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5316
+func Fn5316(m *base.Module, l0 int32)
 
-//go:linkname Fn7288 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7288
-func Fn7288(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5320 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5320
+func Fn5320(m *base.Module, l0 int32)
 
-//go:linkname Fn7304 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7304
-func Fn7304(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn5322 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5322
+func Fn5322(m *base.Module, l0 int32)
 
-//go:linkname Fn7309 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7309
-func Fn7309(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn5323 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5323
+func Fn5323(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7310 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7310
-func Fn7310(m *base.Module, l0 int32)
+//go:linkname Fn5324 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5324
+func Fn5324(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7311 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7311
-func Fn7311(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn5325 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5325
+func Fn5325(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7312 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7312
-func Fn7312(m *base.Module) int32
+//go:linkname Fn5327 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5327
+func Fn5327(m *base.Module, l0 int32)
 
-//go:linkname Fn7313 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7313
-func Fn7313(m *base.Module, l0 int32) int32
+//go:linkname Fn5329 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5329
+func Fn5329(m *base.Module, l0 int32)
 
-//go:linkname Fn7314 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn7314
-func Fn7314(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32)
+//go:linkname Fn5330 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5330
+func Fn5330(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7317 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7317
-func Fn7317(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5373 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5373
+func Fn5373(m *base.Module, l0 int32, l1 int64, l2 int64, l3 int32)
 
-//go:linkname Fn7319 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7319
-func Fn7319(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5384 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5384
+func Fn5384(m *base.Module, l0 int32, l1 int64)
 
-//go:linkname Fn7321 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7321
-func Fn7321(m *base.Module, l0 int32) int32
+//go:linkname Fn5395 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5395
+func Fn5395(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7325 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7325
-func Fn7325(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5399 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn5399
+func Fn5399(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn7345 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7345
-func Fn7345(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn5506 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5506
+func Fn5506(m *base.Module, l0 int32)
 
-//go:linkname Fn7348 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7348
-func Fn7348(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5510 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5510
+func Fn5510(m *base.Module, l0 int32)
 
-//go:linkname Fn7349 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7349
-func Fn7349(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5516 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5516
+func Fn5516(m *base.Module, l0 int32)
 
-//go:linkname Fn7350 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7350
-func Fn7350(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn5535 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5535
+func Fn5535(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn7357 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7357
-func Fn7357(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5536 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5536
+func Fn5536(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7358 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7358
-func Fn7358(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5561 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5561
+func Fn5561(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn7359 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7359
-func Fn7359(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5734 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn5734
+func Fn5734(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn7360 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7360
-func Fn7360(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn5754 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn5754
+func Fn5754(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn7363 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7363
-func Fn7363(m *base.Module, l0 int32)
+//go:linkname Fn5756 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5756
+func Fn5756(m *base.Module, l0 int32)
 
-//go:linkname Fn7364 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7364
-func Fn7364(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn5773 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5773
+func Fn5773(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7374 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7374
-func Fn7374(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn5801 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5801
+func Fn5801(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7375 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7375
-func Fn7375(m *base.Module, l0 int32)
+//go:linkname Fn5823 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5823
+func Fn5823(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7376 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7376
-func Fn7376(m *base.Module, l0 int32)
+//go:linkname Fn5828 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5828
+func Fn5828(m *base.Module, l0 int32) int32
 
-//go:linkname Fn7377 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7377
-func Fn7377(m *base.Module, l0 int32)
+//go:linkname Fn5864 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5864
+func Fn5864(m *base.Module, l0 int32)
 
-//go:linkname Fn7383 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7383
-func Fn7383(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5865 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5865
+func Fn5865(m *base.Module, l0 int32)
 
-//go:linkname Fn7390 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7390
-func Fn7390(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5866 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5866
+func Fn5866(m *base.Module, l0 int32) int32
 
-//go:linkname Fn7397 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7397
-func Fn7397(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5929 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5929
+func Fn5929(m *base.Module) int32
 
-//go:linkname Fn7398 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7398
-func Fn7398(m *base.Module, l0 int32)
+//go:linkname Fn5930 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn5930
+func Fn5930(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn7399 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7399
-func Fn7399(m *base.Module, l0 int32)
+//go:linkname Fn5931 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5931
+func Fn5931(m *base.Module, l0 int32)
 
-//go:linkname Fn7401 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7401
-func Fn7401(m *base.Module, l0 int32)
+//go:linkname Fn5932 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5932
+func Fn5932(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7431 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7431
-func Fn7431(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5933 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5933
+func Fn5933(m *base.Module) int32
 
-//go:linkname Fn7437 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7437
-func Fn7437(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5937 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5937
+func Fn5937(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7438 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7438
-func Fn7438(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn5951 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5951
+func Fn5951(m *base.Module, l0 int32)
 
-//go:linkname Fn7443 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7443
-func Fn7443(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn5984 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5984
+func Fn5984(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7451 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7451
-func Fn7451(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5985 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn5985
+func Fn5985(m *base.Module, l0 int32) int32
 
-//go:linkname Fn7452 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7452
-func Fn7452(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn5986 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5986
+func Fn5986(m *base.Module, l0 int32) int32
 
-//go:linkname Fn7453 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn7453
-func Fn7453(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn5990 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn5990
+func Fn5990(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7707 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7707
-func Fn7707(m *base.Module, l0 int32) int32
+//go:linkname Fn5995 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn5995
+func Fn5995(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn7710 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7710
-func Fn7710(m *base.Module, l0 int32) int32
+//go:linkname Fn5998 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn5998
+func Fn5998(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn7715 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7715
-func Fn7715(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn6000 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6000
+func Fn6000(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn7716 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7716
-func Fn7716(m *base.Module, l0 int32) int32
+//go:linkname Fn6001 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6001
+func Fn6001(m *base.Module, l0 int32)
 
-//go:linkname Fn7718 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn7718
-func Fn7718(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn6003 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6003
+func Fn6003(m *base.Module)
 
-//go:linkname Fn7720 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7720
-func Fn7720(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6005 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6005
+func Fn6005(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7723 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7723
-func Fn7723(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6007 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn6007
+func Fn6007(m *base.Module, l0 int32)
 
-//go:linkname Fn7724 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7724
-func Fn7724(m *base.Module, l0 int32) int32
+//go:linkname Fn6012 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6012
+func Fn6012(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn7729 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn7729
-func Fn7729(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6013 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6013
+func Fn6013(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn7731 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7731
-func Fn7731(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn6014 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6014
+func Fn6014(m *base.Module)
 
-//go:linkname Fn7733 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7733
-func Fn7733(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6015 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6015
+func Fn6015(m *base.Module, l0 int32)
 
-//go:linkname Fn7736 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7736
-func Fn7736(m *base.Module, l0 int32)
+//go:linkname Fn6025 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6025
+func Fn6025(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7738 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7738
-func Fn7738(m *base.Module, l0 int32)
+//go:linkname Fn6026 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6026
+func Fn6026(m *base.Module, l0 int32)
 
-//go:linkname Fn7740 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7740
-func Fn7740(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6027 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6027
+func Fn6027(m *base.Module, l0 int32) int32
 
-//go:linkname Fn7742 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7742
-func Fn7742(m *base.Module, l0 int32) int32
+//go:linkname Fn6028 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6028
+func Fn6028(m *base.Module, l0 int32) int32
 
-//go:linkname Fn7743 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7743
-func Fn7743(m *base.Module, l0 int32) int32
+//go:linkname Fn6030 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6030
+func Fn6030(m *base.Module, l0 int32)
 
-//go:linkname Fn7744 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn7744
-func Fn7744(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6058 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6058
+func Fn6058(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn7745 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7745
-func Fn7745(m *base.Module, l0 int32)
+//go:linkname Fn6064 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6064
+func Fn6064(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7760 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7760
-func Fn7760(m *base.Module, l0 int32)
+//go:linkname Fn6065 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6065
+func Fn6065(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7785 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7785
-func Fn7785(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6099 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6099
+func Fn6099(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7789 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn7789
-func Fn7789(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6106 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6106
+func Fn6106(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7795 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7795
-func Fn7795(m *base.Module, l0 int32) int32
+//go:linkname Fn6113 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6113
+func Fn6113(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7796 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7796
-func Fn7796(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6115 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn6115
+func Fn6115(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7799 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7799
-func Fn7799(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6141 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn6141
+func Fn6141(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32) int32
 
-//go:linkname Fn7803 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn7803
-func Fn7803(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn6182 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6182
+func Fn6182(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7816 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7816
-func Fn7816(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6196 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6196
+func Fn6196(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7875 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7875
-func Fn7875(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn6197 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6197
+func Fn6197(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn7882 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7882
-func Fn7882(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6203 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6203
+func Fn6203(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn7892 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn7892
-func Fn7892(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn6250 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6250
+func Fn6250(m *base.Module, l0 int32) int32
 
-//go:linkname Fn7909 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7909
-func Fn7909(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn6251 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn6251
+func Fn6251(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn7920 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7920
-func Fn7920(m *base.Module, l0 int32)
+//go:linkname Fn6252 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6252
+func Fn6252(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7927 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7927
-func Fn7927(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6253 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6253
+func Fn6253(m *base.Module, l0 int32)
 
-//go:linkname Fn7935 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7935
-func Fn7935(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
+//go:linkname Fn6254 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6254
+func Fn6254(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7943 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7943
-func Fn7943(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6255 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6255
+func Fn6255(m *base.Module, l0 int32)
 
-//go:linkname Fn7944 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7944
-func Fn7944(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6262 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6262
+func Fn6262(m *base.Module, l0 int32)
 
-//go:linkname Fn7945 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn7945
-func Fn7945(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6263 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6263
+func Fn6263(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7948 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7948
-func Fn7948(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6277 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6277
+func Fn6277(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn7949 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7949
-func Fn7949(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn6339 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6339
+func Fn6339(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7950 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn7950
-func Fn7950(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6342 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn6342
+func Fn6342(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn7951 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7951
-func Fn7951(m *base.Module, l0 int32)
+//go:linkname Fn6344 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6344
+func Fn6344(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn7952 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7952
-func Fn7952(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6345 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6345
+func Fn6345(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn7977 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7977
-func Fn7977(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6347 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6347
+func Fn6347(m *base.Module, l0 int32)
 
-//go:linkname Fn7978 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7978
-func Fn7978(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn6348 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6348
+func Fn6348(m *base.Module, l0 int32)
 
-//go:linkname Fn7979 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn7979
-func Fn7979(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6356 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6356
+func Fn6356(m *base.Module, l0 int32)
 
-//go:linkname Fn7980 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7980
-func Fn7980(m *base.Module, l0 int32)
+//go:linkname Fn6357 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6357
+func Fn6357(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn7988 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7988
-func Fn7988(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6358 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6358
+func Fn6358(m *base.Module, l0 int32) int32
 
-//go:linkname Fn8000 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8000
-func Fn8000(m *base.Module, l0 int32)
+//go:linkname Fn6362 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6362
+func Fn6362(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8013 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8013
-func Fn8013(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6364 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6364
+func Fn6364(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8113 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8113
-func Fn8113(m *base.Module, l0 int32)
+//go:linkname Fn6366 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6366
+func Fn6366(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8124 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8124
-func Fn8124(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6370 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6370
+func Fn6370(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8127 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn8127
-func Fn8127(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn6371 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn6371
+func Fn6371(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn8128 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8128
-func Fn8128(m *base.Module, l0 int32) int32
+//go:linkname Fn6373 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6373
+func Fn6373(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8141 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8141
-func Fn8141(m *base.Module, l0 int32)
+//go:linkname Fn6376 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6376
+func Fn6376(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8153 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8153
-func Fn8153(m *base.Module, l0 int32) int32
+//go:linkname Fn6384 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6384
+func Fn6384(m *base.Module, l0 int32)
 
-//go:linkname Fn8155 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8155
-func Fn8155(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6391 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6391
+func Fn6391(m *base.Module, l0 int32)
 
-//go:linkname Fn8156 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8156
-func Fn8156(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6392 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6392
+func Fn6392(m *base.Module, l0 int32)
 
-//go:linkname Fn8157 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8157
-func Fn8157(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+//go:linkname Fn6395 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6395
+func Fn6395(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8161 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8161
-func Fn8161(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6396 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6396
+func Fn6396(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8162 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8162
-func Fn8162(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6397 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6397
+func Fn6397(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8177 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8177
-func Fn8177(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn6400 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6400
+func Fn6400(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn8178 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8178
-func Fn8178(m *base.Module, l0 int32) int32
+//go:linkname Fn6404 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn6404
+func Fn6404(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn8183 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn8183
-func Fn8183(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn6411 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6411
+func Fn6411(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn8184 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn8184
-func Fn8184(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn6412 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6412
+func Fn6412(m *base.Module, l0 int32)
 
-//go:linkname Fn8192 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8192
-func Fn8192(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int64, l4 int32) int32
+//go:linkname Fn6416 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6416
+func Fn6416(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8196 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8196
-func Fn8196(m *base.Module, l0 int32) int32
+//go:linkname Fn6419 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6419
+func Fn6419(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn8200 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8200
-func Fn8200(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6420 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6420
+func Fn6420(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn8210 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8210
-func Fn8210(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6421 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6421
+func Fn6421(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
 
-//go:linkname Fn8212 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8212
-func Fn8212(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6424 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6424
+func Fn6424(m *base.Module, l0 int32)
 
-//go:linkname Fn8216 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8216
-func Fn8216(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6425 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6425
+func Fn6425(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8226 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn8226
-func Fn8226(m *base.Module, l0 int32)
+//go:linkname Fn6426 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6426
+func Fn6426(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn8227 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8227
-func Fn8227(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6427 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6427
+func Fn6427(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn8248 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8248
-func Fn8248(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6428 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6428
+func Fn6428(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn8256 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8256
-func Fn8256(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6429 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6429
+func Fn6429(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8257 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8257
-func Fn8257(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6430 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6430
+func Fn6430(m *base.Module, l0 int32)
 
-//go:linkname Fn8258 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8258
-func Fn8258(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6431 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6431
+func Fn6431(m *base.Module, l0 int32)
 
-//go:linkname Fn8267 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn8267
-func Fn8267(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6432 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6432
+func Fn6432(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn8315 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn8315
-func Fn8315(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6433 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6433
+func Fn6433(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn8319 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8319
-func Fn8319(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6434 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6434
+func Fn6434(m *base.Module, l0 int32)
 
-//go:linkname Fn8320 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8320
-func Fn8320(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6435 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6435
+func Fn6435(m *base.Module, l0 int32)
 
-//go:linkname Fn8322 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8322
-func Fn8322(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6437 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6437
+func Fn6437(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn8323 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8323
-func Fn8323(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn6438 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn6438
+func Fn6438(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn8324 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn8324
-func Fn8324(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6439 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6439
+func Fn6439(m *base.Module, l0 int32) int32
 
-//go:linkname Fn8325 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8325
-func Fn8325(m *base.Module, l0 int32)
+//go:linkname Fn6440 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6440
+func Fn6440(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn8332 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn8332
-func Fn8332(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6444 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6444
+func Fn6444(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn8333 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8333
-func Fn8333(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6445 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6445
+func Fn6445(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8334 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8334
-func Fn8334(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn6448 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6448
+func Fn6448(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn8335 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8335
-func Fn8335(m *base.Module, l0 int32)
+//go:linkname Fn6452 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6452
+func Fn6452(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn8353 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn8353
-func Fn8353(m *base.Module, l0 int32)
+//go:linkname Fn6453 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6453
+func Fn6453(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9221 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9221
-func Fn9221(m *base.Module, l0 int32)
+//go:linkname Fn6455 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6455
+func Fn6455(m *base.Module, l0 int32)
 
-//go:linkname Fn9223 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9223
-func Fn9223(m *base.Module, l0 int32)
+//go:linkname Fn6456 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6456
+func Fn6456(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn9230 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9230
-func Fn9230(m *base.Module, l0 int32)
+//go:linkname Fn6457 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6457
+func Fn6457(m *base.Module, l0 int32)
 
-//go:linkname Fn9231 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9231
-func Fn9231(m *base.Module, l0 int32)
+//go:linkname Fn6458 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6458
+func Fn6458(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9236 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9236
-func Fn9236(m *base.Module, l0 int32)
+//go:linkname Fn6459 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn6459
+func Fn6459(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn9265 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9265
-func Fn9265(m *base.Module, l0 int32)
+//go:linkname Fn6460 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6460
+func Fn6460(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9267 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9267
-func Fn9267(m *base.Module, l0 int32)
+//go:linkname Fn6461 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6461
+func Fn6461(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9268 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9268
-func Fn9268(m *base.Module, l0 int32)
+//go:linkname Fn6474 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6474
+func Fn6474(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9272 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9272
-func Fn9272(m *base.Module, l0 int32)
+//go:linkname Fn6475 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6475
+func Fn6475(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9280 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9280
-func Fn9280(m *base.Module, l0 int32)
+//go:linkname Fn6477 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6477
+func Fn6477(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn9288 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9288
-func Fn9288(m *base.Module, l0 int32)
+//go:linkname Fn6478 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6478
+func Fn6478(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9291 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9291
-func Fn9291(m *base.Module, l0 int32)
+//go:linkname Fn6481 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6481
+func Fn6481(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn9295 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9295
-func Fn9295(m *base.Module, l0 int32)
+//go:linkname Fn6482 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6482
+func Fn6482(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9300 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9300
-func Fn9300(m *base.Module, l0 int32)
+//go:linkname Fn6483 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6483
+func Fn6483(m *base.Module, l0 int32)
 
-//go:linkname Fn9306 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9306
-func Fn9306(m *base.Module, l0 int32)
+//go:linkname Fn6484 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6484
+func Fn6484(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9314 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9314
-func Fn9314(m *base.Module, l0 int32)
+//go:linkname Fn6485 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6485
+func Fn6485(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9323 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9323
-func Fn9323(m *base.Module, l0 int32)
+//go:linkname Fn6486 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6486
+func Fn6486(m *base.Module, l0 int32)
 
-//go:linkname Fn9326 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9326
-func Fn9326(m *base.Module, l0 int32)
+//go:linkname Fn6487 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6487
+func Fn6487(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9362 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9362
-func Fn9362(m *base.Module, l0 int32) int32
+//go:linkname Fn6491 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6491
+func Fn6491(m *base.Module, l0 int32)
 
-//go:linkname Fn9370 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9370
-func Fn9370(m *base.Module, l0 int32)
+//go:linkname Fn6496 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6496
+func Fn6496(m *base.Module, l0 int32)
 
-//go:linkname Fn9371 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9371
-func Fn9371(m *base.Module, l0 int32) int32
+//go:linkname Fn6498 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6498
+func Fn6498(m *base.Module, l0 int32)
 
-//go:linkname Fn9372 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9372
-func Fn9372(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6501 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn6501
+func Fn6501(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn9375 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9375
-func Fn9375(m *base.Module, l0 int32)
+//go:linkname Fn6502 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6502
+func Fn6502(m *base.Module, l0 int32)
 
-//go:linkname Fn9376 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9376
-func Fn9376(m *base.Module, l0 int32)
+//go:linkname Fn6505 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6505
+func Fn6505(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9377 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9377
-func Fn9377(m *base.Module, l0 int32)
+//go:linkname Fn6506 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6506
+func Fn6506(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9378 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9378
-func Fn9378(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6507 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn6507
+func Fn6507(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
 
-//go:linkname Fn9379 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9379
-func Fn9379(m *base.Module, l0 int32)
+//go:linkname Fn6508 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6508
+func Fn6508(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9381 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9381
-func Fn9381(m *base.Module, l0 int32)
+//go:linkname Fn6509 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6509
+func Fn6509(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9382 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9382
-func Fn9382(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn6513 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6513
+func Fn6513(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9383 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9383
-func Fn9383(m *base.Module, l0 int32)
+//go:linkname Fn6515 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6515
+func Fn6515(m *base.Module, l0 int32)
 
-//go:linkname Fn9384 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9384
-func Fn9384(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6516 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6516
+func Fn6516(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9385 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9385
-func Fn9385(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6517 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn6517
+func Fn6517(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn9386 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9386
-func Fn9386(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6518 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6518
+func Fn6518(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
 
-//go:linkname Fn9388 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9388
-func Fn9388(m *base.Module, l0 int32)
+//go:linkname Fn6520 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6520
+func Fn6520(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9390 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9390
-func Fn9390(m *base.Module, l0 int32)
+//go:linkname Fn6524 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn6524
+func Fn6524(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9391 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9391
-func Fn9391(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6527 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6527
+func Fn6527(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9392 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9392
-func Fn9392(m *base.Module, l0 int32)
+//go:linkname Fn6528 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6528
+func Fn6528(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9393 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9393
-func Fn9393(m *base.Module, l0 int32)
+//go:linkname Fn6529 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6529
+func Fn6529(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9396 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9396
-func Fn9396(m *base.Module, l0 int32)
+//go:linkname Fn6531 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn6531
+func Fn6531(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn9397 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9397
-func Fn9397(m *base.Module, l0 int32)
+//go:linkname Fn6532 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6532
+func Fn6532(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9400 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9400
-func Fn9400(m *base.Module, l0 int32)
+//go:linkname Fn6534 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn6534
+func Fn6534(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9404 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9404
-func Fn9404(m *base.Module, l0 int32)
+//go:linkname Fn6538 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6538
+func Fn6538(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9408 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9408
-func Fn9408(m *base.Module, l0 int32)
+//go:linkname Fn6540 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6540
+func Fn6540(m *base.Module, l0 int32)
 
-//go:linkname Fn9410 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9410
-func Fn9410(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6542 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn6542
+func Fn6542(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9411 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn9411
-func Fn9411(m *base.Module, l0 int32)
+//go:linkname Fn6551 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6551
+func Fn6551(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9417 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn9417
-func Fn9417(m *base.Module, l0 int32)
+//go:linkname Fn6552 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6552
+func Fn6552(m *base.Module, l0 int32)
 
-//go:linkname Fn9422 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn9422
-func Fn9422(m *base.Module, l0 int32)
+//go:linkname Fn6562 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6562
+func Fn6562(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9427 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9427
-func Fn9427(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6566 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6566
+func Fn6566(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9429 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9429
-func Fn9429(m *base.Module, l0 int32)
+//go:linkname Fn6575 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6575
+func Fn6575(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn9430 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9430
-func Fn9430(m *base.Module, l0 int32)
+//go:linkname Fn6576 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6576
+func Fn6576(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9431 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn9431
-func Fn9431(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32) int32
+//go:linkname Fn6577 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6577
+func Fn6577(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn9432 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9432
-func Fn9432(m *base.Module, l0 int32)
+//go:linkname Fn6578 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6578
+func Fn6578(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9433 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9433
-func Fn9433(m *base.Module, l0 int32)
+//go:linkname Fn6579 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6579
+func Fn6579(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9434 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9434
-func Fn9434(m *base.Module, l0 int32)
+//go:linkname Fn6580 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6580
+func Fn6580(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9435 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9435
-func Fn9435(m *base.Module, l0 int32)
+//go:linkname Fn6582 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6582
+func Fn6582(m *base.Module, l0 int32, l1 int32, l2 int64) int32
 
-//go:linkname Fn9440 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9440
-func Fn9440(m *base.Module, l0 int32)
+//go:linkname Fn6606 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6606
+func Fn6606(m *base.Module, l0 int32)
 
-//go:linkname Fn9441 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9441
-func Fn9441(m *base.Module, l0 int32)
+//go:linkname Fn6615 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6615
+func Fn6615(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9442 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9442
-func Fn9442(m *base.Module, l0 int32)
+//go:linkname Fn6633 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn6633
+func Fn6633(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9443 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9443
-func Fn9443(m *base.Module, l0 int32)
+//go:linkname Fn6634 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6634
+func Fn6634(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9444 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9444
-func Fn9444(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6636 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6636
+func Fn6636(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9445 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9445
-func Fn9445(m *base.Module, l0 int32)
+//go:linkname Fn6637 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6637
+func Fn6637(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9450 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn9450
-func Fn9450(m *base.Module, l0 int32)
+//go:linkname Fn6639 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6639
+func Fn6639(m *base.Module, l0 int32)
 
-//go:linkname Fn9453 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9453
-func Fn9453(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6643 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6643
+func Fn6643(m *base.Module, l0 int32)
 
-//go:linkname Fn9454 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9454
-func Fn9454(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6644 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6644
+func Fn6644(m *base.Module, l0 int32)
 
-//go:linkname Fn9456 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9456
-func Fn9456(m *base.Module, l0 int32)
+//go:linkname Fn6645 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6645
+func Fn6645(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9457 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9457
-func Fn9457(m *base.Module, l0 int32)
+//go:linkname Fn6646 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6646
+func Fn6646(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9459 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9459
-func Fn9459(m *base.Module, l0 int32)
+//go:linkname Fn6647 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6647
+func Fn6647(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9464 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9464
-func Fn9464(m *base.Module, l0 int32)
+//go:linkname Fn6651 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6651
+func Fn6651(m *base.Module, l0 int32)
 
-//go:linkname Fn9477 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9477
-func Fn9477(m *base.Module, l0 int32)
+//go:linkname Fn6664 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6664
+func Fn6664(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9478 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9478
-func Fn9478(m *base.Module, l0 int32)
+//go:linkname Fn6665 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6665
+func Fn6665(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9480 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9480
-func Fn9480(m *base.Module, l0 int32)
+//go:linkname Fn6666 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6666
+func Fn6666(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9481 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9481
-func Fn9481(m *base.Module, l0 int32)
+//go:linkname Fn6667 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6667
+func Fn6667(m *base.Module, l0 int32)
 
-//go:linkname Fn9487 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9487
-func Fn9487(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn6668 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6668
+func Fn6668(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9488 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9488
-func Fn9488(m *base.Module, l0 int32)
+//go:linkname Fn6669 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6669
+func Fn6669(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9489 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9489
-func Fn9489(m *base.Module, l0 int32)
+//go:linkname Fn6671 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn6671
+func Fn6671(m *base.Module, l0 int32, l1 int64, l2 int32) int32
 
-//go:linkname Fn9491 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9491
-func Fn9491(m *base.Module, l0 int32)
+//go:linkname Fn6672 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6672
+func Fn6672(m *base.Module, l0 int32, l1 int64) int32
 
-//go:linkname Fn9492 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9492
-func Fn9492(m *base.Module, l0 int32)
+//go:linkname Fn6681 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6681
+func Fn6681(m *base.Module, l0 int32, l1 int64) int32
 
-//go:linkname Fn9516 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9516
-func Fn9516(m *base.Module, l0 int32)
+//go:linkname Fn6683 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6683
+func Fn6683(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9518 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9518
-func Fn9518(m *base.Module, l0 int32)
+//go:linkname Fn6686 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6686
+func Fn6686(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn9519 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9519
-func Fn9519(m *base.Module, l0 int32)
+//go:linkname Fn6687 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6687
+func Fn6687(m *base.Module, l0 int32, l1 int64) int32
 
-//go:linkname Fn9526 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9526
-func Fn9526(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6688 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6688
+func Fn6688(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9527 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9527
-func Fn9527(m *base.Module, l0 int32)
+//go:linkname Fn6691 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn6691
+func Fn6691(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn9528 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn9528
-func Fn9528(m *base.Module, l0 int32)
+//go:linkname Fn6693 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn6693
+func Fn6693(m *base.Module, l0 int32, l1 int64) int32
 
-//go:linkname Fn9529 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9529
-func Fn9529(m *base.Module, l0 int32)
+//go:linkname Fn6728 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn6728
+func Fn6728(m *base.Module, l0 int32) float64
 
-//go:linkname Fn9530 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9530
-func Fn9530(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn6825 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn6825
+func Fn6825(m *base.Module, l0 int32) float64
 
-//go:linkname Fn9531 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9531
-func Fn9531(m *base.Module, l0 int32)
+//go:linkname Fn6937 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn6937
+func Fn6937(m *base.Module, l0 int32)
 
-//go:linkname Fn9538 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9538
-func Fn9538(m *base.Module, l0 int32)
+//go:linkname Fn6938 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn6938
+func Fn6938(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9546 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9546
-func Fn9546(m *base.Module, l0 int32) int32
+//go:linkname Fn7055 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7055
+func Fn7055(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn9547 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9547
-func Fn9547(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn7056 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7056
+func Fn7056(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9548 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9548
-func Fn9548(m *base.Module, l0 int32)
+//go:linkname Fn7085 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7085
+func Fn7085(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9550 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9550
-func Fn9550(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn7097 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7097
+func Fn7097(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9567 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9567
-func Fn9567(m *base.Module, l0 int32)
+//go:linkname Fn7130 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7130
+func Fn7130(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn9577 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9577
-func Fn9577(m *base.Module, l0 int32)
+//go:linkname Fn7132 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7132
+func Fn7132(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9578 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9578
-func Fn9578(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn7148 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7148
+func Fn7148(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9580 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9580
-func Fn9580(m *base.Module, l0 int32)
+//go:linkname Fn7150 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7150
+func Fn7150(m *base.Module, l0 int32)
 
-//go:linkname Fn9581 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9581
-func Fn9581(m *base.Module, l0 int32)
+//go:linkname Fn7254 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7254
+func Fn7254(m *base.Module, l0 int32)
 
-//go:linkname Fn9583 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9583
-func Fn9583(m *base.Module, l0 int32)
+//go:linkname Fn7255 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7255
+func Fn7255(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9584 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9584
-func Fn9584(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn7560 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7560
+func Fn7560(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9586 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9586
-func Fn9586(m *base.Module, l0 int32)
+//go:linkname Fn7562 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7562
+func Fn7562(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9590 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9590
-func Fn9590(m *base.Module, l0 int32)
+//go:linkname Fn7568 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7568
+func Fn7568(m *base.Module, l0 int32)
 
-//go:linkname Fn9594 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9594
-func Fn9594(m *base.Module, l0 int32)
+//go:linkname Fn7577 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7577
+func Fn7577(m *base.Module, l0 int32)
 
-//go:linkname Fn9603 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9603
-func Fn9603(m *base.Module, l0 int32) int32
+//go:linkname Fn7578 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7578
+func Fn7578(m *base.Module, l0 int32)
 
-//go:linkname Fn9612 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9612
-func Fn9612(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn7580 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7580
+func Fn7580(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9620 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9620
-func Fn9620(m *base.Module, l0 int32) int32
+//go:linkname Fn7583 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7583
+func Fn7583(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9652 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9652
-func Fn9652(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn7584 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn7584
+func Fn7584(m *base.Module, l0 int32)
 
-//go:linkname Fn9661 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9661
-func Fn9661(m *base.Module, l0 int32)
+//go:linkname Fn7588 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn7588
+func Fn7588(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9669 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9669
-func Fn9669(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn8734 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8734
+func Fn8734(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9681 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9681
-func Fn9681(m *base.Module, l0 int32)
+//go:linkname Fn8743 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8743
+func Fn8743(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9693 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9693
-func Fn9693(m *base.Module, l0 int32) int32
+//go:linkname Fn8746 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8746
+func Fn8746(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9702 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9702
-func Fn9702(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn8960 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn8960
+func Fn8960(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9729 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9729
-func Fn9729(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn9205 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9205
+func Fn9205(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9737 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9737
-func Fn9737(m *base.Module, l0 int32) int32
+//go:linkname Fn9207 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9207
+func Fn9207(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9738 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9738
-func Fn9738(m *base.Module, l0 int32)
+//go:linkname Fn9209 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn9209
+func Fn9209(m *base.Module, l0 int32)
 
-//go:linkname Fn9752 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9752
-func Fn9752(m *base.Module, l0 int32)
+//go:linkname Fn9213 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9213
+func Fn9213(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9754 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9754
-func Fn9754(m *base.Module, l0 int32)
+//go:linkname Fn9221 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9221
+func Fn9221(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9755 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9755
-func Fn9755(m *base.Module, l0 int32)
+//go:linkname Fn9254 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9254
+func Fn9254(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9756 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9756
-func Fn9756(m *base.Module, l0 int32)
+//go:linkname Fn9256 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9256
+func Fn9256(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9766 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9766
-func Fn9766(m *base.Module, l0 int32) int32
+//go:linkname Fn9270 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9270
+func Fn9270(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9807 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9807
-func Fn9807(m *base.Module, l0 int32) int32
+//go:linkname Fn9285 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9285
+func Fn9285(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9814 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9814
-func Fn9814(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn9367 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9367
+func Fn9367(m *base.Module, l0 int32) int32
 
-//go:linkname Fn9815 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9815
-func Fn9815(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn9807 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9807
+func Fn9807(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn9816 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9816
-func Fn9816(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn9808 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9808
+func Fn9808(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9826 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn9826
-func Fn9826(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32) int32
+//go:linkname Fn9809 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9809
+func Fn9809(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn9828 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9828
-func Fn9828(m *base.Module, l0 int32)
+//go:linkname Fn9812 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn9812
+func Fn9812(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn9838 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9838
-func Fn9838(m *base.Module, l0 int32)
+//go:linkname Fn9827 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9827
+func Fn9827(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn9839 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9839
-func Fn9839(m *base.Module, l0 int32)
+//go:linkname Fn9835 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9835
+func Fn9835(m *base.Module, l0 int32)
 
-//go:linkname Fn9840 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9840
-func Fn9840(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn9864 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9864
+func Fn9864(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn9858 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9858
-func Fn9858(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn9900 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9900
+func Fn9900(m *base.Module, l0 int32)
 
-//go:linkname Fn9860 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9860
-func Fn9860(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn9912 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9912
+func Fn9912(m *base.Module, l0 int32)
 
-//go:linkname Fn9861 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9861
-func Fn9861(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn9913 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9913
+func Fn9913(m *base.Module, l0 int32)
 
-//go:linkname Fn9880 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9880
-func Fn9880(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn9933 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9933
+func Fn9933(m *base.Module, l0 int32)
 
-//go:linkname Fn9885 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9885
-func Fn9885(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn9942 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9942
+func Fn9942(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9906 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9906
-func Fn9906(m *base.Module, l0 int32)
+//go:linkname Fn9943 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn9943
+func Fn9943(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32)
 
-//go:linkname Fn9917 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9917
-func Fn9917(m *base.Module, l0 int32) int32
+//go:linkname Fn9957 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9957
+func Fn9957(m *base.Module, l0 int32)
 
-//go:linkname Fn9920 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9920
-func Fn9920(m *base.Module, l0 int32) int32
+//go:linkname Fn9959 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9959
+func Fn9959(m *base.Module, l0 int32)
 
-//go:linkname Fn9929 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9929
-func Fn9929(m *base.Module, l0 int32) int32
+//go:linkname Fn10001 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10001
+func Fn10001(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9963 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9963
-func Fn9963(m *base.Module, l0 int32) int32
+//go:linkname Fn10009 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10009
+func Fn10009(m *base.Module, l0 int32)
 
-//go:linkname Fn9964 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9964
-func Fn9964(m *base.Module, l0 int32)
+//go:linkname Fn10012 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10012
+func Fn10012(m *base.Module, l0 int32)
 
-//go:linkname Fn9968 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn9968
-func Fn9968(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn10030 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10030
+func Fn10030(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9979 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9979
-func Fn9979(m *base.Module, l0 int32) int32
+//go:linkname Fn10031 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10031
+func Fn10031(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn9987 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn9987
-func Fn9987(m *base.Module, l0 int32) int32
+//go:linkname Fn10032 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn10032
+func Fn10032(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn10028 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10028
-func Fn10028(m *base.Module, l0 int32) int32
+//go:linkname Fn10034 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10034
+func Fn10034(m *base.Module, l0 int32)
 
-//go:linkname Fn10032 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10032
-func Fn10032(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn10044 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10044
+func Fn10044(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn10049 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10049
-func Fn10049(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn10092 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10092
+func Fn10092(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn10059 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10059
-func Fn10059(m *base.Module, l0 int32) int32
+//go:linkname Fn10095 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10095
+func Fn10095(m *base.Module, l0 int32)
 
-//go:linkname Fn10060 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10060
-func Fn10060(m *base.Module, l0 int32)
+//go:linkname Fn10097 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn10097
+func Fn10097(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10075 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10075
-func Fn10075(m *base.Module, l0 int32) int32
+//go:linkname Fn10098 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10098
+func Fn10098(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10091 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10091
-func Fn10091(m *base.Module, l0 int32) int32
+//go:linkname Fn10099 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10099
+func Fn10099(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10102 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10102
-func Fn10102(m *base.Module, l0 int32) int32
+//go:linkname Fn10100 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn10100
+func Fn10100(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10116 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10116
-func Fn10116(m *base.Module, l0 int32)
+//go:linkname Fn10101 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn10101
+func Fn10101(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn10117 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10117
-func Fn10117(m *base.Module, l0 int32)
+//go:linkname Fn10105 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10105
+func Fn10105(m *base.Module, l0 int32)
 
-//go:linkname Fn10119 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10119
-func Fn10119(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn10106 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10106
+func Fn10106(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10120 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10120
-func Fn10120(m *base.Module, l0 int32)
+//go:linkname Fn10107 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10107
+func Fn10107(m *base.Module, l0 int32)
 
-//go:linkname Fn10123 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10123
-func Fn10123(m *base.Module, l0 int32)
+//go:linkname Fn10154 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn10154
+func Fn10154(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn10127 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10127
-func Fn10127(m *base.Module, l0 int32)
+//go:linkname Fn10155 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn10155
+func Fn10155(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn10128 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10128
-func Fn10128(m *base.Module, l0 int32)
+//go:linkname Fn10157 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn10157
+func Fn10157(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10131 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn10131
-func Fn10131(m *base.Module, l0 int32)
+//go:linkname Fn10158 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10158
+func Fn10158(m *base.Module, l0 int32) int32
 
-//go:linkname Fn10138 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10138
-func Fn10138(m *base.Module, l0 int32)
+//go:linkname Fn10162 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10162
+func Fn10162(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10144 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn10144
-func Fn10144(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+//go:linkname Fn10197 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10197
+func Fn10197(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10150 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10150
-func Fn10150(m *base.Module, l0 int32)
+//go:linkname Fn10199 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10199
+func Fn10199(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10151 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10151
-func Fn10151(m *base.Module, l0 int32)
+//go:linkname Fn10200 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10200
+func Fn10200(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10155 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10155
-func Fn10155(m *base.Module, l0 int32)
+//go:linkname Fn10263 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn10263
+func Fn10263(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn10156 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10156
-func Fn10156(m *base.Module, l0 int32)
+//go:linkname Fn10290 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10290
+func Fn10290(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10160 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10160
-func Fn10160(m *base.Module, l0 int32)
+//go:linkname Fn10291 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10291
+func Fn10291(m *base.Module, l0 int32) int32
 
-//go:linkname Fn10165 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10165
-func Fn10165(m *base.Module, l0 int32)
+//go:linkname Fn10293 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn10293
+func Fn10293(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn10166 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn10166
-func Fn10166(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn10295 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10295
+func Fn10295(m *base.Module, l0 int32) int32
 
-//go:linkname Fn10170 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10170
-func Fn10170(m *base.Module, l0 int32)
+//go:linkname Fn10297 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10297
+func Fn10297(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10173 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10173
-func Fn10173(m *base.Module, l0 int32)
+//go:linkname Fn10625 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10625
+func Fn10625(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10186 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10186
-func Fn10186(m *base.Module, l0 int32) int32
+//go:linkname Fn10665 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10665
+func Fn10665(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10194 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn10194
-func Fn10194(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn10669 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10669
+func Fn10669(m *base.Module, l0 int32)
 
-//go:linkname Fn10195 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10195
-func Fn10195(m *base.Module, l0 int32)
+//go:linkname Fn10726 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn10726
+func Fn10726(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn10213 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10213
-func Fn10213(m *base.Module, l0 int32) int32
+//go:linkname Fn10742 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10742
+func Fn10742(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn10216 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10216
-func Fn10216(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn10746 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10746
+func Fn10746(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10224 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10224
-func Fn10224(m *base.Module, l0 int32)
+//go:linkname Fn11104 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11104
+func Fn11104(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10226 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10226
-func Fn10226(m *base.Module, l0 int32) int32
+//go:linkname Fn11105 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11105
+func Fn11105(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10236 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10236
-func Fn10236(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn11109 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn11109
+func Fn11109(m *base.Module, l0 int32)
 
-//go:linkname Fn10246 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10246
-func Fn10246(m *base.Module, l0 int32) int32
+//go:linkname Fn11123 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn11123
+func Fn11123(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn10253 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10253
-func Fn10253(m *base.Module, l0 int32)
+//go:linkname Fn11130 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11130
+func Fn11130(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn10263 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10263
-func Fn10263(m *base.Module, l0 int32) int32
+//go:linkname Fn11131 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11131
+func Fn11131(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn10287 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10287
-func Fn10287(m *base.Module, l0 int32) int32
+//go:linkname Fn11190 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn11190
+func Fn11190(m *base.Module, l0 int32)
 
-//go:linkname Fn10342 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10342
-func Fn10342(m *base.Module, l0 int32)
+//go:linkname Fn11238 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn11238
+func Fn11238(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10357 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10357
-func Fn10357(m *base.Module, l0 int32) int32
+//go:linkname Fn11239 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11239
+func Fn11239(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10359 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10359
-func Fn10359(m *base.Module, l0 int32)
+//go:linkname Fn11252 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn11252
+func Fn11252(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10365 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn10365
-func Fn10365(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32) int32
+//go:linkname Fn11427 github.com/tyzerrr/spanneranalyzerwasm2go/p2.Fn11427
+func Fn11427(m *base.Module, l0 int32)
 
-//go:linkname Fn10369 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn10369
-func Fn10369(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32) int32
+//go:linkname Fn11444 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11444
+func Fn11444(m *base.Module, l0 int32)
 
-//go:linkname Fn10386 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10386
-func Fn10386(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn11495 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn11495
+func Fn11495(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10400 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10400
-func Fn10400(m *base.Module, l0 int32) int32
+//go:linkname Fn11496 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn11496
+func Fn11496(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10412 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10412
-func Fn10412(m *base.Module, l0 int32) int32
+//go:linkname Fn11497 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn11497
+func Fn11497(m *base.Module, l0 int32)
 
-//go:linkname Fn10416 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10416
-func Fn10416(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn11551 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11551
+func Fn11551(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10424 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10424
-func Fn10424(m *base.Module, l0 int32) int32
+//go:linkname Fn11659 github.com/tyzerrr/spanneranalyzerwasm2go/p2.Fn11659
+func Fn11659(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn10425 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10425
-func Fn10425(m *base.Module, l0 int32)
+//go:linkname Fn11664 github.com/tyzerrr/spanneranalyzerwasm2go/p2.Fn11664
+func Fn11664(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10428 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10428
-func Fn10428(m *base.Module, l0 int32)
+//go:linkname Fn11823 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11823
+func Fn11823(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10438 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10438
-func Fn10438(m *base.Module, l0 int32) int32
+//go:linkname Fn11824 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11824
+func Fn11824(m *base.Module, l0 int32) int32
 
-//go:linkname Fn10450 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10450
-func Fn10450(m *base.Module, l0 int32) int32
+//go:linkname Fn11825 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11825
+func Fn11825(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn10462 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10462
-func Fn10462(m *base.Module, l0 int32) int32
+//go:linkname Fn11826 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11826
+func Fn11826(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn10472 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10472
-func Fn10472(m *base.Module, l0 int32) int32
+//go:linkname Fn11830 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11830
+func Fn11830(m *base.Module, l0 int32)
 
-//go:linkname Fn10473 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10473
-func Fn10473(m *base.Module, l0 int32)
+//go:linkname Fn12140 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12140
+func Fn12140(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn10482 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10482
-func Fn10482(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn12198 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12198
+func Fn12198(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10483 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10483
-func Fn10483(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn12199 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn12199
+func Fn12199(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10499 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10499
-func Fn10499(m *base.Module, l0 int32) int32
+//go:linkname Fn12200 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn12200
+func Fn12200(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn10515 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10515
-func Fn10515(m *base.Module, l0 int32)
-
-//go:linkname Fn10526 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10526
-func Fn10526(m *base.Module, l0 int32)
-
-//go:linkname Fn10540 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn10540
-func Fn10540(m *base.Module, l0 int32) int32
-
-//go:linkname Fn10541 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn10541
-func Fn10541(m *base.Module, l0 int32)
-
-//go:linkname Fn10547 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn10547
-func Fn10547(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10556 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10556
-func Fn10556(m *base.Module, l0 int32) int32
-
-//go:linkname Fn10557 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10557
-func Fn10557(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10562 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10562
-func Fn10562(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10574 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10574
-func Fn10574(m *base.Module, l0 int32) int32
-
-//go:linkname Fn10579 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10579
-func Fn10579(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10589 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10589
-func Fn10589(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10602 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10602
-func Fn10602(m *base.Module, l0 int32)
-
-//go:linkname Fn10606 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10606
-func Fn10606(m *base.Module, l0 int32) int32
-
-//go:linkname Fn10610 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10610
-func Fn10610(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10621 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10621
-func Fn10621(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10636 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10636
-func Fn10636(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10649 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10649
-func Fn10649(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10655 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10655
-func Fn10655(m *base.Module, l0 int32) int32
-
-//go:linkname Fn10656 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10656
-func Fn10656(m *base.Module, l0 int32)
-
-//go:linkname Fn10662 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10662
-func Fn10662(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10672 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10672
-func Fn10672(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10684 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10684
-func Fn10684(m *base.Module, l0 int32) int32
-
-//go:linkname Fn10687 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10687
-func Fn10687(m *base.Module, l0 int32) int32
-
-//go:linkname Fn10688 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn10688
-func Fn10688(m *base.Module, l0 int32)
-
-//go:linkname Fn10689 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10689
-func Fn10689(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10713 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10713
-func Fn10713(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn10715 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10715
-func Fn10715(m *base.Module, l0 int32) int32
-
-//go:linkname Fn10750 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn10750
-func Fn10750(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32) int32
-
-//go:linkname Fn10790 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10790
-func Fn10790(m *base.Module, l0 int32)
-
-//go:linkname Fn10791 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10791
-func Fn10791(m *base.Module, l0 int32)
-
-//go:linkname Fn10882 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn10882
-func Fn10882(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11029 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11029
-func Fn11029(m *base.Module, l0 int32)
-
-//go:linkname Fn11030 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11030
-func Fn11030(m *base.Module, l0 int32)
-
-//go:linkname Fn11031 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11031
-func Fn11031(m *base.Module, l0 int32)
-
-//go:linkname Fn11040 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11040
-func Fn11040(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32, l16 int32) int32
-
-//go:linkname Fn11042 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11042
-func Fn11042(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32, l16 int32) int32
-
-//go:linkname Fn11053 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11053
-func Fn11053(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11075 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11075
-func Fn11075(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11131 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn11131
-func Fn11131(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11135 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11135
-func Fn11135(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11183 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11183
-func Fn11183(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11279 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11279
-func Fn11279(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11289 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11289
-func Fn11289(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11292 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11292
-func Fn11292(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11301 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn11301
-func Fn11301(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11302 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11302
-func Fn11302(m *base.Module, l0 int32)
-
-//go:linkname Fn11325 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11325
-func Fn11325(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11328 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11328
-func Fn11328(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11334 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn11334
-func Fn11334(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11337 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11337
-func Fn11337(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11341 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn11341
-func Fn11341(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11348 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn11348
-func Fn11348(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11356 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn11356
-func Fn11356(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11363 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn11363
-func Fn11363(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11367 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11367
-func Fn11367(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11392 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11392
-func Fn11392(m *base.Module, l0 int32)
-
-//go:linkname Fn11404 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11404
-func Fn11404(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11405 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11405
-func Fn11405(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11429 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn11429
-func Fn11429(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11430 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11430
-func Fn11430(m *base.Module, l0 int32)
-
-//go:linkname Fn11434 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11434
-func Fn11434(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11441 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11441
-func Fn11441(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11442 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11442
-func Fn11442(m *base.Module, l0 int32)
-
-//go:linkname Fn11443 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11443
-func Fn11443(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11447 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11447
-func Fn11447(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11458 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11458
-func Fn11458(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11462 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11462
-func Fn11462(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11469 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11469
-func Fn11469(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11477 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11477
-func Fn11477(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11478 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11478
-func Fn11478(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn11484 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11484
-func Fn11484(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11490 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn11490
-func Fn11490(m *base.Module, l0 int32) int32
-
-//go:linkname Fn11900 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn11900
-func Fn11900(m *base.Module, l0 int32)
-
-//go:linkname Fn12153 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12153
-func Fn12153(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12167 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12167
-func Fn12167(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12193 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12193
-func Fn12193(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12194 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12194
-func Fn12194(m *base.Module, l0 int32)
-
-//go:linkname Fn12207 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12207
-func Fn12207(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12208 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12208
-func Fn12208(m *base.Module, l0 int32)
+//go:linkname Fn12205 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12205
+func Fn12205(m *base.Module, l0 int32)
 
 //go:linkname Fn12214 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12214
-func Fn12214(m *base.Module, l0 int32, l1 int32)
+func Fn12214(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn12215 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12215
-func Fn12215(m *base.Module, l0 int32)
+//go:linkname Fn12216 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn12216
+func Fn12216(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn12264 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12264
-func Fn12264(m *base.Module, l0 int32)
+//go:linkname Fn12228 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12228
+func Fn12228(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn12276 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12276
-func Fn12276(m *base.Module, l0 int32) int32
+//go:linkname Fn12229 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12229
+func Fn12229(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn12280 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12280
-func Fn12280(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn12230 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn12230
+func Fn12230(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn12290 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12290
-func Fn12290(m *base.Module, l0 int32)
+//go:linkname Fn12376 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12376
+func Fn12376(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn12429 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12429
-func Fn12429(m *base.Module, l0 int32)
+//go:linkname Fn12377 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn12377
+func Fn12377(m *base.Module, l0 int32, l1 int32, l2 int32)
 
 //go:linkname Fn12430 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12430
-func Fn12430(m *base.Module, l0 int32)
+func Fn12430(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn12432 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12432
-func Fn12432(m *base.Module, l0 int32) int32
+//go:linkname Fn12991 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12991
+func Fn12991(m *base.Module, l0 int32)
 
-//go:linkname Fn12436 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12436
-func Fn12436(m *base.Module, l0 int32)
-
-//go:linkname Fn12443 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12443
-func Fn12443(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12446 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12446
-func Fn12446(m *base.Module, l0 int32)
-
-//go:linkname Fn12455 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12455
-func Fn12455(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12458 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12458
-func Fn12458(m *base.Module, l0 int32)
-
-//go:linkname Fn12467 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12467
-func Fn12467(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12468 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12468
-func Fn12468(m *base.Module, l0 int32)
-
-//go:linkname Fn12478 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12478
-func Fn12478(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn12479 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12479
-func Fn12479(m *base.Module, l0 int32)
-
-//go:linkname Fn12522 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12522
-func Fn12522(m *base.Module, l0 int32)
-
-//go:linkname Fn12526 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12526
-func Fn12526(m *base.Module, l0 int32)
-
-//go:linkname Fn12540 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12540
-func Fn12540(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn12588 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12588
-func Fn12588(m *base.Module, l0 int32)
-
-//go:linkname Fn12603 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12603
-func Fn12603(m *base.Module, l0 int32)
-
-//go:linkname Fn12626 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12626
-func Fn12626(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12634 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12634
-func Fn12634(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12637 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12637
-func Fn12637(m *base.Module, l0 int32)
-
-//go:linkname Fn12658 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12658
-func Fn12658(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12663 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12663
-func Fn12663(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12673 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12673
-func Fn12673(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12687 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12687
-func Fn12687(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12702 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12702
-func Fn12702(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12703 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12703
-func Fn12703(m *base.Module, l0 int32)
-
-//go:linkname Fn12707 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12707
-func Fn12707(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn12735 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12735
-func Fn12735(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12736 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12736
-func Fn12736(m *base.Module, l0 int32)
-
-//go:linkname Fn12740 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12740
-func Fn12740(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn12755 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12755
-func Fn12755(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12765 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12765
-func Fn12765(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12775 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn12775
-func Fn12775(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12831 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12831
-func Fn12831(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12852 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12852
-func Fn12852(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn12861 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12861
-func Fn12861(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12862 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12862
-func Fn12862(m *base.Module, l0 int32)
-
-//go:linkname Fn12874 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12874
-func Fn12874(m *base.Module, l0 int32) int32
-
-//go:linkname Fn12877 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn12877
-func Fn12877(m *base.Module, l0 int32)
-
-//go:linkname Fn13487 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13487
-func Fn13487(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13488 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13488
-func Fn13488(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn13497 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13497
-func Fn13497(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13503 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13503
-func Fn13503(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13507 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13507
-func Fn13507(m *base.Module, l0 int32)
-
-//go:linkname Fn13510 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13510
-func Fn13510(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13511 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13511
-func Fn13511(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13512 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13512
-func Fn13512(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn13513 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13513
-func Fn13513(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn13521 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13521
-func Fn13521(m *base.Module, l0 int32)
-
-//go:linkname Fn13523 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13523
-func Fn13523(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13524 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13524
-func Fn13524(m *base.Module, l0 int32)
-
-//go:linkname Fn13525 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13525
-func Fn13525(m *base.Module, l0 int32)
-
-//go:linkname Fn13540 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13540
-func Fn13540(m *base.Module, l0 int32)
-
-//go:linkname Fn13541 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13541
-func Fn13541(m *base.Module, l0 int32)
-
-//go:linkname Fn13542 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13542
-func Fn13542(m *base.Module, l0 int32)
-
-//go:linkname Fn13543 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13543
-func Fn13543(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13544 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13544
-func Fn13544(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn13545 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13545
-func Fn13545(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13546 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13546
-func Fn13546(m *base.Module, l0 int32)
-
-//go:linkname Fn13547 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13547
-func Fn13547(m *base.Module, l0 int32) int32
-
-//go:linkname Fn13548 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13548
-func Fn13548(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13550 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13550
-func Fn13550(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13551 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13551
-func Fn13551(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13552 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13552
-func Fn13552(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn13553 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13553
-func Fn13553(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32) int32
-
-//go:linkname Fn13554 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13554
-func Fn13554(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13555 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13555
-func Fn13555(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn13556 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13556
-func Fn13556(m *base.Module, l0 int32)
-
-//go:linkname Fn13557 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13557
-func Fn13557(m *base.Module, l0 int32)
-
-//go:linkname Fn13558 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13558
-func Fn13558(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13569 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13569
-func Fn13569(m *base.Module, l0 int32)
-
-//go:linkname Fn13570 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13570
-func Fn13570(m *base.Module, l0 int32)
-
-//go:linkname Fn13585 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13585
-func Fn13585(m *base.Module, l0 int32)
-
-//go:linkname Fn13589 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13589
-func Fn13589(m *base.Module, l0 int32)
-
-//go:linkname Fn13593 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13593
-func Fn13593(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13606 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13606
-func Fn13606(m *base.Module, l0 int32)
-
-//go:linkname Fn13607 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13607
-func Fn13607(m *base.Module, l0 int32)
-
-//go:linkname Fn13615 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13615
-func Fn13615(m *base.Module, l0 int32)
-
-//go:linkname Fn13619 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13619
-func Fn13619(m *base.Module, l0 int32)
-
-//go:linkname Fn13621 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13621
-func Fn13621(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13625 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13625
-func Fn13625(m *base.Module, l0 int32)
-
-//go:linkname Fn13638 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13638
-func Fn13638(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13651 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13651
-func Fn13651(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13652 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13652
-func Fn13652(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13653 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13653
-func Fn13653(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn13666 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13666
-func Fn13666(m *base.Module, l0 int32)
-
-//go:linkname Fn13669 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13669
-func Fn13669(m *base.Module, l0 int32)
-
-//go:linkname Fn13674 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13674
-func Fn13674(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13675 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13675
-func Fn13675(m *base.Module, l0 int32)
-
-//go:linkname Fn13677 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13677
-func Fn13677(m *base.Module, l0 int32)
-
-//go:linkname Fn13681 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13681
-func Fn13681(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn13682 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13682
-func Fn13682(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13683 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13683
-func Fn13683(m *base.Module, l0 int32)
-
-//go:linkname Fn13684 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13684
-func Fn13684(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13685 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13685
-func Fn13685(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13686 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13686
-func Fn13686(m *base.Module, l0 int32)
-
-//go:linkname Fn13687 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13687
-func Fn13687(m *base.Module, l0 int32) int32
-
-//go:linkname Fn13688 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13688
-func Fn13688(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13689 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13689
-func Fn13689(m *base.Module, l0 int32)
-
-//go:linkname Fn13690 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13690
-func Fn13690(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13692 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13692
-func Fn13692(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn13695 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13695
-func Fn13695(m *base.Module, l0 int32) int32
-
-//go:linkname Fn13696 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13696
-func Fn13696(m *base.Module, l0 int32)
-
-//go:linkname Fn13698 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13698
-func Fn13698(m *base.Module, l0 int32)
-
-//go:linkname Fn13699 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13699
-func Fn13699(m *base.Module, l0 int32) int32
-
-//go:linkname Fn13703 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13703
-func Fn13703(m *base.Module, l0 int32)
-
-//go:linkname Fn13741 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13741
-func Fn13741(m *base.Module, l0 int32)
-
-//go:linkname Fn13742 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13742
-func Fn13742(m *base.Module, l0 int32)
-
-//go:linkname Fn13743 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13743
-func Fn13743(m *base.Module, l0 int32)
-
-//go:linkname Fn13757 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13757
-func Fn13757(m *base.Module, l0 int32)
-
-//go:linkname Fn13767 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13767
-func Fn13767(m *base.Module, l0 int32)
-
-//go:linkname Fn13771 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13771
-func Fn13771(m *base.Module, l0 int32)
-
-//go:linkname Fn13776 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13776
-func Fn13776(m *base.Module, l0 int32)
-
-//go:linkname Fn13789 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13789
-func Fn13789(m *base.Module, l0 int32)
-
-//go:linkname Fn13790 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13790
-func Fn13790(m *base.Module, l0 int32)
-
-//go:linkname Fn13791 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13791
-func Fn13791(m *base.Module, l0 int32)
-
-//go:linkname Fn13821 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13821
-func Fn13821(m *base.Module, l0 int32)
-
-//go:linkname Fn13828 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13828
-func Fn13828(m *base.Module, l0 int32)
-
-//go:linkname Fn13860 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13860
+//go:linkname Fn13860 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13860
 func Fn13860(m *base.Module, l0 int32)
 
-//go:linkname Fn13890 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13890
-func Fn13890(m *base.Module, l0 int32)
+//go:linkname Fn13877 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13877
+func Fn13877(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn13894 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13894
-func Fn13894(m *base.Module, l0 int32)
+//go:linkname Fn14071 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14071
+func Fn14071(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn13901 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13901
-func Fn13901(m *base.Module, l0 int32)
+//go:linkname Fn14125 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14125
+func Fn14125(m *base.Module, l0 int32) int32
 
-//go:linkname Fn13902 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13902
-func Fn13902(m *base.Module, l0 int32)
+//go:linkname Fn14747 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14747
+func Fn14747(m *base.Module, l0 int32) int32
 
-//go:linkname Fn13904 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13904
-func Fn13904(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn14840 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14840
+func Fn14840(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn13905 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn13905
-func Fn13905(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13906 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13906
-func Fn13906(m *base.Module, l0 int32)
-
-//go:linkname Fn13907 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13907
-func Fn13907(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13912 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13912
-func Fn13912(m *base.Module, l0 int32)
-
-//go:linkname Fn13914 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13914
-func Fn13914(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13915 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13915
-func Fn13915(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn13916 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn13916
-func Fn13916(m *base.Module, l0 int32) int32
-
-//go:linkname Fn13917 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13917
-func Fn13917(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13919 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13919
-func Fn13919(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13924 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13924
-func Fn13924(m *base.Module, l0 int32)
-
-//go:linkname Fn13925 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13925
-func Fn13925(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13926 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13926
-func Fn13926(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13927 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13927
-func Fn13927(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13928 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13928
-func Fn13928(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13931 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13931
-func Fn13931(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13932 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13932
-func Fn13932(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13947 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13947
-func Fn13947(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13948 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13948
-func Fn13948(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13952 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn13952
-func Fn13952(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn13954 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13954
-func Fn13954(m *base.Module, l0 int32)
-
-//go:linkname Fn13955 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13955
-func Fn13955(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn13963 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn13963
-func Fn13963(m *base.Module, l0 int64, l1 int32) int64
-
-//go:linkname Fn13964 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn13964
-func Fn13964(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn13972 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn13972
-func Fn13972(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn14007 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn14007
-func Fn14007(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn14009 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14009
-func Fn14009(m *base.Module, l0 int32) int32
-
-//go:linkname Fn14010 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14010
-func Fn14010(m *base.Module, l0 int32) int32
-
-//go:linkname Fn14015 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn14015
-func Fn14015(m *base.Module, l0 int32) int32
-
-//go:linkname Fn14029 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn14029
-func Fn14029(m *base.Module, l0 int32)
-
-//go:linkname Fn14030 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14030
-func Fn14030(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn14031 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14031
-func Fn14031(m *base.Module, l0 int32)
-
-//go:linkname Fn14032 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14032
-func Fn14032(m *base.Module, l0 int32) int32
-
-//go:linkname Fn14035 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn14035
-func Fn14035(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn14037 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14037
-func Fn14037(m *base.Module, l0 int32)
-
-//go:linkname Fn14038 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14038
-func Fn14038(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn14043 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14043
-func Fn14043(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn14046 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14046
-func Fn14046(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn14051 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14051
-func Fn14051(m *base.Module, l0 int32)
-
-//go:linkname Fn14059 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14059
-func Fn14059(m *base.Module, l0 int32) int32
-
-//go:linkname Fn14074 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14074
-func Fn14074(m *base.Module, l0 int32)
-
-//go:linkname Fn14075 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14075
-func Fn14075(m *base.Module, l0 int32)
-
-//go:linkname Fn14088 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14088
-func Fn14088(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn14090 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14090
-func Fn14090(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn14091 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14091
-func Fn14091(m *base.Module, l0 int32)
-
-//go:linkname Fn14109 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14109
-func Fn14109(m *base.Module, l0 int32) int32
-
-//go:linkname Fn14122 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14122
-func Fn14122(m *base.Module, l0 int32) int64
-
-//go:linkname Fn14134 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14134
-func Fn14134(m *base.Module, l0 int64, l1 int32, l2 int32) int32
-
-//go:linkname Fn14138 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14138
-func Fn14138(m *base.Module, l0 int32) int32
-
-//go:linkname Fn14140 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14140
-func Fn14140(m *base.Module, l0 int32)
-
-//go:linkname Fn14144 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14144
-func Fn14144(m *base.Module, l0 int64, l1 int32, l2 int32, l3 int64, l4 int32, l5 int32) int64
-
-//go:linkname Fn14159 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14159
-func Fn14159(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn14203 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn14203
-func Fn14203(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
-
-//go:linkname Fn14204 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14204
-func Fn14204(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn14209 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn14209
-func Fn14209(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn14210 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn14210
-func Fn14210(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn14213 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn14213
-func Fn14213(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn14252 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14252
-func Fn14252(m *base.Module, l0 int32, l1 int64)
-
-//go:linkname Fn14260 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14260
-func Fn14260(m *base.Module, l0 int32, l1 int64)
-
-//go:linkname Fn14261 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn14261
-func Fn14261(m *base.Module, l0 int32, l1 int64, l2 int64)
-
-//go:linkname Fn14274 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14274
-func Fn14274(m *base.Module, l0 int32, l1 int64, l2 int64) int32
-
-//go:linkname Fn14305 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14305
-func Fn14305(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn14354 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14354
-func Fn14354(m *base.Module, l0 int32) int32
-
-//go:linkname Fn14478 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14478
-func Fn14478(m *base.Module, l0 int32, l1 int64, l2 int64, l3 int32)
-
-//go:linkname Fn14489 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14489
-func Fn14489(m *base.Module, l0 int32, l1 int64)
-
-//go:linkname Fn14500 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14500
-func Fn14500(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn14504 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn14504
-func Fn14504(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn14524 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn14524
-func Fn14524(m *base.Module, l0 int32, l1 int64, l2 int32) int32
-
-//go:linkname Fn14525 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14525
-func Fn14525(m *base.Module, l0 int32, l1 int64) int32
-
-//go:linkname Fn14535 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14535
-func Fn14535(m *base.Module, l0 int32, l1 int64) int32
-
-//go:linkname Fn14538 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14538
-func Fn14538(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn14541 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn14541
-func Fn14541(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn14542 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14542
-func Fn14542(m *base.Module, l0 int32, l1 int64) int32
-
-//go:linkname Fn14543 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14543
-func Fn14543(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn14546 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn14546
-func Fn14546(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn14547 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14547
-func Fn14547(m *base.Module, l0 int32, l1 int64) int32
-
-//go:linkname Fn14582 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn14582
-func Fn14582(m *base.Module, l0 int32) float64
-
-//go:linkname Fn14667 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14667
-func Fn14667(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn14683 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14683
-func Fn14683(m *base.Module, l0 int32) int32
-
-//go:linkname Fn14685 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn14685
-func Fn14685(m *base.Module, l0 int32) float64
-
-//go:linkname Fn14810 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn14810
-func Fn14810(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn14812 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14812
-func Fn14812(m *base.Module, l0 int32)
-
-//go:linkname Fn14829 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14829
-func Fn14829(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn14881 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14881
-func Fn14881(m *base.Module, l0 int32) int32
-
-//go:linkname Fn14916 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14916
-func Fn14916(m *base.Module, l0 int32)
-
-//go:linkname Fn14917 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14917
-func Fn14917(m *base.Module, l0 int32)
-
-//go:linkname Fn14969 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn14969
-func Fn14969(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn14989 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14989
-func Fn14989(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn14993 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14993
-func Fn14993(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn14994 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14994
-func Fn14994(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn14995 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn14995
-func Fn14995(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn14999 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn14999
-func Fn14999(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15000 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15000
-func Fn15000(m *base.Module, l0 int32)
+//go:linkname Fn14997 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn14997
+func Fn14997(m *base.Module, l0 int32)
 
 //go:linkname Fn15001 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15001
-func Fn15001(m *base.Module, l0 int32) int32
+func Fn15001(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15002 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15002
-func Fn15002(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn15114 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15114
+func Fn15114(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn15003 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn15003
-func Fn15003(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn15124 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15124
+func Fn15124(m *base.Module, l0 int32) int32
 
-//go:linkname Fn15017 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15017
-func Fn15017(m *base.Module, l0 int32) int32
+//go:linkname Fn15275 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15275
+func Fn15275(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15021 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15021
-func Fn15021(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn15428 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15428
+func Fn15428(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15071 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15071
-func Fn15071(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn15429 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15429
+func Fn15429(m *base.Module, l0 int32)
 
-//go:linkname Fn15076 github.com/tyzerrr/spanneranalyzerwasm2go/p3.Fn15076
-func Fn15076(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn15430 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15430
+func Fn15430(m *base.Module, l0 int32)
 
-//go:linkname Fn15079 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn15079
-func Fn15079(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+//go:linkname Fn15561 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15561
+func Fn15561(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn15096 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15096
-func Fn15096(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+//go:linkname Fn15717 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn15717
+func Fn15717(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15106 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15106
-func Fn15106(m *base.Module, l0 int32)
+//go:linkname Fn15724 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15724
+func Fn15724(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn15124 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15124
-func Fn15124(m *base.Module, l0 int32)
+//go:linkname Fn15727 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15727
+func Fn15727(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn15125 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15125
-func Fn15125(m *base.Module, l0 int32)
+//go:linkname Fn15729 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15729
+func Fn15729(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn15126 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15126
-func Fn15126(m *base.Module, l0 int32)
+//go:linkname Fn15730 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15730
+func Fn15730(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn15146 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn15146
-func Fn15146(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+//go:linkname Fn15731 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15731
+func Fn15731(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15147 github.com/tyzerrr/spanneranalyzerwasm2go/p2.Fn15147
-func Fn15147(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn15732 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15732
+func Fn15732(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15152 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15152
-func Fn15152(m *base.Module, l0 int32) int32
+//go:linkname Fn15733 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15733
+func Fn15733(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn15157 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15157
-func Fn15157(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn15736 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn15736
+func Fn15736(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn15194 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15194
-func Fn15194(m *base.Module, l0 int32) int32
+//go:linkname Fn15738 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15738
+func Fn15738(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn15197 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15197
-func Fn15197(m *base.Module, l0 int32) int32
+//go:linkname Fn15739 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15739
+func Fn15739(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15243 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15243
-func Fn15243(m *base.Module) int32
+//go:linkname Fn15740 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn15740
+func Fn15740(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn15244 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15244
-func Fn15244(m *base.Module, l0 int32)
+//go:linkname Fn15741 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn15741
+func Fn15741(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn15245 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15245
-func Fn15245(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn15743 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn15743
+func Fn15743(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int64, l4 int32) int32
 
-//go:linkname Fn15246 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15246
-func Fn15246(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn15904 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15904
+func Fn15904(m *base.Module, l0 int32) int32
 
-//go:linkname Fn15251 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15251
-func Fn15251(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn15905 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15905
+func Fn15905(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15258 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15258
-func Fn15258(m *base.Module, l0 int32)
+//go:linkname Fn15936 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn15936
+func Fn15936(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
 
-//go:linkname Fn15317 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15317
-func Fn15317(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn15978 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15978
+func Fn15978(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn15318 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15318
-func Fn15318(m *base.Module, l0 int32)
+//go:linkname Fn16039 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn16039
+func Fn16039(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15357 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15357
-func Fn15357(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16040 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16040
+func Fn16040(m *base.Module, l0 int32)
 
-//go:linkname Fn15358 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn15358
-func Fn15358(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16041 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16041
+func Fn16041(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15359 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15359
-func Fn15359(m *base.Module, l0 int32)
+//go:linkname Fn16043 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn16043
+func Fn16043(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn15360 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15360
-func Fn15360(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16170 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16170
+func Fn16170(m *base.Module, l0 int32)
 
-//go:linkname Fn15362 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn15362
-func Fn15362(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn16174 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16174
+func Fn16174(m *base.Module, l0 int32)
 
-//go:linkname Fn15374 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15374
-func Fn15374(m *base.Module, l0 int32)
+//go:linkname Fn16175 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16175
+func Fn16175(m *base.Module, l0 int32)
 
-//go:linkname Fn15376 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15376
-func Fn15376(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16180 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16180
+func Fn16180(m *base.Module, l0 int32)
 
-//go:linkname Fn15391 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15391
-func Fn15391(m *base.Module, l0 int32) int32
+//go:linkname Fn16207 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16207
+func Fn16207(m *base.Module, l0 int32)
 
-//go:linkname Fn15515 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15515
-func Fn15515(m *base.Module) int32
+//go:linkname Fn16209 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16209
+func Fn16209(m *base.Module, l0 int32)
 
-//go:linkname Fn15554 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn15554
-func Fn15554(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16210 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16210
+func Fn16210(m *base.Module, l0 int32)
 
-//go:linkname Fn15576 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15576
-func Fn15576(m *base.Module, l0 int32) int32
+//go:linkname Fn16221 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16221
+func Fn16221(m *base.Module, l0 int32)
 
-//go:linkname Fn15616 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15616
-func Fn15616(m *base.Module, l0 int32) int32
+//go:linkname Fn16224 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16224
+func Fn16224(m *base.Module, l0 int32)
 
-//go:linkname Fn15629 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15629
-func Fn15629(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16234 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16234
+func Fn16234(m *base.Module, l0 int32)
 
-//go:linkname Fn15630 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15630
-func Fn15630(m *base.Module, l0 int32)
+//go:linkname Fn16242 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16242
+func Fn16242(m *base.Module, l0 int32)
 
-//go:linkname Fn15632 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15632
-func Fn15632(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16245 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16245
+func Fn16245(m *base.Module, l0 int32)
 
-//go:linkname Fn15652 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15652
-func Fn15652(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16284 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16284
+func Fn16284(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn15661 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15661
-func Fn15661(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16285 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn16285
+func Fn16285(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15662 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15662
-func Fn15662(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn16294 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn16294
+func Fn16294(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15686 github.com/tyzerrr/spanneranalyzerwasm2go/p3.Fn15686
-func Fn15686(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn16304 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn16304
+func Fn16304(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15705 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15705
-func Fn15705(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn16306 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn16306
+func Fn16306(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32) int32
 
-//go:linkname Fn15713 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15713
-func Fn15713(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16314 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn16314
+func Fn16314(m *base.Module, l0 int32)
 
-//go:linkname Fn15718 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15718
-func Fn15718(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16316 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn16316
+func Fn16316(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn15722 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn15722
-func Fn15722(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn16317 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16317
+func Fn16317(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn15723 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15723
-func Fn15723(m *base.Module, l0 int32)
+//go:linkname Fn16319 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn16319
+func Fn16319(m *base.Module, l0 int32)
 
-//go:linkname Fn15724 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15724
-func Fn15724(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16320 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16320
+func Fn16320(m *base.Module, l0 int32)
 
-//go:linkname Fn15815 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn15815
-func Fn15815(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn16326 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16326
+func Fn16326(m *base.Module, l0 int32)
 
-//go:linkname Fn15822 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15822
-func Fn15822(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16337 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16337
+func Fn16337(m *base.Module, l0 int32)
 
-//go:linkname Fn15823 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15823
-func Fn15823(m *base.Module, l0 int32)
+//go:linkname Fn16339 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16339
+func Fn16339(m *base.Module, l0 int32)
 
-//go:linkname Fn15825 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15825
-func Fn15825(m *base.Module, l0 int32)
+//go:linkname Fn16366 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16366
+func Fn16366(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn15829 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15829
-func Fn15829(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16367 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16367
+func Fn16367(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn15832 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15832
-func Fn15832(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn16388 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16388
+func Fn16388(m *base.Module, l0 int32)
 
-//go:linkname Fn15833 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15833
-func Fn15833(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16397 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16397
+func Fn16397(m *base.Module, l0 int32)
 
-//go:linkname Fn15834 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15834
-func Fn15834(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+//go:linkname Fn16399 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16399
+func Fn16399(m *base.Module, l0 int32)
 
-//go:linkname Fn15837 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15837
-func Fn15837(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16403 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16403
+func Fn16403(m *base.Module, l0 int32)
 
-//go:linkname Fn15838 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15838
-func Fn15838(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16407 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16407
+func Fn16407(m *base.Module, l0 int32)
 
-//go:linkname Fn15839 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15839
-func Fn15839(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn16417 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16417
+func Fn16417(m *base.Module, l0 int32) int32
 
-//go:linkname Fn15840 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15840
-func Fn15840(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn16432 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16432
+func Fn16432(m *base.Module, l0 int32) int32
 
-//go:linkname Fn15841 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15841
-func Fn15841(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16499 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16499
+func Fn16499(m *base.Module, l0 int32) int32
 
-//go:linkname Fn15842 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15842
-func Fn15842(m *base.Module, l0 int32)
+//go:linkname Fn16541 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16541
+func Fn16541(m *base.Module, l0 int32) int32
 
-//go:linkname Fn15843 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15843
-func Fn15843(m *base.Module, l0 int32)
+//go:linkname Fn16542 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16542
+func Fn16542(m *base.Module, l0 int32)
 
-//go:linkname Fn15845 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15845
-func Fn15845(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn16602 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16602
+func Fn16602(m *base.Module, l0 int32) int32
 
-//go:linkname Fn15847 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15847
-func Fn15847(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn15848 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn15848
-func Fn15848(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn15849 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15849
-func Fn15849(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15852 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15852
-func Fn15852(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15855 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15855
-func Fn15855(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn15858 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15858
-func Fn15858(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15860 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15860
-func Fn15860(m *base.Module, l0 int32)
-
-//go:linkname Fn15861 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15861
-func Fn15861(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn15862 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15862
-func Fn15862(m *base.Module, l0 int32)
-
-//go:linkname Fn15863 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15863
-func Fn15863(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15864 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn15864
-func Fn15864(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn15865 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15865
-func Fn15865(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15866 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15866
-func Fn15866(m *base.Module, l0 int32) int32
-
-//go:linkname Fn15879 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15879
-func Fn15879(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15880 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15880
-func Fn15880(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15881 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15881
-func Fn15881(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15883 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15883
-func Fn15883(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn15884 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15884
-func Fn15884(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn15885 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15885
-func Fn15885(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15886 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15886
-func Fn15886(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15895 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn15895
-func Fn15895(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn15898 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn15898
-func Fn15898(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn15902 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15902
-func Fn15902(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15904 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15904
-func Fn15904(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15905 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn15905
-func Fn15905(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn15906 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15906
-func Fn15906(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn15908 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn15908
-func Fn15908(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15915 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15915
-func Fn15915(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15916 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15916
-func Fn15916(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15917 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15917
-func Fn15917(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15919 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn15919
-func Fn15919(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn15920 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15920
-func Fn15920(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn15922 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn15922
-func Fn15922(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15926 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn15926
-func Fn15926(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15944 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15944
-func Fn15944(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn15945 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15945
-func Fn15945(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn15953 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15953
-func Fn15953(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn15971 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15971
-func Fn15971(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15976 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15976
-func Fn15976(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15991 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15991
-func Fn15991(m *base.Module, l0 int32) int32
-
-//go:linkname Fn15995 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15995
-func Fn15995(m *base.Module, l0 int32)
-
-//go:linkname Fn15997 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn15997
-func Fn15997(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn15998 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn15998
-func Fn15998(m *base.Module, l0 int32)
-
-//go:linkname Fn16002 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16002
-func Fn16002(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn16003 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16003
-func Fn16003(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn16009 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn16009
-func Fn16009(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn16044 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn16044
-func Fn16044(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn16051 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn16051
-func Fn16051(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn16052 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn16052
-func Fn16052(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn16055 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn16055
-func Fn16055(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn16061 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16061
-func Fn16061(m *base.Module, l0 int32) int32
-
-//go:linkname Fn16365 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16365
-func Fn16365(m *base.Module, l0 int32) int32
-
-//go:linkname Fn16369 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16369
-func Fn16369(m *base.Module, l0 int32) int32
-
-//go:linkname Fn16373 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16373
-func Fn16373(m *base.Module, l0 int32) int32
-
-//go:linkname Fn16377 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16377
-func Fn16377(m *base.Module, l0 int32) int32
-
-//go:linkname Fn16384 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16384
-func Fn16384(m *base.Module, l0 int32) int32
-
-//go:linkname Fn16501 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16501
-func Fn16501(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn16503 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16503
-func Fn16503(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn16550 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16550
-func Fn16550(m *base.Module, l0 int32) int32
-
-//go:linkname Fn16563 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16563
-func Fn16563(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn16564 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16564
-func Fn16564(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn16648 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16648
-func Fn16648(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn16653 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16653
-func Fn16653(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn16656 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16656
-func Fn16656(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn16657 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16657
-func Fn16657(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn16663 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16663
-func Fn16663(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn16679 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16679
-func Fn16679(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn16692 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16692
-func Fn16692(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16687 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16687
+func Fn16687(m *base.Module, l0 int32)
 
 //go:linkname Fn16697 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16697
-func Fn16697(m *base.Module, l0 int32, l1 int32, l2 int32)
+func Fn16697(m *base.Module, l0 int32) int32
 
-//go:linkname Fn16722 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16722
-func Fn16722(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16707 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16707
+func Fn16707(m *base.Module, l0 int32) int32
 
-//go:linkname Fn16733 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16733
-func Fn16733(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16738 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16738
+func Fn16738(m *base.Module, l0 int32) int32
 
-//go:linkname Fn16756 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16756
-func Fn16756(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16739 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16739
+func Fn16739(m *base.Module, l0 int32)
 
-//go:linkname Fn16859 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16859
-func Fn16859(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16752 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16752
+func Fn16752(m *base.Module, l0 int32) int32
 
-//go:linkname Fn16860 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16860
-func Fn16860(m *base.Module, l0 int32)
+//go:linkname Fn16760 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16760
+func Fn16760(m *base.Module, l0 int32) int32
 
-//go:linkname Fn16867 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16867
-func Fn16867(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16797 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16797
+func Fn16797(m *base.Module, l0 int32) int32
 
-//go:linkname Fn16889 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn16889
-func Fn16889(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16826 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16826
+func Fn16826(m *base.Module, l0 int32) int32
 
-//go:linkname Fn16891 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16891
-func Fn16891(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16827 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16827
+func Fn16827(m *base.Module, l0 int32)
 
-//go:linkname Fn16939 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16939
-func Fn16939(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16841 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16841
+func Fn16841(m *base.Module, l0 int32) int32
 
-//go:linkname Fn16941 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16941
-func Fn16941(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16856 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16856
+func Fn16856(m *base.Module, l0 int32) int32
 
-//go:linkname Fn16943 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn16943
-func Fn16943(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16866 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16866
+func Fn16866(m *base.Module, l0 int32) int32
 
-//go:linkname Fn16949 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn16949
-func Fn16949(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16879 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn16879
+func Fn16879(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
 
-//go:linkname Fn16961 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16961
-func Fn16961(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16884 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16884
+func Fn16884(m *base.Module, l0 int32)
 
-//go:linkname Fn16966 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16966
-func Fn16966(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16888 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16888
+func Fn16888(m *base.Module, l0 int32)
 
-//go:linkname Fn17070 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17070
-func Fn17070(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16889 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16889
+func Fn16889(m *base.Module, l0 int32)
 
-//go:linkname Fn17074 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17074
-func Fn17074(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16893 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16893
+func Fn16893(m *base.Module, l0 int32)
 
-//go:linkname Fn17075 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17075
-func Fn17075(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16898 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn16898
+func Fn16898(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn17103 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17103
-func Fn17103(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn16914 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16914
+func Fn16914(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17104 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17104
-func Fn17104(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16939 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn16939
+func Fn16939(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17147 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17147
-func Fn17147(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16950 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16950
+func Fn16950(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17152 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17152
-func Fn17152(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16969 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16969
+func Fn16969(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17278 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17278
-func Fn17278(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn16985 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn16985
+func Fn16985(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17310 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17310
-func Fn17310(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn17008 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17008
+func Fn17008(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17327 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17327
-func Fn17327(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn17072 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17072
+func Fn17072(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17106 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17106
+func Fn17106(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17117 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17117
+func Fn17117(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17128 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17128
+func Fn17128(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17140 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17140
+func Fn17140(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17151 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17151
+func Fn17151(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17162 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17162
+func Fn17162(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17171 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17171
+func Fn17171(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17195 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17195
+func Fn17195(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17210 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17210
+func Fn17210(m *base.Module, l0 int32)
+
+//go:linkname Fn17233 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn17233
+func Fn17233(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17234 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn17234
+func Fn17234(m *base.Module, l0 int32)
+
+//go:linkname Fn17248 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17248
+func Fn17248(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17264 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17264
+func Fn17264(m *base.Module, l0 int32) int32
+
+//go:linkname Fn17291 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17291
+func Fn17291(m *base.Module, l0 int32) int32
 
 //go:linkname Fn17336 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17336
-func Fn17336(m *base.Module, l0 int32, l1 int32)
+func Fn17336(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17361 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17361
-func Fn17361(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn17348 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17348
+func Fn17348(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17363 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17363
-func Fn17363(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn17364 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17364
+func Fn17364(m *base.Module, l0 int32)
 
-//go:linkname Fn17367 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17367
-func Fn17367(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn17388 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17388
+func Fn17388(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17369 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17369
-func Fn17369(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn17421 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17421
+func Fn17421(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32) int32
 
-//go:linkname Fn17373 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17373
-func Fn17373(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn17458 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17458
+func Fn17458(m *base.Module, l0 int32)
 
-//go:linkname Fn17380 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17380
-func Fn17380(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn17459 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17459
+func Fn17459(m *base.Module, l0 int32)
 
-//go:linkname Fn17389 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17389
-func Fn17389(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn17681 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17681
+func Fn17681(m *base.Module, l0 int32)
 
-//go:linkname Fn17392 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17392
-func Fn17392(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn17682 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17682
+func Fn17682(m *base.Module, l0 int32)
 
-//go:linkname Fn17471 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17471
-func Fn17471(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn17683 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17683
+func Fn17683(m *base.Module, l0 int32)
 
-//go:linkname Fn17511 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17511
-func Fn17511(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn17692 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn17692
+func Fn17692(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32, l16 int32) int32
 
-//go:linkname Fn17514 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17514
-func Fn17514(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn17694 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn17694
+func Fn17694(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32, l16 int32) int32
 
-//go:linkname Fn17515 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17515
-func Fn17515(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn17705 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17705
+func Fn17705(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17520 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17520
-func Fn17520(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn17778 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17778
+func Fn17778(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17751 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17751
-func Fn17751(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn17923 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17923
+func Fn17923(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17752 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17752
-func Fn17752(m *base.Module, l0 int32) int32
+//go:linkname Fn17934 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17934
+func Fn17934(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17753 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17753
-func Fn17753(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn17956 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17956
+func Fn17956(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17759 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17759
-func Fn17759(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn17964 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17964
+func Fn17964(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17760 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17760
-func Fn17760(m *base.Module, l0 int32) int32
+//go:linkname Fn17970 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17970
+func Fn17970(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17761 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17761
-func Fn17761(m *base.Module, l0 int32) int32
-
-//go:linkname Fn17778 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn17778
-func Fn17778(m *base.Module, l0 int32)
-
-//go:linkname Fn17781 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17781
-func Fn17781(m *base.Module, l0 int32)
-
-//go:linkname Fn17788 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn17788
-func Fn17788(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
-
-//go:linkname Fn17814 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17814
-func Fn17814(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn17818 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn17818
-func Fn17818(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn17820 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn17820
-func Fn17820(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn17821 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17821
-func Fn17821(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn17823 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17823
-func Fn17823(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn17825 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn17825
-func Fn17825(m *base.Module, l0 int32)
-
-//go:linkname Fn17826 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17826
-func Fn17826(m *base.Module, l0 int32) int32
-
-//go:linkname Fn17828 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17828
-func Fn17828(m *base.Module, l0 int32) int32
-
-//go:linkname Fn17829 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17829
-func Fn17829(m *base.Module, l0 int32) int32
-
-//go:linkname Fn17830 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17830
-func Fn17830(m *base.Module, l0 int32) int32
-
-//go:linkname Fn17834 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn17834
-func Fn17834(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn17836 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn17836
-func Fn17836(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn17839 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn17839
-func Fn17839(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn17842 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn17842
-func Fn17842(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn17844 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn17844
-func Fn17844(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn17849 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn17849
-func Fn17849(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn17857 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn17857
-func Fn17857(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn17858 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn17858
-func Fn17858(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn17859 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn17859
-func Fn17859(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn17864 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn17864
-func Fn17864(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn17866 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17866
-func Fn17866(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn17867 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17867
-func Fn17867(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
-
-//go:linkname Fn17928 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17928
-func Fn17928(m *base.Module, l0 int32) int32
-
-//go:linkname Fn17929 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17929
-func Fn17929(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn17937 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn17937
-func Fn17937(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn17942 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17942
-func Fn17942(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn17943 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17943
-func Fn17943(m *base.Module, l0 int32)
-
-//go:linkname Fn17950 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17950
-func Fn17950(m *base.Module, l0 int32)
-
-//go:linkname Fn17952 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17952
-func Fn17952(m *base.Module, l0 int32)
-
-//go:linkname Fn17953 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17953
-func Fn17953(m *base.Module, l0 int32)
-
-//go:linkname Fn17957 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17957
-func Fn17957(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn17959 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn17959
-func Fn17959(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn17960 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17960
-func Fn17960(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn17962 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17962
-func Fn17962(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn17963 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17963
-func Fn17963(m *base.Module, l0 int32)
-
-//go:linkname Fn17976 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17976
-func Fn17976(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn17977 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17977
+//go:linkname Fn17977 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17977
 func Fn17977(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17979 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17979
-func Fn17979(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn17985 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17985
+func Fn17985(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17985 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17985
-func Fn17985(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn17992 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17992
+func Fn17992(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17992 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn17992
-func Fn17992(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn18019 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18019
+func Fn18019(m *base.Module, l0 int32)
 
-//go:linkname Fn17993 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn17993
-func Fn17993(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn18054 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18054
+func Fn18054(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17997 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn17997
-func Fn17997(m *base.Module, l0 int32)
+//go:linkname Fn18064 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18064
+func Fn18064(m *base.Module, l0 int32) int32
 
-//go:linkname Fn17998 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn17998
-func Fn17998(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn18078 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18078
+func Fn18078(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18001 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18001
-func Fn18001(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn18088 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18088
+func Fn18088(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18002 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18002
-func Fn18002(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn18101 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18101
+func Fn18101(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18003 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18003
-func Fn18003(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn18107 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18107
+func Fn18107(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18007 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18007
-func Fn18007(m *base.Module, l0 int32)
+//go:linkname Fn18729 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18729
+func Fn18729(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18011 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18011
-func Fn18011(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn18742 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18742
+func Fn18742(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18012 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18012
-func Fn18012(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn18767 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18767
+func Fn18767(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18015 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18015
-func Fn18015(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn18768 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18768
+func Fn18768(m *base.Module, l0 int32)
 
-//go:linkname Fn18019 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18019
-func Fn18019(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn18780 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18780
+func Fn18780(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18022 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18022
-func Fn18022(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn18781 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18781
+func Fn18781(m *base.Module, l0 int32)
 
-//go:linkname Fn18035 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18035
-func Fn18035(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn18843 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18843
+func Fn18843(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18038 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18038
-func Fn18038(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn18988 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18988
+func Fn18988(m *base.Module, l0 int32)
 
-//go:linkname Fn18044 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18044
-func Fn18044(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn18990 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18990
+func Fn18990(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18045 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18045
-func Fn18045(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn19000 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19000
+func Fn19000(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18046 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18046
-func Fn18046(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn19011 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19011
+func Fn19011(m *base.Module, l0 int32) int32
 
-//go:linkname Fn18050 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18050
-func Fn18050(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18051 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18051
-func Fn18051(m *base.Module, l0 int32)
-
-//go:linkname Fn18057 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18057
-func Fn18057(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18063 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18063
-func Fn18063(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18066 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18066
-func Fn18066(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18068 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18068
-func Fn18068(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18069 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18069
-func Fn18069(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18071 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18071
-func Fn18071(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18074 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18074
-func Fn18074(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18079 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18079
-func Fn18079(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18080 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18080
-func Fn18080(m *base.Module, l0 int32)
-
-//go:linkname Fn18083 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18083
-func Fn18083(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18085 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18085
-func Fn18085(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18088 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18088
-func Fn18088(m *base.Module, l0 int32)
-
-//go:linkname Fn18092 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18092
-func Fn18092(m *base.Module, l0 int32)
-
-//go:linkname Fn18106 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18106
-func Fn18106(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18107 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18107
-func Fn18107(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18111 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18111
-func Fn18111(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18132 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18132
-func Fn18132(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18136 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18136
-func Fn18136(m *base.Module, l0 int32)
-
-//go:linkname Fn18137 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18137
-func Fn18137(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18138 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18138
-func Fn18138(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18139 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn18139
-func Fn18139(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18142 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18142
-func Fn18142(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18143 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18143
-func Fn18143(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18144 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18144
-func Fn18144(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
-
-//go:linkname Fn18145 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18145
-func Fn18145(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn18148 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18148
-func Fn18148(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18150 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18150
-func Fn18150(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn18168 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18168
-func Fn18168(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn18169 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18169
-func Fn18169(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18170 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18170
-func Fn18170(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18173 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn18173
-func Fn18173(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn18175 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18175
-func Fn18175(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18184 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18184
-func Fn18184(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18185 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18185
-func Fn18185(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18187 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18187
-func Fn18187(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18188 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18188
-func Fn18188(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18191 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18191
-func Fn18191(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18219 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18219
-func Fn18219(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18227 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18227
-func Fn18227(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18234 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18234
-func Fn18234(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18240 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18240
-func Fn18240(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn18242 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18242
-func Fn18242(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18243 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18243
-func Fn18243(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18246 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18246
-func Fn18246(m *base.Module, l0 int32)
-
-//go:linkname Fn18247 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18247
-func Fn18247(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18250 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18250
-func Fn18250(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18256 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18256
-func Fn18256(m *base.Module, l0 int32)
-
-//go:linkname Fn18261 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18261
-func Fn18261(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18262 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18262
-func Fn18262(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18263 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18263
-func Fn18263(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18267 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18267
-func Fn18267(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18269 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18269
-func Fn18269(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18273 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18273
-func Fn18273(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn18283 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18283
-func Fn18283(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18284 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn18284
-func Fn18284(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18289 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18289
-func Fn18289(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn18292 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18292
-func Fn18292(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18298 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18298
-func Fn18298(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18303 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn18303
-func Fn18303(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18305 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18305
-func Fn18305(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn18310 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18310
-func Fn18310(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18313 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18313
-func Fn18313(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18330 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18330
-func Fn18330(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18331 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18331
-func Fn18331(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18339 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18339
-func Fn18339(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18348 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18348
-func Fn18348(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18354 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18354
-func Fn18354(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18355 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18355
-func Fn18355(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18356 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn18356
-func Fn18356(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18363 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18363
-func Fn18363(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18365 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18365
-func Fn18365(m *base.Module, l0 int32)
-
-//go:linkname Fn18367 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18367
-func Fn18367(m *base.Module, l0 int32)
-
-//go:linkname Fn18372 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18372
-func Fn18372(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18375 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18375
-func Fn18375(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18376 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18376
-func Fn18376(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18379 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18379
-func Fn18379(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18380 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18380
-func Fn18380(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18389 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18389
-func Fn18389(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18390 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18390
-func Fn18390(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18391 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18391
-func Fn18391(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18394 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18394
-func Fn18394(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18397 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18397
-func Fn18397(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18398 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18398
-func Fn18398(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18401 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18401
-func Fn18401(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
-
-//go:linkname Fn18407 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18407
-func Fn18407(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18411 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18411
-func Fn18411(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18413 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18413
-func Fn18413(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
-
-//go:linkname Fn18422 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18422
-func Fn18422(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18429 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18429
-func Fn18429(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18433 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18433
-func Fn18433(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18437 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18437
-func Fn18437(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18440 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18440
-func Fn18440(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
-
-//go:linkname Fn18443 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn18443
-func Fn18443(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32)
-
-//go:linkname Fn18446 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18446
-func Fn18446(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18447 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18447
-func Fn18447(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18449 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18449
-func Fn18449(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18451 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18451
-func Fn18451(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18459 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18459
-func Fn18459(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18461 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18461
-func Fn18461(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn18464 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18464
-func Fn18464(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18467 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18467
-func Fn18467(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18471 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18471
-func Fn18471(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
-
-//go:linkname Fn18472 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18472
-func Fn18472(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18473 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18473
-func Fn18473(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18478 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18478
-func Fn18478(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18482 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18482
-func Fn18482(m *base.Module, l0 int32)
-
-//go:linkname Fn18484 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18484
-func Fn18484(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18487 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18487
-func Fn18487(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18495 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18495
-func Fn18495(m *base.Module, l0 int32)
-
-//go:linkname Fn18496 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18496
-func Fn18496(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18500 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18500
-func Fn18500(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18502 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18502
-func Fn18502(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18519 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18519
-func Fn18519(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18527 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18527
-func Fn18527(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18529 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18529
-func Fn18529(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18530 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18530
-func Fn18530(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18535 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18535
-func Fn18535(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18542 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18542
-func Fn18542(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18546 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18546
-func Fn18546(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
-
-//go:linkname Fn18560 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18560
-func Fn18560(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18564 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18564
-func Fn18564(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
-
-//go:linkname Fn18567 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18567
-func Fn18567(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18568 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18568
-func Fn18568(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18578 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18578
-func Fn18578(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18579 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18579
-func Fn18579(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18587 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18587
-func Fn18587(m *base.Module, l0 int32)
-
-//go:linkname Fn18588 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18588
-func Fn18588(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18605 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18605
-func Fn18605(m *base.Module, l0 int32)
-
-//go:linkname Fn18606 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18606
-func Fn18606(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18608 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18608
-func Fn18608(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18609 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18609
-func Fn18609(m *base.Module, l0 int32)
-
-//go:linkname Fn18619 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18619
-func Fn18619(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18624 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18624
-func Fn18624(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18627 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18627
-func Fn18627(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18642 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18642
-func Fn18642(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18649 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18649
-func Fn18649(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18650 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18650
-func Fn18650(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18651 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18651
-func Fn18651(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18655 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18655
-func Fn18655(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18656 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18656
-func Fn18656(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18657 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18657
-func Fn18657(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18664 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18664
-func Fn18664(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18665 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18665
-func Fn18665(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18666 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18666
-func Fn18666(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18670 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18670
-func Fn18670(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18672 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18672
-func Fn18672(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18673 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18673
-func Fn18673(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18675 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18675
-func Fn18675(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18676 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18676
-func Fn18676(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18679 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18679
-func Fn18679(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18681 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn18681
-func Fn18681(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18683 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18683
-func Fn18683(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18689 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18689
-func Fn18689(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18693 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18693
-func Fn18693(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18698 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn18698
-func Fn18698(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
-
-//go:linkname Fn18700 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18700
-func Fn18700(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18705 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18705
-func Fn18705(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18712 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn18712
-func Fn18712(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn18718 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18718
-func Fn18718(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18721 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18721
-func Fn18721(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18731 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn18731
-func Fn18731(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18733 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn18733
-func Fn18733(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18736 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18736
-func Fn18736(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18738 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18738
-func Fn18738(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
-
-//go:linkname Fn18739 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18739
-func Fn18739(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18742 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18742
-func Fn18742(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18744 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18744
-func Fn18744(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18748 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18748
-func Fn18748(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn18758 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18758
-func Fn18758(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18759 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18759
-func Fn18759(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18760 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18760
-func Fn18760(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32)
-
-//go:linkname Fn18763 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18763
-func Fn18763(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18765 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18765
-func Fn18765(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18767 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn18767
-func Fn18767(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18769 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18769
-func Fn18769(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn18772 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18772
-func Fn18772(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18773 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18773
-func Fn18773(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn18785 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18785
-func Fn18785(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18786 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn18786
-func Fn18786(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18787 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18787
-func Fn18787(m *base.Module, l0 int32)
-
-//go:linkname Fn18788 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18788
-func Fn18788(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18796 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18796
-func Fn18796(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18798 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18798
-func Fn18798(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
-
-//go:linkname Fn18805 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18805
-func Fn18805(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18810 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18810
-func Fn18810(m *base.Module, l0 int32) int32
-
-//go:linkname Fn18811 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18811
-func Fn18811(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18816 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18816
-func Fn18816(m *base.Module, l0 int32)
-
-//go:linkname Fn18817 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18817
-func Fn18817(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18820 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18820
-func Fn18820(m *base.Module, l0 int32)
-
-//go:linkname Fn18822 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18822
-func Fn18822(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18823 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18823
-func Fn18823(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18828 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18828
-func Fn18828(m *base.Module) int32
-
-//go:linkname Fn18829 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18829
-func Fn18829(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18830 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18830
-func Fn18830(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18831 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18831
-func Fn18831(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn18837 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18837
-func Fn18837(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn18845 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18845
-func Fn18845(m *base.Module) int32
-
-//go:linkname Fn18861 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18861
-func Fn18861(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18866 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18866
-func Fn18866(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18867 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18867
-func Fn18867(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn18869 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18869
-func Fn18869(m *base.Module, l0 int32)
-
-//go:linkname Fn18872 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18872
-func Fn18872(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18877 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18877
-func Fn18877(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18883 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18883
-func Fn18883(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18891 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18891
-func Fn18891(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18898 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18898
-func Fn18898(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18902 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18902
-func Fn18902(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18908 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18908
-func Fn18908(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18909 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18909
-func Fn18909(m *base.Module, l0 int32)
-
-//go:linkname Fn18910 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18910
-func Fn18910(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn18911 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18911
-func Fn18911(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18912 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18912
-func Fn18912(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18914 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18914
-func Fn18914(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18925 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18925
-func Fn18925(m *base.Module, l0 int32)
-
-//go:linkname Fn18938 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18938
-func Fn18938(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18939 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18939
-func Fn18939(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18942 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18942
-func Fn18942(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18945 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18945
-func Fn18945(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18949 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18949
-func Fn18949(m *base.Module, l0 int32)
-
-//go:linkname Fn18953 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18953
-func Fn18953(m *base.Module, l0 int32)
-
-//go:linkname Fn18956 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18956
-func Fn18956(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18957 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18957
-func Fn18957(m *base.Module, l0 int32)
-
-//go:linkname Fn18958 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18958
-func Fn18958(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn18959 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18959
-func Fn18959(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
-
-//go:linkname Fn18962 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18962
-func Fn18962(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18964 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18964
-func Fn18964(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18965 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18965
-func Fn18965(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18966 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18966
-func Fn18966(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18967 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18967
-func Fn18967(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18971 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18971
-func Fn18971(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18972 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18972
-func Fn18972(m *base.Module, l0 int32)
-
-//go:linkname Fn18973 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18973
-func Fn18973(m *base.Module, l0 int32)
-
-//go:linkname Fn18975 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn18975
-func Fn18975(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn18976 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18976
-func Fn18976(m *base.Module, l0 int32)
-
-//go:linkname Fn18979 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18979
-func Fn18979(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn18980 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn18980
-func Fn18980(m *base.Module, l0 int32)
-
-//go:linkname Fn18981 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18981
-func Fn18981(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32) int32
-
-//go:linkname Fn18982 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn18982
-func Fn18982(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18987 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn18987
-func Fn18987(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn18990 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn18990
-func Fn18990(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn18993 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18993
-func Fn18993(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
-
-//go:linkname Fn18996 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn18996
-func Fn18996(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn19005 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19005
-func Fn19005(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19006 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn19006
-func Fn19006(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19007 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19007
-func Fn19007(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19016 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19016
-func Fn19016(m *base.Module, l0 int32)
-
-//go:linkname Fn19017 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19017
-func Fn19017(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19018 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn19018
-func Fn19018(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19021 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn19021
-func Fn19021(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn19022 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19022
+func Fn19022(m *base.Module, l0 int32) int32
 
 //go:linkname Fn19023 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19023
 func Fn19023(m *base.Module, l0 int32)
 
-//go:linkname Fn19024 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19024
-func Fn19024(m *base.Module, l0 int32)
+//go:linkname Fn19136 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19136
+func Fn19136(m *base.Module, l0 int32)
 
-//go:linkname Fn19025 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19025
-func Fn19025(m *base.Module, l0 int32)
+//go:linkname Fn19171 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19171
+func Fn19171(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19026 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19026
-func Fn19026(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn19179 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19179
+func Fn19179(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19030 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19030
-func Fn19030(m *base.Module, l0 int32)
+//go:linkname Fn19201 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19201
+func Fn19201(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19031 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19031
-func Fn19031(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn19206 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19206
+func Fn19206(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19045 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19045
-func Fn19045(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn19215 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19215
+func Fn19215(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19049 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19049
-func Fn19049(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn19228 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19228
+func Fn19228(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19051 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19051
-func Fn19051(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn19242 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19242
+func Fn19242(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19053 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19053
-func Fn19053(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn19272 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19272
+func Fn19272(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19054 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn19054
-func Fn19054(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn19289 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19289
+func Fn19289(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19055 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn19055
-func Fn19055(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32)
+//go:linkname Fn19298 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19298
+func Fn19298(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19060 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn19060
-func Fn19060(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn19307 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19307
+func Fn19307(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19063 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19063
-func Fn19063(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19064 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn19064
-func Fn19064(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32)
-
-//go:linkname Fn19068 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19068
-func Fn19068(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19069 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn19069
-func Fn19069(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn19071 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19071
-func Fn19071(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19072 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn19072
-func Fn19072(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32)
-
-//go:linkname Fn19074 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19074
-func Fn19074(m *base.Module, l0 int32)
-
-//go:linkname Fn19077 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19077
-func Fn19077(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19078 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19078
-func Fn19078(m *base.Module, l0 int32)
-
-//go:linkname Fn19081 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn19081
-func Fn19081(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32)
-
-//go:linkname Fn19087 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn19087
-func Fn19087(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19092 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn19092
-func Fn19092(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32)
-
-//go:linkname Fn19100 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19100
-func Fn19100(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19102 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19102
-func Fn19102(m *base.Module, l0 int32) int32
-
-//go:linkname Fn19104 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn19104
-func Fn19104(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19111 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn19111
-func Fn19111(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32)
-
-//go:linkname Fn19113 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19113
-func Fn19113(m *base.Module, l0 int32) int32
-
-//go:linkname Fn19116 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19116
-func Fn19116(m *base.Module, l0 int32) int32
-
-//go:linkname Fn19118 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19118
-func Fn19118(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19120 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19120
-func Fn19120(m *base.Module, l0 int32)
-
-//go:linkname Fn19121 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn19121
-func Fn19121(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19122 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19122
-func Fn19122(m *base.Module, l0 int32) int32
-
-//go:linkname Fn19123 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn19123
-func Fn19123(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn19126 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19126
-func Fn19126(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19133 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn19133
-func Fn19133(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19139 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn19139
-func Fn19139(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19147 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19147
-func Fn19147(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19148 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19148
-func Fn19148(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn19149 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19149
-func Fn19149(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19150 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19150
-func Fn19150(m *base.Module, l0 int32)
-
-//go:linkname Fn19151 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19151
-func Fn19151(m *base.Module, l0 int32)
-
-//go:linkname Fn19165 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19165
-func Fn19165(m *base.Module, l0 int32)
-
-//go:linkname Fn19167 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn19167
-func Fn19167(m *base.Module) int32
-
-//go:linkname Fn19171 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn19171
-func Fn19171(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
-
-//go:linkname Fn19176 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn19176
-func Fn19176(m *base.Module, l0 int32)
-
-//go:linkname Fn19178 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn19178
-func Fn19178(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19181 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19181
-func Fn19181(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19184 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19184
-func Fn19184(m *base.Module, l0 int32) int32
-
-//go:linkname Fn19185 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19185
-func Fn19185(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19187 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19187
-func Fn19187(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
-
-//go:linkname Fn19188 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19188
-func Fn19188(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn19189 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19189
-func Fn19189(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
-
-//go:linkname Fn19190 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19190
-func Fn19190(m *base.Module, l0 int32) int32
-
-//go:linkname Fn19191 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19191
-func Fn19191(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19192 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19192
-func Fn19192(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19193 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19193
-func Fn19193(m *base.Module, l0 int32)
-
-//go:linkname Fn19194 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19194
-func Fn19194(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19196 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19196
-func Fn19196(m *base.Module, l0 int32) int32
-
-//go:linkname Fn19197 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19197
-func Fn19197(m *base.Module, l0 int32) int32
-
-//go:linkname Fn19198 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn19198
-func Fn19198(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn19204 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19204
-func Fn19204(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19205 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19205
-func Fn19205(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19206 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn19206
-func Fn19206(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19208 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn19208
-func Fn19208(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19210 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn19210
-func Fn19210(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19223 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19223
-func Fn19223(m *base.Module, l0 int32)
-
-//go:linkname Fn19229 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19229
-func Fn19229(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn19230 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19230
-func Fn19230(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19231 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19231
-func Fn19231(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19235 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn19235
-func Fn19235(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19237 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19237
-func Fn19237(m *base.Module, l0 int32) int32
-
-//go:linkname Fn19239 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19239
-func Fn19239(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19245 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn19245
-func Fn19245(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19251 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19251
-func Fn19251(m *base.Module, l0 int32)
-
-//go:linkname Fn19259 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn19259
-func Fn19259(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19261 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19261
-func Fn19261(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19262 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn19262
-func Fn19262(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19265 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn19265
-func Fn19265(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19266 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19266
-func Fn19266(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19271 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19271
-func Fn19271(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19278 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19278
-func Fn19278(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19280 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19280
-func Fn19280(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19290 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19290
-func Fn19290(m *base.Module, l0 int32)
-
-//go:linkname Fn19291 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19291
-func Fn19291(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19292 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19292
-func Fn19292(m *base.Module, l0 int32)
-
-//go:linkname Fn19293 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19293
-func Fn19293(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19294 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn19294
-func Fn19294(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn19305 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19305
-func Fn19305(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19306 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn19306
-func Fn19306(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn19311 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19311
-func Fn19311(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19312 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19312
-func Fn19312(m *base.Module, l0 int32)
-
-//go:linkname Fn19313 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19313
-func Fn19313(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19315 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19315
-func Fn19315(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19317 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19317
-func Fn19317(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn19332 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19332
-func Fn19332(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19333 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19333
-func Fn19333(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19340 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19340
-func Fn19340(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19344 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19344
-func Fn19344(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19346 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19346
-func Fn19346(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19347 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19347
-func Fn19347(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19348 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19348
-func Fn19348(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn19349 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19349
-func Fn19349(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19350 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19350
-func Fn19350(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19351 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19351
-func Fn19351(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn19353 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19353
-func Fn19353(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19354 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19354
-func Fn19354(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19357 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19357
-func Fn19357(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19359 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn19359
-func Fn19359(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19365 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19365
-func Fn19365(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19369 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19369
-func Fn19369(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19370 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19370
-func Fn19370(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19385 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19385
-func Fn19385(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn19360 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19360
+func Fn19360(m *base.Module, l0 int32) int32
 
 //go:linkname Fn19388 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19388
-func Fn19388(m *base.Module, l0 int32, l1 int32) int32
+func Fn19388(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19397 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19397
-func Fn19397(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn19389 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19389
+func Fn19389(m *base.Module, l0 int32)
 
-//go:linkname Fn19400 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19400
-func Fn19400(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn19400 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19400
+func Fn19400(m *base.Module, l0 int32) int32
 
-//go:linkname Fn19404 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19404
-func Fn19404(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20037 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20037
+func Fn20037(m *base.Module, l0 int32)
 
-//go:linkname Fn19405 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19405
-func Fn19405(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20049 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20049
+func Fn20049(m *base.Module, l0 int32)
 
-//go:linkname Fn19406 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19406
-func Fn19406(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20050 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn20050
+func Fn20050(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn19407 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19407
-func Fn19407(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20051 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20051
+func Fn20051(m *base.Module, l0 int32)
 
-//go:linkname Fn19415 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19415
-func Fn19415(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20073 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20073
+func Fn20073(m *base.Module, l0 int32)
 
-//go:linkname Fn19416 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19416
-func Fn19416(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20077 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20077
+func Fn20077(m *base.Module, l0 int32)
 
-//go:linkname Fn19417 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19417
-func Fn19417(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20100 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn20100
+func Fn20100(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn19418 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19418
-func Fn19418(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20104 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20104
+func Fn20104(m *base.Module, l0 int32)
 
-//go:linkname Fn19419 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19419
-func Fn19419(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20128 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20128
+func Fn20128(m *base.Module, l0 int32)
 
-//go:linkname Fn19420 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19420
-func Fn19420(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20131 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn20131
+func Fn20131(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn19423 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19423
-func Fn19423(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20132 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20132
+func Fn20132(m *base.Module, l0 int32)
 
-//go:linkname Fn19435 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19435
-func Fn19435(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20133 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20133
+func Fn20133(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn19436 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19436
-func Fn19436(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20135 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20135
+func Fn20135(m *base.Module, l0 int32)
 
-//go:linkname Fn19437 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19437
-func Fn19437(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20163 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20163
+func Fn20163(m *base.Module, l0 int32)
 
-//go:linkname Fn19438 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19438
-func Fn19438(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20164 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20164
+func Fn20164(m *base.Module, l0 int32)
 
-//go:linkname Fn19439 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19439
-func Fn19439(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20165 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20165
+func Fn20165(m *base.Module, l0 int32)
 
-//go:linkname Fn19440 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19440
-func Fn19440(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20187 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20187
+func Fn20187(m *base.Module, l0 int32)
 
-//go:linkname Fn19441 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19441
-func Fn19441(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20190 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20190
+func Fn20190(m *base.Module, l0 int32)
 
-//go:linkname Fn19442 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19442
-func Fn19442(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20194 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20194
+func Fn20194(m *base.Module, l0 int32)
 
-//go:linkname Fn19443 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19443
-func Fn19443(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20207 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20207
+func Fn20207(m *base.Module, l0 int32)
 
-//go:linkname Fn19444 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19444
-func Fn19444(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20208 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20208
+func Fn20208(m *base.Module, l0 int32)
 
-//go:linkname Fn19445 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19445
-func Fn19445(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20209 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20209
+func Fn20209(m *base.Module, l0 int32)
 
-//go:linkname Fn19446 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19446
-func Fn19446(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20239 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20239
+func Fn20239(m *base.Module, l0 int32)
 
-//go:linkname Fn19447 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19447
-func Fn19447(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20246 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20246
+func Fn20246(m *base.Module, l0 int32)
 
-//go:linkname Fn19448 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19448
-func Fn19448(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20278 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20278
+func Fn20278(m *base.Module, l0 int32)
 
-//go:linkname Fn19449 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19449
-func Fn19449(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20307 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20307
+func Fn20307(m *base.Module, l0 int32)
 
-//go:linkname Fn19450 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19450
-func Fn19450(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20310 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20310
+func Fn20310(m *base.Module, l0 int32)
 
-//go:linkname Fn19451 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19451
-func Fn19451(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19452 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19452
-func Fn19452(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19453 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19453
-func Fn19453(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19454 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19454
-func Fn19454(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19455 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19455
-func Fn19455(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19456 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19456
-func Fn19456(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19457 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19457
-func Fn19457(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19458 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19458
-func Fn19458(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19459 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19459
-func Fn19459(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19460 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19460
-func Fn19460(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19461 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19461
-func Fn19461(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19462 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19462
-func Fn19462(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19463 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19463
-func Fn19463(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19464 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19464
-func Fn19464(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19465 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19465
-func Fn19465(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19466 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19466
-func Fn19466(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19467 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19467
-func Fn19467(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19468 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19468
-func Fn19468(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19469 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19469
-func Fn19469(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19470 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19470
-func Fn19470(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19471 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19471
-func Fn19471(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19472 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19472
-func Fn19472(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19473 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19473
-func Fn19473(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19474 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19474
-func Fn19474(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19475 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19475
-func Fn19475(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19476 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19476
-func Fn19476(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19478 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19478
-func Fn19478(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19479 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19479
-func Fn19479(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19480 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19480
-func Fn19480(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19481 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19481
-func Fn19481(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19482 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19482
-func Fn19482(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19483 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19483
-func Fn19483(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19484 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19484
-func Fn19484(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19485 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19485
-func Fn19485(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19486 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19486
-func Fn19486(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19487 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19487
-func Fn19487(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19488 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19488
-func Fn19488(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19489 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19489
-func Fn19489(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19490 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19490
-func Fn19490(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19491 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19491
-func Fn19491(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19492 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19492
-func Fn19492(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19493 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19493
-func Fn19493(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19494 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19494
-func Fn19494(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19495 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19495
-func Fn19495(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19496 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19496
-func Fn19496(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19497 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19497
-func Fn19497(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19498 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19498
-func Fn19498(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19499 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19499
-func Fn19499(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19500 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19500
-func Fn19500(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19501 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19501
-func Fn19501(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19502 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19502
-func Fn19502(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19503 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19503
-func Fn19503(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19504 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19504
-func Fn19504(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19505 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19505
-func Fn19505(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19506 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19506
-func Fn19506(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19507 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19507
-func Fn19507(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19508 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19508
-func Fn19508(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19509 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19509
-func Fn19509(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19510 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19510
-func Fn19510(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19511 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19511
-func Fn19511(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19512 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19512
-func Fn19512(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19513 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19513
-func Fn19513(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19514 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19514
-func Fn19514(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19515 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19515
-func Fn19515(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19516 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19516
-func Fn19516(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19517 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19517
-func Fn19517(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19518 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19518
-func Fn19518(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19519 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19519
-func Fn19519(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19520 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19520
-func Fn19520(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19521 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19521
-func Fn19521(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19522 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19522
-func Fn19522(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19523 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19523
-func Fn19523(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19524 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19524
-func Fn19524(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19525 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19525
-func Fn19525(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19526 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19526
-func Fn19526(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19527 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19527
-func Fn19527(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19528 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19528
-func Fn19528(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19529 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19529
-func Fn19529(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19530 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19530
-func Fn19530(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19531 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19531
-func Fn19531(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19532 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19532
-func Fn19532(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19533 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19533
-func Fn19533(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19534 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19534
-func Fn19534(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19535 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19535
-func Fn19535(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19536 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19536
-func Fn19536(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19537 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19537
-func Fn19537(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19538 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19538
-func Fn19538(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19539 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19539
-func Fn19539(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19540 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19540
-func Fn19540(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19541 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19541
-func Fn19541(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19542 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19542
-func Fn19542(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19543 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19543
-func Fn19543(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19544 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19544
-func Fn19544(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19545 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19545
-func Fn19545(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19546 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19546
-func Fn19546(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19547 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19547
-func Fn19547(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19548 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19548
-func Fn19548(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19549 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19549
-func Fn19549(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19550 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19550
-func Fn19550(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19551 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19551
-func Fn19551(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19552 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19552
-func Fn19552(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19553 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19553
-func Fn19553(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19554 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19554
-func Fn19554(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19555 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19555
-func Fn19555(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19556 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19556
-func Fn19556(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19557 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19557
-func Fn19557(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19558 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19558
-func Fn19558(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19559 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19559
-func Fn19559(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19560 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19560
-func Fn19560(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19561 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19561
-func Fn19561(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19562 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn19562
-func Fn19562(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19563 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19563
-func Fn19563(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19564 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19564
-func Fn19564(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19565 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19565
-func Fn19565(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19566 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19566
-func Fn19566(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19567 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19567
-func Fn19567(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19568 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19568
-func Fn19568(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19569 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19569
-func Fn19569(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19570 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19570
-func Fn19570(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19571 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19571
-func Fn19571(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn19572 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn19572
-func Fn19572(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn20272 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn20272
-func Fn20272(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn20275 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20275
-func Fn20275(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn20282 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn20282
-func Fn20282(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn20283 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20283
-func Fn20283(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn20284 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20284
-func Fn20284(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn20285 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20285
-func Fn20285(m *base.Module, l0 int32)
-
-//go:linkname Fn20286 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20286
-func Fn20286(m *base.Module, l0 int32) int32
-
-//go:linkname Fn20287 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20287
-func Fn20287(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn20296 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20296
-func Fn20296(m *base.Module, l0 int32)
-
-//go:linkname Fn20297 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20297
-func Fn20297(m *base.Module, l0 int32)
-
-//go:linkname Fn20304 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20304
-func Fn20304(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn20306 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20306
-func Fn20306(m *base.Module, l0 int32)
-
-//go:linkname Fn20317 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20317
+//go:linkname Fn20317 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20317
 func Fn20317(m *base.Module, l0 int32)
 
-//go:linkname Fn20320 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20320
-func Fn20320(m *base.Module, l0 int32)
+//go:linkname Fn20318 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20318
+func Fn20318(m *base.Module, l0 int32)
 
-//go:linkname Fn20336 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20336
-func Fn20336(m *base.Module, l0 int32) int32
+//go:linkname Fn20731 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20731
+func Fn20731(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20345 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20345
-func Fn20345(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn20764 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20764
+func Fn20764(m *base.Module, l0 int32) int32
 
-//go:linkname Fn20346 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20346
-func Fn20346(m *base.Module, l0 int32)
+//go:linkname Fn20787 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn20787
+func Fn20787(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20352 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20352
-func Fn20352(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn20791 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20791
+func Fn20791(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20353 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn20353
-func Fn20353(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn20798 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20798
+func Fn20798(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20357 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20357
-func Fn20357(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn20802 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20802
+func Fn20802(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20358 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20358
-func Fn20358(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn20803 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20803
+func Fn20803(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20360 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn20360
-func Fn20360(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn20804 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20804
+func Fn20804(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn20361 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn20361
-func Fn20361(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn20811 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn20811
+func Fn20811(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn20365 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20365
-func Fn20365(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn20850 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn20850
+func Fn20850(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn20368 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20368
-func Fn20368(m *base.Module, l0 int32)
+//go:linkname Fn20853 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20853
+func Fn20853(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20369 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20369
-func Fn20369(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn20854 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20854
+func Fn20854(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20371 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20371
-func Fn20371(m *base.Module, l0 int32)
+//go:linkname Fn20856 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20856
+func Fn20856(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20373 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20373
-func Fn20373(m *base.Module, l0 int32) int32
+//go:linkname Fn20857 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20857
+func Fn20857(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn20376 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn20376
-func Fn20376(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn20858 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn20858
+func Fn20858(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20377 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20377
-func Fn20377(m *base.Module, l0 int32)
+//go:linkname Fn20859 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20859
+func Fn20859(m *base.Module, l0 int32)
 
-//go:linkname Fn20378 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20378
-func Fn20378(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn20880 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20880
+func Fn20880(m *base.Module, l0 int32)
 
-//go:linkname Fn20385 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn20385
-func Fn20385(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+//go:linkname Fn21885 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn21885
+func Fn21885(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20386 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20386
-func Fn20386(m *base.Module, l0 int32) int32
+//go:linkname Fn21966 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn21966
+func Fn21966(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20387 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn20387
-func Fn20387(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn21970 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn21970
+func Fn21970(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20390 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20390
-func Fn20390(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn21971 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn21971
+func Fn21971(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20391 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20391
-func Fn20391(m *base.Module, l0 int32)
+//go:linkname Fn21982 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn21982
+func Fn21982(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20393 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20393
-func Fn20393(m *base.Module, l0 int32) int32
+//go:linkname Fn22007 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22007
+func Fn22007(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20394 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20394
-func Fn20394(m *base.Module, l0 int32) int32
+//go:linkname Fn22011 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22011
+func Fn22011(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20395 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20395
-func Fn20395(m *base.Module, l0 int32)
+//go:linkname Fn22015 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22015
+func Fn22015(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20396 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn20396
-func Fn20396(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn22016 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22016
+func Fn22016(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20397 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20397
-func Fn20397(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn22067 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22067
+func Fn22067(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20398 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20398
-func Fn20398(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22076 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22076
+func Fn22076(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20418 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20418
-func Fn20418(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn22190 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22190
+func Fn22190(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20419 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20419
-func Fn20419(m *base.Module, l0 int32)
+//go:linkname Fn22196 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22196
+func Fn22196(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20420 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20420
-func Fn20420(m *base.Module, l0 int32)
+//go:linkname Fn22200 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22200
+func Fn22200(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20424 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20424
-func Fn20424(m *base.Module, l0 int32)
+//go:linkname Fn22208 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22208
+func Fn22208(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20425 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20425
-func Fn20425(m *base.Module, l0 int32)
+//go:linkname Fn22238 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22238
+func Fn22238(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20426 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20426
-func Fn20426(m *base.Module, l0 int32)
+//go:linkname Fn22245 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22245
+func Fn22245(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20427 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20427
-func Fn20427(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22247 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22247
+func Fn22247(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20428 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20428
-func Fn20428(m *base.Module, l0 int32)
+//go:linkname Fn22251 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22251
+func Fn22251(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20436 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20436
-func Fn20436(m *base.Module, l0 int32) int32
+//go:linkname Fn22253 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22253
+func Fn22253(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20443 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20443
-func Fn20443(m *base.Module, l0 int32)
+//go:linkname Fn22257 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22257
+func Fn22257(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20444 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn20444
-func Fn20444(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22263 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22263
+func Fn22263(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20445 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20445
-func Fn20445(m *base.Module, l0 int32)
+//go:linkname Fn22276 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22276
+func Fn22276(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20449 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20449
-func Fn20449(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22279 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22279
+func Fn22279(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20450 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20450
-func Fn20450(m *base.Module, l0 int32)
+//go:linkname Fn22406 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22406
+func Fn22406(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20451 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20451
-func Fn20451(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22407 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22407
+func Fn22407(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20452 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20452
-func Fn20452(m *base.Module, l0 int32, l1 int32, l2 int64) int32
+//go:linkname Fn22409 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22409
+func Fn22409(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20455 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20455
-func Fn20455(m *base.Module, l0 int32) int32
+//go:linkname Fn22415 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22415
+func Fn22415(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20458 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20458
-func Fn20458(m *base.Module, l0 int32)
+//go:linkname Fn22428 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22428
+func Fn22428(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn20459 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20459
-func Fn20459(m *base.Module, l0 int32)
+//go:linkname Fn22521 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn22521
+func Fn22521(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20461 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20461
-func Fn20461(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn22523 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22523
+func Fn22523(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn20476 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20476
-func Fn20476(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22524 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22524
+func Fn22524(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20477 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20477
-func Fn20477(m *base.Module, l0 int32)
+//go:linkname Fn22526 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22526
+func Fn22526(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn20479 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20479
-func Fn20479(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22528 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22528
+func Fn22528(m *base.Module, l0 int32)
 
-//go:linkname Fn20481 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20481
-func Fn20481(m *base.Module, l0 int32)
+//go:linkname Fn22529 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22529
+func Fn22529(m *base.Module, l0 int32) int32
 
-//go:linkname Fn20483 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20483
-func Fn20483(m *base.Module, l0 int32) int32
+//go:linkname Fn22531 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22531
+func Fn22531(m *base.Module, l0 int32) int32
 
-//go:linkname Fn20488 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20488
-func Fn20488(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22532 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22532
+func Fn22532(m *base.Module, l0 int32) int32
 
-//go:linkname Fn20489 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20489
-func Fn20489(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22533 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22533
+func Fn22533(m *base.Module, l0 int32) int32
 
-//go:linkname Fn20492 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20492
-func Fn20492(m *base.Module, l0 int32) int32
+//go:linkname Fn22534 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22534
+func Fn22534(m *base.Module, l0 int32) int32
 
-//go:linkname Fn20493 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn20493
-func Fn20493(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn22535 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22535
+func Fn22535(m *base.Module, l0 int32) int32
 
-//go:linkname Fn20499 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20499
-func Fn20499(m *base.Module, l0 int32)
+//go:linkname Fn22541 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22541
+func Fn22541(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn20502 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20502
-func Fn20502(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22544 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22544
+func Fn22544(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
 
-//go:linkname Fn20503 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn20503
-func Fn20503(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22551 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22551
+func Fn22551(m *base.Module, l0 int32)
 
-//go:linkname Fn20505 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20505
-func Fn20505(m *base.Module, l0 int32)
+//go:linkname Fn22554 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22554
+func Fn22554(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20506 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20506
-func Fn20506(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22555 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22555
+func Fn22555(m *base.Module, l0 int32)
 
-//go:linkname Fn20509 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn20509
-func Fn20509(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn22556 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22556
+func Fn22556(m *base.Module, l0 int32)
 
-//go:linkname Fn20511 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn20511
-func Fn20511(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn22557 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22557
+func Fn22557(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn20516 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn20516
-func Fn20516(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22563 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22563
+func Fn22563(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
 
-//go:linkname Fn20517 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20517
-func Fn20517(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22565 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22565
+func Fn22565(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20518 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20518
-func Fn20518(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22568 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22568
+func Fn22568(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20520 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20520
-func Fn20520(m *base.Module, l0 int32)
+//go:linkname Fn22570 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22570
+func Fn22570(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20523 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20523
-func Fn20523(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22571 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22571
+func Fn22571(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20524 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20524
-func Fn20524(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22572 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22572
+func Fn22572(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn20766 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn20766
-func Fn20766(m *base.Module, l0 int32)
+//go:linkname Fn22573 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22573
+func Fn22573(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn21127 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn21127
-func Fn21127(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn22577 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22577
+func Fn22577(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn21129 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn21129
-func Fn21129(m *base.Module, l0 int32)
+//go:linkname Fn22578 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22578
+func Fn22578(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn21133 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn21133
-func Fn21133(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22579 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22579
+func Fn22579(m *base.Module, l0 int32)
 
-//go:linkname Fn21146 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn21146
-func Fn21146(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22580 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22580
+func Fn22580(m *base.Module, l0 int32)
 
-//go:linkname Fn21148 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn21148
-func Fn21148(m *base.Module, l0 int32) int32
+//go:linkname Fn22582 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22582
+func Fn22582(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn21149 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn21149
-func Fn21149(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22583 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22583
+func Fn22583(m *base.Module, l0 int32)
 
-//go:linkname Fn21306 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn21306
-func Fn21306(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22586 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22586
+func Fn22586(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn21324 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn21324
-func Fn21324(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn22587 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22587
+func Fn22587(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn21327 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn21327
-func Fn21327(m *base.Module, l0 int32) int32
+//go:linkname Fn22588 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22588
+func Fn22588(m *base.Module, l0 int32)
 
-//go:linkname Fn21458 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn21458
-func Fn21458(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn22589 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22589
+func Fn22589(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32) int32
 
-//go:linkname Fn21486 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn21486
-func Fn21486(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22590 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22590
+func Fn22590(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn21493 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn21493
-func Fn21493(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+//go:linkname Fn22596 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22596
+func Fn22596(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn21534 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn21534
-func Fn21534(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22599 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22599
+func Fn22599(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn21543 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn21543
-func Fn21543(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn22602 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22602
+func Fn22602(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
 
-//go:linkname Fn21962 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn21962
-func Fn21962(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32, l16 int32)
+//go:linkname Fn22605 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22605
+func Fn22605(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn21976 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn21976
-func Fn21976(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn22610 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22610
+func Fn22610(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn22093 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22093
-func Fn22093(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22611 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22611
+func Fn22611(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn22126 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22126
-func Fn22126(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn22620 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22620
+func Fn22620(m *base.Module, l0 int32)
 
-//go:linkname Fn22133 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22133
-func Fn22133(m *base.Module, l0 int32)
+//go:linkname Fn22621 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22621
+func Fn22621(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn22747 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn22747
-func Fn22747(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn22622 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22622
+func Fn22622(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn22761 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22761
-func Fn22761(m *base.Module, l0 int32)
+//go:linkname Fn22625 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22625
+func Fn22625(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22627 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22627
+func Fn22627(m *base.Module, l0 int32)
+
+//go:linkname Fn22628 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22628
+func Fn22628(m *base.Module, l0 int32)
+
+//go:linkname Fn22629 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22629
+func Fn22629(m *base.Module, l0 int32)
+
+//go:linkname Fn22630 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22630
+func Fn22630(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22644 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22644
+func Fn22644(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn22645 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22645
+func Fn22645(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22649 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22649
+func Fn22649(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22650 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22650
+func Fn22650(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22652 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22652
+func Fn22652(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22655 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22655
+func Fn22655(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22658 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22658
+func Fn22658(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22659 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22659
+func Fn22659(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+
+//go:linkname Fn22689 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22689
+func Fn22689(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22690 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22690
+func Fn22690(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22693 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22693
+func Fn22693(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22697 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22697
+func Fn22697(m *base.Module, l0 int32)
+
+//go:linkname Fn22698 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22698
+func Fn22698(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22699 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22699
+func Fn22699(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+
+//go:linkname Fn22700 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22700
+func Fn22700(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22701 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn22701
+func Fn22701(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32)
+
+//go:linkname Fn22705 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22705
+func Fn22705(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn22707 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn22707
+func Fn22707(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32)
+
+//go:linkname Fn22713 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22713
+func Fn22713(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn22715 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22715
+func Fn22715(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22716 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22716
+func Fn22716(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32)
+
+//go:linkname Fn22718 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22718
+func Fn22718(m *base.Module, l0 int32)
+
+//go:linkname Fn22721 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22721
+func Fn22721(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22722 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22722
+func Fn22722(m *base.Module, l0 int32)
+
+//go:linkname Fn22724 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn22724
+func Fn22724(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32)
+
+//go:linkname Fn22729 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn22729
+func Fn22729(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22734 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn22734
+func Fn22734(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32)
+
+//go:linkname Fn22739 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22739
+func Fn22739(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22743 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn22743
+func Fn22743(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32)
+
+//go:linkname Fn22747 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22747
+func Fn22747(m *base.Module, l0 int32) int32
+
+//go:linkname Fn22750 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22750
+func Fn22750(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22751 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22751
+func Fn22751(m *base.Module, l0 int32) int32
+
+//go:linkname Fn22752 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22752
+func Fn22752(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn22755 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22755
+func Fn22755(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22761 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22761
+func Fn22761(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22762 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22762
+func Fn22762(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22769 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22769
+func Fn22769(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22770 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22770
+func Fn22770(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn22771 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22771
+func Fn22771(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22772 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22772
+func Fn22772(m *base.Module, l0 int32)
+
+//go:linkname Fn22773 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22773
+func Fn22773(m *base.Module, l0 int32)
+
+//go:linkname Fn22784 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22784
+func Fn22784(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22786 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22786
+func Fn22786(m *base.Module) int32
+
+//go:linkname Fn22789 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22789
+func Fn22789(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+
+//go:linkname Fn22790 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22790
+func Fn22790(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22795 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22795
+func Fn22795(m *base.Module, l0 int32)
+
+//go:linkname Fn22797 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22797
+func Fn22797(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22799 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22799
+func Fn22799(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22802 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22802
+func Fn22802(m *base.Module, l0 int32) int32
+
+//go:linkname Fn22803 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22803
+func Fn22803(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22805 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22805
+func Fn22805(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+
+//go:linkname Fn22806 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22806
+func Fn22806(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+
+//go:linkname Fn22808 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22808
+func Fn22808(m *base.Module, l0 int32) int32
+
+//go:linkname Fn22809 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22809
+func Fn22809(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn22816 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22816
+func Fn22816(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22818 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22818
+func Fn22818(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22821 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22821
+func Fn22821(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22823 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22823
+func Fn22823(m *base.Module, l0 int32)
+
+//go:linkname Fn22834 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22834
+func Fn22834(m *base.Module, l0 int32)
+
+//go:linkname Fn22839 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22839
+func Fn22839(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+
+//go:linkname Fn22840 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22840
+func Fn22840(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22841 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22841
+func Fn22841(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22846 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22846
+func Fn22846(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22848 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22848
+func Fn22848(m *base.Module, l0 int32) int32
+
+//go:linkname Fn22850 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22850
+func Fn22850(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22851 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22851
+func Fn22851(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22857 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22857
+func Fn22857(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22864 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22864
+func Fn22864(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22871 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22871
+func Fn22871(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22873 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22873
+func Fn22873(m *base.Module, l0 int32)
+
+//go:linkname Fn22874 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22874
+func Fn22874(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22875 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22875
+func Fn22875(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22877 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22877
+func Fn22877(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22878 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22878
+func Fn22878(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22882 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22882
+func Fn22882(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22889 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22889
+func Fn22889(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22891 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22891
+func Fn22891(m *base.Module, l0 int32)
+
+//go:linkname Fn22892 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22892
+func Fn22892(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22902 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22902
+func Fn22902(m *base.Module, l0 int32)
+
+//go:linkname Fn22903 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22903
+func Fn22903(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22904 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22904
+func Fn22904(m *base.Module, l0 int32)
+
+//go:linkname Fn22905 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22905
+func Fn22905(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22906 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22906
+func Fn22906(m *base.Module, l0 int32) int32
+
+//go:linkname Fn22907 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn22907
+func Fn22907(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn22920 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22920
+func Fn22920(m *base.Module, l0 int32)
+
+//go:linkname Fn22921 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22921
+func Fn22921(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22922 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22922
+func Fn22922(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn22933 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22933
+func Fn22933(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22942 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn22942
+func Fn22942(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22945 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22945
+func Fn22945(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22949 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22949
+func Fn22949(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22950 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22950
+func Fn22950(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22952 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22952
+func Fn22952(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22953 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn22953
+func Fn22953(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22954 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22954
+func Fn22954(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn22958 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn22958
+func Fn22958(m *base.Module, l0 int32) int32
+
+//go:linkname Fn22960 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn22960
+func Fn22960(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn22967 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22967
+func Fn22967(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22970 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22970
+func Fn22970(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn22973 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22973
+func Fn22973(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn22981 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn22981
+func Fn22981(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn22989 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn22989
+func Fn22989(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn22993 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn22993
+func Fn22993(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn22998 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn22998
+func Fn22998(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+
+//go:linkname Fn23001 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23001
+func Fn23001(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn23006 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23006
+func Fn23006(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23013 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn23013
+func Fn23013(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn23020 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23020
+func Fn23020(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23023 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23023
+func Fn23023(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23034 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn23034
+func Fn23034(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn23035 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn23035
+func Fn23035(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn23038 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23038
+func Fn23038(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn23040 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23040
+func Fn23040(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+
+//go:linkname Fn23041 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23041
+func Fn23041(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23044 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23044
+func Fn23044(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23046 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23046
+func Fn23046(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23050 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23050
+func Fn23050(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn23060 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23060
+func Fn23060(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23061 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23061
+func Fn23061(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23062 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23062
+func Fn23062(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32)
+
+//go:linkname Fn23066 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23066
+func Fn23066(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn23068 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23068
+func Fn23068(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23070 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn23070
+func Fn23070(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23072 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23072
+func Fn23072(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn23075 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23075
+func Fn23075(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23076 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23076
+func Fn23076(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+
+//go:linkname Fn23088 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23088
+func Fn23088(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23089 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn23089
+func Fn23089(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn23090 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23090
+func Fn23090(m *base.Module, l0 int32)
+
+//go:linkname Fn23091 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23091
+func Fn23091(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23098 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23098
+func Fn23098(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23100 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23100
+func Fn23100(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+
+//go:linkname Fn23106 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23106
+func Fn23106(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23110 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23110
+func Fn23110(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23111 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23111
+func Fn23111(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23116 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23116
+func Fn23116(m *base.Module, l0 int32)
+
+//go:linkname Fn23117 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23117
+func Fn23117(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn23120 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23120
+func Fn23120(m *base.Module, l0 int32)
+
+//go:linkname Fn23122 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23122
+func Fn23122(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23124 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23124
+func Fn23124(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23129 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23129
+func Fn23129(m *base.Module) int32
+
+//go:linkname Fn23130 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23130
+func Fn23130(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23131 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23131
+func Fn23131(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23132 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23132
+func Fn23132(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn23137 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23137
+func Fn23137(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn23143 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23143
+func Fn23143(m *base.Module) int32
+
+//go:linkname Fn23165 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23165
+func Fn23165(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23166 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23166
+func Fn23166(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn23168 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23168
+func Fn23168(m *base.Module, l0 int32)
+
+//go:linkname Fn23171 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23171
+func Fn23171(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23175 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23175
+func Fn23175(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23180 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23180
+func Fn23180(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23183 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23183
+func Fn23183(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23188 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23188
+func Fn23188(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23193 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23193
+func Fn23193(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23197 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23197
+func Fn23197(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23202 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23202
+func Fn23202(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23203 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23203
+func Fn23203(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23204 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23204
+func Fn23204(m *base.Module, l0 int32)
+
+//go:linkname Fn23205 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23205
+func Fn23205(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23206 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23206
+func Fn23206(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23208 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23208
+func Fn23208(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23213 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23213
+func Fn23213(m *base.Module, l0 int32)
+
+//go:linkname Fn23225 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23225
+func Fn23225(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23226 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23226
+func Fn23226(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23227 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23227
+func Fn23227(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23229 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23229
+func Fn23229(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23230 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23230
+func Fn23230(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23231 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23231
+func Fn23231(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23235 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23235
+func Fn23235(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23237 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23237
+func Fn23237(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23238 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23238
+func Fn23238(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+
+//go:linkname Fn23297 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23297
+func Fn23297(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23298 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23298
+func Fn23298(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23304 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23304
+func Fn23304(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23308 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23308
+func Fn23308(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23309 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23309
+func Fn23309(m *base.Module, l0 int32)
+
+//go:linkname Fn23315 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23315
+func Fn23315(m *base.Module, l0 int32)
+
+//go:linkname Fn23317 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23317
+func Fn23317(m *base.Module, l0 int32)
+
+//go:linkname Fn23318 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23318
+func Fn23318(m *base.Module, l0 int32)
+
+//go:linkname Fn23321 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23321
+func Fn23321(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23323 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23323
+func Fn23323(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23324 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23324
+func Fn23324(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23326 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23326
+func Fn23326(m *base.Module, l0 int32)
+
+//go:linkname Fn23338 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23338
+func Fn23338(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23339 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23339
+func Fn23339(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23340 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23340
+func Fn23340(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23343 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23343
+func Fn23343(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23347 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23347
+func Fn23347(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23348 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23348
+func Fn23348(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23352 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23352
+func Fn23352(m *base.Module, l0 int32)
+
+//go:linkname Fn23353 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23353
+func Fn23353(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23354 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23354
+func Fn23354(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23355 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23355
+func Fn23355(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23359 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23359
+func Fn23359(m *base.Module, l0 int32)
+
+//go:linkname Fn23363 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23363
+func Fn23363(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23364 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23364
+func Fn23364(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23367 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23367
+func Fn23367(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23371 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23371
+func Fn23371(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23374 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23374
+func Fn23374(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23393 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23393
+func Fn23393(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23394 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23394
+func Fn23394(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23397 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23397
+func Fn23397(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23398 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23398
+func Fn23398(m *base.Module, l0 int32)
+
+//go:linkname Fn23403 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23403
+func Fn23403(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23405 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23405
+func Fn23405(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23407 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23407
+func Fn23407(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23410 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23410
+func Fn23410(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23415 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23415
+func Fn23415(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23416 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23416
+func Fn23416(m *base.Module, l0 int32)
+
+//go:linkname Fn23418 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23418
+func Fn23418(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23420 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23420
+func Fn23420(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23422 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23422
+func Fn23422(m *base.Module, l0 int32)
+
+//go:linkname Fn23435 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23435
+func Fn23435(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23436 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23436
+func Fn23436(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23471 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23471
+func Fn23471(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn23472 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23472
+func Fn23472(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23474 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn23474
+func Fn23474(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn23476 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23476
+func Fn23476(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23484 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23484
+func Fn23484(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23485 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23485
+func Fn23485(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23487 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23487
+func Fn23487(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23488 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23488
+func Fn23488(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23491 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23491
+func Fn23491(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23519 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23519
+func Fn23519(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23526 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23526
+func Fn23526(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23533 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23533
+func Fn23533(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23534 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23534
+func Fn23534(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23537 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23537
+func Fn23537(m *base.Module, l0 int32)
+
+//go:linkname Fn23538 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23538
+func Fn23538(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23541 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23541
+func Fn23541(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23544 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23544
+func Fn23544(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23548 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23548
+func Fn23548(m *base.Module, l0 int32)
+
+//go:linkname Fn23552 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23552
+func Fn23552(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23555 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23555
+func Fn23555(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn23556 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23556
+func Fn23556(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23557 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23557
+func Fn23557(m *base.Module, l0 int32)
+
+//go:linkname Fn23558 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23558
+func Fn23558(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23562 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23562
+func Fn23562(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23563 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23563
+func Fn23563(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23567 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23567
+func Fn23567(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn23576 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23576
+func Fn23576(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23577 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn23577
+func Fn23577(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23579 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23579
+func Fn23579(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23583 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23583
+func Fn23583(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
 //go:linkname Fn23586 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23586
-func Fn23586(m *base.Module, l0 int32, l1 int32)
+func Fn23586(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn23592 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23592
-func Fn23592(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn23591 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23591
+func Fn23591(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn23861 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23861
-func Fn23861(m *base.Module, l0 int32)
+//go:linkname Fn23596 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn23596
+func Fn23596(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn23875 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23875
-func Fn23875(m *base.Module, l0 int32)
+//go:linkname Fn23598 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23598
+func Fn23598(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn23897 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23897
-func Fn23897(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn23603 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23603
+func Fn23603(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
 
-//go:linkname Fn23898 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23898
-func Fn23898(m *base.Module, l0 int32)
+//go:linkname Fn23605 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23605
+func Fn23605(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn23902 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23902
-func Fn23902(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn23620 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23620
+func Fn23620(m *base.Module, l0 int32) int32
 
-//go:linkname Fn23907 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23907
-func Fn23907(m *base.Module, l0 int32)
+//go:linkname Fn23621 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23621
+func Fn23621(m *base.Module, l0 int32) int32
 
-//go:linkname Fn23912 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23912
-func Fn23912(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+//go:linkname Fn23637 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23637
+func Fn23637(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn23916 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23916
+//go:linkname Fn23643 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23643
+func Fn23643(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23644 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23644
+func Fn23644(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23645 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn23645
+func Fn23645(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23651 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23651
+func Fn23651(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23653 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23653
+func Fn23653(m *base.Module, l0 int32)
+
+//go:linkname Fn23655 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23655
+func Fn23655(m *base.Module, l0 int32)
+
+//go:linkname Fn23660 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23660
+func Fn23660(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23663 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23663
+func Fn23663(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23664 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23664
+func Fn23664(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23667 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23667
+func Fn23667(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23676 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23676
+func Fn23676(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23677 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23677
+func Fn23677(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23678 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23678
+func Fn23678(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23680 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23680
+func Fn23680(m *base.Module, l0 int32)
+
+//go:linkname Fn23682 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23682
+func Fn23682(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23685 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23685
+func Fn23685(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23686 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23686
+func Fn23686(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23688 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23688
+func Fn23688(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+
+//go:linkname Fn23692 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23692
+func Fn23692(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23696 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23696
+func Fn23696(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23698 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23698
+func Fn23698(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+
+//go:linkname Fn23707 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23707
+func Fn23707(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23714 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23714
+func Fn23714(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23718 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23718
+func Fn23718(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23722 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23722
+func Fn23722(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23725 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23725
+func Fn23725(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+
+//go:linkname Fn23727 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn23727
+func Fn23727(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32)
+
+//go:linkname Fn23730 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23730
+func Fn23730(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23731 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23731
+func Fn23731(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23738 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23738
+func Fn23738(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn23740 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23740
+func Fn23740(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn23743 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23743
+func Fn23743(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23747 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23747
+func Fn23747(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+
+//go:linkname Fn23748 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23748
+func Fn23748(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23749 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23749
+func Fn23749(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23754 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23754
+func Fn23754(m *base.Module, l0 int32) int32
+
+//go:linkname Fn23758 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23758
+func Fn23758(m *base.Module, l0 int32)
+
+//go:linkname Fn23762 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23762
+func Fn23762(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn23769 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23769
+func Fn23769(m *base.Module, l0 int32)
+
+//go:linkname Fn23770 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23770
+func Fn23770(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23775 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23775
+func Fn23775(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23798 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23798
+func Fn23798(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23800 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23800
+func Fn23800(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23801 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23801
+func Fn23801(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23803 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23803
+func Fn23803(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23810 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23810
+func Fn23810(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23813 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn23813
+func Fn23813(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+
+//go:linkname Fn23824 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23824
+func Fn23824(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+
+//go:linkname Fn23826 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn23826
+func Fn23826(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn23827 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23827
+func Fn23827(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23838 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23838
+func Fn23838(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23839 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23839
+func Fn23839(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23841 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23841
+func Fn23841(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn23845 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23845
+func Fn23845(m *base.Module, l0 int32)
+
+//go:linkname Fn23846 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23846
+func Fn23846(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23862 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23862
+func Fn23862(m *base.Module, l0 int32)
+
+//go:linkname Fn23863 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23863
+func Fn23863(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23864 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23864
+func Fn23864(m *base.Module, l0 int32)
+
+//go:linkname Fn23873 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23873
+func Fn23873(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23878 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23878
+func Fn23878(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23881 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23881
+func Fn23881(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23882 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23882
+func Fn23882(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23897 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23897
+func Fn23897(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23904 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn23904
+func Fn23904(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23905 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23905
+func Fn23905(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn23909 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23909
+func Fn23909(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn23910 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23910
+func Fn23910(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn23916 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23916
 func Fn23916(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn23923 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn23923
-func Fn23923(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn23917 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn23917
+func Fn23917(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn23926 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23926
-func Fn23926(m *base.Module, l0 int32)
+//go:linkname Fn23921 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn23921
+func Fn23921(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn23928 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn23928
-func Fn23928(m *base.Module, l0 int32)
+//go:linkname Fn24616 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn24616
+func Fn24616(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn24008 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24008
-func Fn24008(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn24625 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn24625
+func Fn24625(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn24034 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24034
-func Fn24034(m *base.Module, l0 int32)
+//go:linkname Fn24626 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24626
+func Fn24626(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn24072 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24072
-func Fn24072(m *base.Module, l0 int32)
+//go:linkname Fn24627 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24627
+func Fn24627(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn24076 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24076
-func Fn24076(m *base.Module, l0 int32)
+//go:linkname Fn24663 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24663
+func Fn24663(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn24083 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24083
-func Fn24083(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn24669 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24669
+func Fn24669(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn24158 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24158
-func Fn24158(m *base.Module, l0 int32)
+//go:linkname Fn24674 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24674
+func Fn24674(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn24161 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24161
-func Fn24161(m *base.Module, l0 int32)
+//go:linkname Fn24675 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn24675
+func Fn24675(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn24225 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24225
-func Fn24225(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn24681 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24681
+func Fn24681(m *base.Module, l0 int32) int32
 
-//go:linkname Fn24226 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24226
-func Fn24226(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn24686 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn24686
+func Fn24686(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
 
-//go:linkname Fn24243 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24243
-func Fn24243(m *base.Module, l0 int32) int32
+//go:linkname Fn24688 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24688
+func Fn24688(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn24250 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24250
-func Fn24250(m *base.Module, l0 int32) int32
+//go:linkname Fn24711 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24711
+func Fn24711(m *base.Module, l0 int32) int32
 
-//go:linkname Fn24251 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24251
-func Fn24251(m *base.Module, l0 int32) int32
+//go:linkname Fn24719 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn24719
+func Fn24719(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn24255 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24255
-func Fn24255(m *base.Module, l0 int32) int32
+//go:linkname Fn24732 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24732
+func Fn24732(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn24307 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24307
-func Fn24307(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn24733 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24733
+func Fn24733(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn24352 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24352
-func Fn24352(m *base.Module, l0 int32)
+//go:linkname Fn24734 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24734
+func Fn24734(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn24426 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn24426
-func Fn24426(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn24745 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn24745
+func Fn24745(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn24697 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24697
-func Fn24697(m *base.Module, l0 int32)
+//go:linkname Fn24760 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn24760
+func Fn24760(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn24717 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24717
-func Fn24717(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn24761 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn24761
+func Fn24761(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn24769 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn24769
-func Fn24769(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32) int32
+//go:linkname Fn24762 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24762
+func Fn24762(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn24848 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24848
-func Fn24848(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn24765 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24765
+func Fn24765(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn24860 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn24860
-func Fn24860(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn24766 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24766
+func Fn24766(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn24873 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24873
-func Fn24873(m *base.Module, l0 int32)
+//go:linkname Fn24769 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24769
+func Fn24769(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn24875 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24875
-func Fn24875(m *base.Module, l0 int32)
+//go:linkname Fn24778 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24778
+func Fn24778(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn24878 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24878
-func Fn24878(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn24780 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn24780
+func Fn24780(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn24879 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24879
-func Fn24879(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn24782 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn24782
+func Fn24782(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn24882 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24882
-func Fn24882(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn24784 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24784
+func Fn24784(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn24883 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24883
-func Fn24883(m *base.Module, l0 int32)
+//go:linkname Fn24819 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24819
+func Fn24819(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn24884 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24884
-func Fn24884(m *base.Module, l0 int32)
+//go:linkname Fn24820 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24820
+func Fn24820(m *base.Module, l0 int32) int32
 
-//go:linkname Fn24886 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24886
-func Fn24886(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn24906 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24906
+func Fn24906(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn24887 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24887
-func Fn24887(m *base.Module, l0 int32)
+//go:linkname Fn24914 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn24914
+func Fn24914(m *base.Module, l0 int32)
 
-//go:linkname Fn24888 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24888
-func Fn24888(m *base.Module, l0 int32) int32
-
-//go:linkname Fn24889 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24889
-func Fn24889(m *base.Module, l0 int32) int32
-
-//go:linkname Fn24890 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24890
-func Fn24890(m *base.Module, l0 int32)
-
-//go:linkname Fn24893 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24893
-func Fn24893(m *base.Module, l0 int32)
-
-//go:linkname Fn24915 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24915
-func Fn24915(m *base.Module, l0 int32)
-
-//go:linkname Fn24916 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24916
-func Fn24916(m *base.Module, l0 int32)
-
-//go:linkname Fn24917 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24917
-func Fn24917(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn24919 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24919
-func Fn24919(m *base.Module)
-
-//go:linkname Fn24920 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24920
-func Fn24920(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn24921 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24921
-func Fn24921(m *base.Module, l0 int32) int32
-
-//go:linkname Fn24923 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24923
-func Fn24923(m *base.Module) int32
-
-//go:linkname Fn24924 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24924
-func Fn24924(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn24925 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn24925
-func Fn24925(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn24927 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24927
-func Fn24927(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn24930 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24930
-func Fn24930(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn24932 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24932
-func Fn24932(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24933 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn24933
-func Fn24933(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn24934 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24934
-func Fn24934(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn24936 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24936
-func Fn24936(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24937 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn24937
-func Fn24937(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn24938 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn24938
-func Fn24938(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn24942 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24942
-func Fn24942(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn24943 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn24943
-func Fn24943(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn24945 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn24945
-func Fn24945(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24946 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24946
-func Fn24946(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24948 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24948
-func Fn24948(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn24951 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24951
-func Fn24951(m *base.Module, l0 int32) int32
-
-//go:linkname Fn24954 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24954
-func Fn24954(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24955 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn24955
-func Fn24955(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24956 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn24956
-func Fn24956(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn24957 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24957
-func Fn24957(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn24958 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24958
-func Fn24958(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn24963 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24963
-func Fn24963(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24967 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24967
-func Fn24967(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24968 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24968
-func Fn24968(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn24973 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn24973
-func Fn24973(m *base.Module, l0 int32)
-
-//go:linkname Fn24976 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24976
-func Fn24976(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn24977 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24977
-func Fn24977(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn24980 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24980
-func Fn24980(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24985 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn24985
-func Fn24985(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24986 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn24986
-func Fn24986(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24987 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn24987
-func Fn24987(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24988 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn24988
-func Fn24988(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn24990 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn24990
-func Fn24990(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24991 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn24991
-func Fn24991(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn24994 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24994
-func Fn24994(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn25000 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn25000
-func Fn25000(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn25003 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25003
-func Fn25003(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn24992 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn24992
+func Fn24992(m *base.Module, l0 int32)
 
 //go:linkname Fn25007 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25007
-func Fn25007(m *base.Module, l0 int32, l1 int32) int32
+func Fn25007(m *base.Module, l0 int32)
 
-//go:linkname Fn25011 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn25011
-func Fn25011(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32)
+//go:linkname Fn25034 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25034
+func Fn25034(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25012 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25012
-func Fn25012(m *base.Module, l0 int32)
+//go:linkname Fn25035 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25035
+func Fn25035(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25013 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25013
-func Fn25013(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25037 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25037
+func Fn25037(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25014 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn25014
-func Fn25014(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn25038 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25038
+func Fn25038(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25017 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25017
-func Fn25017(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25044 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25044
+func Fn25044(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25021 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25021
-func Fn25021(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25046 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25046
+func Fn25046(m *base.Module, l0 int32) int32
 
-//go:linkname Fn25023 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25023
-func Fn25023(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn25028 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25028
-func Fn25028(m *base.Module, l0 int32) int32
-
-//go:linkname Fn25034 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25034
-func Fn25034(m *base.Module, l0 int32) int32
-
-//go:linkname Fn25035 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25035
-func Fn25035(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn25036 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn25036
-func Fn25036(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn25037 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25037
-func Fn25037(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn25038 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25038
-func Fn25038(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn25039 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn25039
-func Fn25039(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn25040 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25040
-func Fn25040(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn25041 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25041
-func Fn25041(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn25042 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25042
-func Fn25042(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn25043 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25043
-func Fn25043(m *base.Module, l0 int32)
-
-//go:linkname Fn25044 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25044
-func Fn25044(m *base.Module, l0 int32) int32
-
-//go:linkname Fn25045 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn25045
-func Fn25045(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn25046 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25046
-func Fn25046(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn25047 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25047
-func Fn25047(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn25048 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25048
-func Fn25048(m *base.Module, l0 int32)
-
-//go:linkname Fn25050 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25050
-func Fn25050(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn25052 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25052
-func Fn25052(m *base.Module, l0 int32)
-
-//go:linkname Fn25053 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25053
-func Fn25053(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn25055 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25055
-func Fn25055(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn25057 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25057
-func Fn25057(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn25047 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn25047
+func Fn25047(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
 
 //go:linkname Fn25058 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25058
-func Fn25058(m *base.Module, l0 int32)
+func Fn25058(m *base.Module, l0 int32) int32
 
-//go:linkname Fn25059 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25059
-func Fn25059(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn25092 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25092
+func Fn25092(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25060 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25060
-func Fn25060(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn25095 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25095
+func Fn25095(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25062 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25062
-func Fn25062(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25101 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25101
+func Fn25101(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25063 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25063
-func Fn25063(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn25127 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25127
+func Fn25127(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25064 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25064
-func Fn25064(m *base.Module, l0 int32) int32
+//go:linkname Fn25129 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25129
+func Fn25129(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25065 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25065
-func Fn25065(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25130 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25130
+func Fn25130(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25066 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25066
-func Fn25066(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25131 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25131
+func Fn25131(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25070 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25070
-func Fn25070(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25133 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25133
+func Fn25133(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25091 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25091
-func Fn25091(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn25135 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25135
+func Fn25135(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25098 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25098
-func Fn25098(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn25136 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25136
+func Fn25136(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25099 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25099
-func Fn25099(m *base.Module, l0 int32) int32
+//go:linkname Fn25137 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25137
+func Fn25137(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25100 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25100
-func Fn25100(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25139 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25139
+func Fn25139(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25101 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25101
-func Fn25101(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25140 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25140
+func Fn25140(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25104 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25104
-func Fn25104(m *base.Module, l0 int32)
+//go:linkname Fn25141 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25141
+func Fn25141(m *base.Module, l0 int32)
 
-//go:linkname Fn25105 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25105
-func Fn25105(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn25142 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25142
+func Fn25142(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25106 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25106
-func Fn25106(m *base.Module, l0 int32)
+//go:linkname Fn25143 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25143
+func Fn25143(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25111 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25111
-func Fn25111(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn25147 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25147
+func Fn25147(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25117 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25117
-func Fn25117(m *base.Module, l0 int32)
+//go:linkname Fn25149 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25149
+func Fn25149(m *base.Module, l0 int32)
 
-//go:linkname Fn25118 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25118
-func Fn25118(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn25181 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25181
+func Fn25181(m *base.Module, l0 int32)
 
-//go:linkname Fn25120 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25120
-func Fn25120(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn25184 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25184
+func Fn25184(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25121 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25121
-func Fn25121(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn25187 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25187
+func Fn25187(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25124 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25124
-func Fn25124(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn25138 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25138
-func Fn25138(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn25151 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25151
-func Fn25151(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn25156 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25156
-func Fn25156(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn25167 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25167
-func Fn25167(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn25168 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25168
-func Fn25168(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn25170 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25170
-func Fn25170(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn25171 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25171
-func Fn25171(m *base.Module, l0 int32)
-
-//go:linkname Fn25172 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25172
-func Fn25172(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn25177 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25177
-func Fn25177(m *base.Module, l0 int32) int32
-
-//go:linkname Fn25181 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25181
-func Fn25181(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25188 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25188
+func Fn25188(m *base.Module, l0 int32)
 
 //go:linkname Fn25190 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25190
-func Fn25190(m *base.Module, l0 int32, l1 int32) int32
+func Fn25190(m *base.Module, l0 int32)
 
 //go:linkname Fn25191 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25191
-func Fn25191(m *base.Module, l0 int32, l1 int32) int32
+func Fn25191(m *base.Module, l0 int32) int32
+
+//go:linkname Fn25192 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25192
+func Fn25192(m *base.Module, l0 int32)
+
+//go:linkname Fn25194 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25194
+func Fn25194(m *base.Module, l0 int32)
+
+//go:linkname Fn25197 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn25197
+func Fn25197(m *base.Module, l0 int32, l1 int32, l2 int32)
 
 //go:linkname Fn25201 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25201
-func Fn25201(m *base.Module, l0 int32, l1 int32) int32
+func Fn25201(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25209 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25209
-func Fn25209(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25203 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25203
+func Fn25203(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25210 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25210
-func Fn25210(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25204 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25204
+func Fn25204(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25212 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25212
-func Fn25212(m *base.Module, l0 int32) int32
+//go:linkname Fn25206 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25206
+func Fn25206(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25215 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25215
-func Fn25215(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn25207 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25207
+func Fn25207(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25230 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25230
-func Fn25230(m *base.Module, l0 int32) int32
+//go:linkname Fn25208 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25208
+func Fn25208(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25250 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25250
-func Fn25250(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn25209 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn25209
+func Fn25209(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25255 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25255
-func Fn25255(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn25210 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25210
+func Fn25210(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25262 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25262
-func Fn25262(m *base.Module, l0 int32)
+//go:linkname Fn25214 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25214
+func Fn25214(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25263 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25263
-func Fn25263(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25215 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn25215
+func Fn25215(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25264 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25264
-func Fn25264(m *base.Module, l0 int32)
+//go:linkname Fn25216 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25216
+func Fn25216(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25265 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25265
-func Fn25265(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25219 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25219
+func Fn25219(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25266 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25266
-func Fn25266(m *base.Module, l0 int32)
+//go:linkname Fn25223 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25223
+func Fn25223(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25269 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25269
-func Fn25269(m *base.Module, l0 int32)
+//go:linkname Fn25225 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25225
+func Fn25225(m *base.Module, l0 int32)
 
-//go:linkname Fn25271 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25271
-func Fn25271(m *base.Module, l0 int32)
+//go:linkname Fn25228 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25228
+func Fn25228(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn25272 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25272
-func Fn25272(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn25231 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25231
+func Fn25231(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25274 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25274
-func Fn25274(m *base.Module, l0 int32) int32
+//go:linkname Fn25235 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn25235
+func Fn25235(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25275 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25275
-func Fn25275(m *base.Module, l0 int32)
+//go:linkname Fn25236 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn25236
+func Fn25236(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25276 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25276
-func Fn25276(m *base.Module, l0 int32) int32
+//go:linkname Fn25237 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn25237
+func Fn25237(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25277 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25277
-func Fn25277(m *base.Module, l0 int32)
+//go:linkname Fn25238 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25238
+func Fn25238(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn25240 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25240
+func Fn25240(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn25241 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn25241
+func Fn25241(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn25244 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25244
+func Fn25244(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn25248 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn25248
+func Fn25248(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn25255 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn25255
+func Fn25255(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32, l15 int32)
+
+//go:linkname Fn25256 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25256
+func Fn25256(m *base.Module, l0 int32)
+
+//go:linkname Fn25257 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25257
+func Fn25257(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn25258 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn25258
+func Fn25258(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn25270 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25270
+func Fn25270(m *base.Module, l0 int32) int32
+
+//go:linkname Fn25271 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25271
+func Fn25271(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn25272 github.com/tyzerrr/spanneranalyzerwasm2go/p4.Fn25272
+func Fn25272(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn25273 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25273
+func Fn25273(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn25274 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25274
+func Fn25274(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn25275 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn25275
+func Fn25275(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn25276 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25276
+func Fn25276(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn25277 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25277
+func Fn25277(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn25278 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25278
+func Fn25278(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn25279 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25279
+func Fn25279(m *base.Module, l0 int32)
+
+//go:linkname Fn25280 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn25280
+func Fn25280(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
 //go:linkname Fn25281 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25281
-func Fn25281(m *base.Module, l0 int32)
+func Fn25281(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25282 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25282
-func Fn25282(m *base.Module, l0 int32)
+//go:linkname Fn25282 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25282
+func Fn25282(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25291 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25291
-func Fn25291(m *base.Module, l0 int32)
+//go:linkname Fn25284 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25284
+func Fn25284(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25292 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25292
-func Fn25292(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25286 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25286
+func Fn25286(m *base.Module, l0 int32)
 
-//go:linkname Fn25293 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25293
-func Fn25293(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25287 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25287
+func Fn25287(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25294 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25294
-func Fn25294(m *base.Module, l0 int32)
+//go:linkname Fn25290 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25290
+func Fn25290(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25295 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25295
-func Fn25295(m *base.Module, l0 int32)
+//go:linkname Fn25291 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25291
+func Fn25291(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn25296 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25296
-func Fn25296(m *base.Module, l0 int32)
+//go:linkname Fn25292 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25292
+func Fn25292(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25299 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25299
-func Fn25299(m *base.Module, l0 int32) int32
+//go:linkname Fn25295 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25295
+func Fn25295(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25300 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25300
-func Fn25300(m *base.Module, l0 int32)
+//go:linkname Fn25315 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25315
+func Fn25315(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25301 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25301
-func Fn25301(m *base.Module, l0 int32)
+//go:linkname Fn25322 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25322
+func Fn25322(m *base.Module, l0 int32)
 
-//go:linkname Fn25302 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25302
-func Fn25302(m *base.Module, l0 int32)
+//go:linkname Fn25365 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25365
+func Fn25365(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25304 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25304
-func Fn25304(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25377 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25377
+func Fn25377(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25313 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25313
-func Fn25313(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25386 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25386
+func Fn25386(m *base.Module, l0 int32)
 
-//go:linkname Fn25314 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25314
-func Fn25314(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25387 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25387
+func Fn25387(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25315 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25315
-func Fn25315(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25388 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25388
+func Fn25388(m *base.Module, l0 int32)
 
-//go:linkname Fn25316 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25316
-func Fn25316(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25389 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25389
+func Fn25389(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25317 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25317
-func Fn25317(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25390 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25390
+func Fn25390(m *base.Module, l0 int32)
 
-//go:linkname Fn25318 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25318
-func Fn25318(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25392 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25392
+func Fn25392(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25326 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25326
-func Fn25326(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25393 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25393
+func Fn25393(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25327 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25327
-func Fn25327(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25418 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25418
+func Fn25418(m *base.Module, l0 int32)
 
-//go:linkname Fn25329 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25329
-func Fn25329(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn25437 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25437
+func Fn25437(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25331 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25331
-func Fn25331(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25442 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25442
+func Fn25442(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn25332 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25332
-func Fn25332(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn25456 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25456
+func Fn25456(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn25337 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn25337
-func Fn25337(m *base.Module, l0 int32) int32
+//go:linkname Fn25459 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25459
+func Fn25459(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn25341 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25341
-func Fn25341(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn25718 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25718
+func Fn25718(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn25363 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25363
-func Fn25363(m *base.Module, l0 int32)
+//go:linkname Fn25719 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25719
+func Fn25719(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn25366 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25366
-func Fn25366(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn25720 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25720
+func Fn25720(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn25382 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25382
-func Fn25382(m *base.Module, l0 int32)
+//go:linkname Fn25725 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25725
+func Fn25725(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25394 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25394
-func Fn25394(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn25727 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25727
+func Fn25727(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25402 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25402
-func Fn25402(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25730 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25730
+func Fn25730(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25405 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25405
-func Fn25405(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn25731 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25731
+func Fn25731(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn25413 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25413
-func Fn25413(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn26111 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn26111
+func Fn26111(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
 
-//go:linkname Fn25428 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25428
-func Fn25428(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn26112 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn26112
+func Fn26112(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32)
 
-//go:linkname Fn25443 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25443
-func Fn25443(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn26230 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26230
+func Fn26230(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn25450 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25450
-func Fn25450(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn26235 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26235
+func Fn26235(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn25709 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25709
-func Fn25709(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn25710 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25710
-func Fn25710(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn25711 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25711
-func Fn25711(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn25716 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn25716
-func Fn25716(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn25718 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn25718
-func Fn25718(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn25721 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn25721
-func Fn25721(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn25722 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn25722
-func Fn25722(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn26102 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn26102
-func Fn26102(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
-
-//go:linkname Fn26103 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn26103
-func Fn26103(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32, l10 int32, l11 int32, l12 int32, l13 int32, l14 int32)
-
-//go:linkname Fn26214 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26214
-func Fn26214(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn26216 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn26216
-func Fn26216(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn26219 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26219
-func Fn26219(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn26220 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26220
-func Fn26220(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn26222 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26222
-func Fn26222(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn26233 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26233
-func Fn26233(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn26236 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26236
+func Fn26236(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
 //go:linkname Fn26238 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26238
-func Fn26238(m *base.Module, l0 int32, l1 int32)
+func Fn26238(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn26239 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26239
-func Fn26239(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn26243 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26243
+func Fn26243(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26241 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26241
-func Fn26241(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn26249 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26249
+func Fn26249(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26246 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26246
-func Fn26246(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn26251 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn26251
+func Fn26251(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26260 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26260
-func Fn26260(m *base.Module, l0 int32)
+//go:linkname Fn26254 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26254
+func Fn26254(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26261 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26261
-func Fn26261(m *base.Module, l0 int32)
+//go:linkname Fn26255 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26255
+func Fn26255(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26308 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn26308
-func Fn26308(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn26257 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26257
+func Fn26257(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26527 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn26527
-func Fn26527(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn26269 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26269
+func Fn26269(m *base.Module, l0 int32)
 
-//go:linkname Fn26528 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26528
-func Fn26528(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn26270 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26270
+func Fn26270(m *base.Module, l0 int32)
 
-//go:linkname Fn26538 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26538
-func Fn26538(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn26317 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn26317
+func Fn26317(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn26539 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26539
-func Fn26539(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn26536 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn26536
+func Fn26536(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn26540 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26540
-func Fn26540(m *base.Module, l0 int32)
+//go:linkname Fn26537 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn26537
+func Fn26537(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn26541 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26541
-func Fn26541(m *base.Module, l0 int32)
+//go:linkname Fn26547 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26547
+func Fn26547(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn26554 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26554
-func Fn26554(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn26548 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26548
+func Fn26548(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn26555 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26555
-func Fn26555(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn26549 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26549
+func Fn26549(m *base.Module, l0 int32)
 
-//go:linkname Fn26580 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26580
-func Fn26580(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn26550 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26550
+func Fn26550(m *base.Module, l0 int32)
 
-//go:linkname Fn26582 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26582
-func Fn26582(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn26563 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26563
+func Fn26563(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn26585 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26585
-func Fn26585(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn26564 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26564
+func Fn26564(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn26588 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26588
-func Fn26588(m *base.Module, l0 int64, l1 int32) int32
+//go:linkname Fn26589 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26589
+func Fn26589(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn26594 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26594
-func Fn26594(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn26591 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26591
+func Fn26591(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn26595 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26595
-func Fn26595(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn26596 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26596
-func Fn26596(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn26594 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26594
+func Fn26594(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn26597 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26597
-func Fn26597(m *base.Module, l0 int32, l1 int32)
+func Fn26597(m *base.Module, l0 int64, l1 int32) int32
 
-//go:linkname Fn26598 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26598
-func Fn26598(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn26603 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26603
+func Fn26603(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn26599 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26599
-func Fn26599(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn26604 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26604
+func Fn26604(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn26600 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26600
-func Fn26600(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn26601 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26601
-func Fn26601(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn26604 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26604
-func Fn26604(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn26605 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26605
+func Fn26605(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
 //go:linkname Fn26606 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26606
 func Fn26606(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26608 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26608
-func Fn26608(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn26607 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26607
+func Fn26607(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26609 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn26609
-func Fn26609(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn26608 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26608
+func Fn26608(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26613 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26613
+//go:linkname Fn26609 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26609
+func Fn26609(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn26610 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26610
+func Fn26610(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn26613 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26613
 func Fn26613(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn26620 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26620
-func Fn26620(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn26617 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26617
+func Fn26617(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn26622 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26622
-func Fn26622(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn26618 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn26618
+func Fn26618(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn26623 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn26623
-func Fn26623(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn26622 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn26622
+func Fn26622(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn26624 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26624
-func Fn26624(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn26629 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26629
+func Fn26629(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn26627 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26627
-func Fn26627(m *base.Module, l0 int32) int32
+//go:linkname Fn26631 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26631
+func Fn26631(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26807 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26807
-func Fn26807(m *base.Module, l0 int32)
+//go:linkname Fn26632 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn26632
+func Fn26632(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn26809 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26809
-func Fn26809(m *base.Module, l0 int32)
+//go:linkname Fn26633 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26633
+func Fn26633(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn26878 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26878
-func Fn26878(m *base.Module, l0 int32)
+//go:linkname Fn26636 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26636
+func Fn26636(m *base.Module, l0 int32) int32
 
-//go:linkname Fn26879 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26879
-func Fn26879(m *base.Module, l0 int32)
+//go:linkname Fn26816 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26816
+func Fn26816(m *base.Module, l0 int32)
 
-//go:linkname Fn26967 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn26967
-func Fn26967(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn26818 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26818
+func Fn26818(m *base.Module, l0 int32)
 
-//go:linkname Fn26972 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26972
-func Fn26972(m *base.Module) int32
+//go:linkname Fn26887 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn26887
+func Fn26887(m *base.Module, l0 int32)
 
-//go:linkname Fn28512 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28512
-func Fn28512(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn26888 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26888
+func Fn26888(m *base.Module, l0 int32)
 
-//go:linkname Fn28515 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28515
-func Fn28515(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn26890 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26890
+func Fn26890(m *base.Module, l0 int32, l1 int32, l2 int32) int64
 
-//go:linkname Fn28519 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28519
-func Fn28519(m *base.Module, l0 int32) int32
+//go:linkname Fn26909 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn26909
+func Fn26909(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn28520 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28520
-func Fn28520(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn26976 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn26976
+func Fn26976(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn28521 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28521
-func Fn28521(m *base.Module, l0 int32) int32
+//go:linkname Fn26981 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn26981
+func Fn26981(m *base.Module) int32
 
-//go:linkname Fn28523 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28523
-func Fn28523(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn28521 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28521
+func Fn28521(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn28524 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28524
-func Fn28524(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn28524 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28524
+func Fn28524(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn28525 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28525
-func Fn28525(m *base.Module, l0 int32) int32
+//go:linkname Fn28528 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28528
+func Fn28528(m *base.Module, l0 int32) int32
 
-//go:linkname Fn28551 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28551
-func Fn28551(m *base.Module) int32
+//go:linkname Fn28529 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28529
+func Fn28529(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn28553 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn28553
-func Fn28553(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn28530 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28530
+func Fn28530(m *base.Module, l0 int32) int32
 
-//go:linkname Fn28555 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28555
-func Fn28555(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn28532 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28532
+func Fn28532(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn28730 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28730
-func Fn28730(m *base.Module, l0 int32)
+//go:linkname Fn28533 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28533
+func Fn28533(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn28760 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28760
-func Fn28760(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn28534 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28534
+func Fn28534(m *base.Module, l0 int32) int32
 
-//go:linkname Fn28762 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28762
-func Fn28762(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn28539 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28539
+func Fn28539(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn28763 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28763
-func Fn28763(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn28560 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28560
+func Fn28560(m *base.Module) int32
 
-//go:linkname Fn28764 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28764
-func Fn28764(m *base.Module, l0 int32)
+//go:linkname Fn28562 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn28562
+func Fn28562(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn28765 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28765
-func Fn28765(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn28564 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28564
+func Fn28564(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn28766 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28766
-func Fn28766(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn28739 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28739
+func Fn28739(m *base.Module, l0 int32)
+
+//go:linkname Fn28769 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28769
+func Fn28769(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn28771 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28771
+func Fn28771(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn28772 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28772
+func Fn28772(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn28773 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28773
+func Fn28773(m *base.Module, l0 int32)
 
 //go:linkname Fn28774 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28774
-func Fn28774(m *base.Module, l0 int32, l1 int32) int32
+func Fn28774(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn28822 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28822
-func Fn28822(m *base.Module, l0 int32) int32
+//go:linkname Fn28775 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28775
+func Fn28775(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn28823 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28823
-func Fn28823(m *base.Module, l0 int32) int32
+//go:linkname Fn28783 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28783
+func Fn28783(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn28824 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn28824
-func Fn28824(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn28831 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28831
+func Fn28831(m *base.Module, l0 int32) int32
 
-//go:linkname Fn28825 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28825
-func Fn28825(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn28832 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28832
+func Fn28832(m *base.Module, l0 int32) int32
 
-//go:linkname Fn28834 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28834
+//go:linkname Fn28833 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn28833
+func Fn28833(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn28834 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28834
 func Fn28834(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn28836 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28836
-func Fn28836(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn28843 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28843
+func Fn28843(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn28838 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28838
-func Fn28838(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn28845 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28845
+func Fn28845(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn28853 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28853
-func Fn28853(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn28847 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28847
+func Fn28847(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn28854 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28854
-func Fn28854(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn28862 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28862
+func Fn28862(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn28855 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28855
-func Fn28855(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn28863 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28863
+func Fn28863(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn28857 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28857
-func Fn28857(m *base.Module, l0 int32) int32
+//go:linkname Fn28864 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28864
+func Fn28864(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn28858 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28858
-func Fn28858(m *base.Module, l0 int32) int32
+//go:linkname Fn28866 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28866
+func Fn28866(m *base.Module, l0 int32) int32
 
-//go:linkname Fn28868 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28868
-func Fn28868(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn28867 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28867
+func Fn28867(m *base.Module, l0 int32) int32
 
-//go:linkname Fn28869 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28869
-func Fn28869(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn28877 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28877
+func Fn28877(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn28874 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28874
-func Fn28874(m *base.Module, l0 int32) int32
+//go:linkname Fn28878 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn28878
+func Fn28878(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn28875 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28875
-func Fn28875(m *base.Module) int32
+//go:linkname Fn28883 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28883
+func Fn28883(m *base.Module, l0 int32) int32
 
-//go:linkname Fn28885 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28885
-func Fn28885(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn28884 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn28884
+func Fn28884(m *base.Module) int32
 
-//go:linkname Fn28887 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28887
-func Fn28887(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn28894 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28894
+func Fn28894(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn28929 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn28929
-func Fn28929(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn28896 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn28896
+func Fn28896(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn28982 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28982
-func Fn28982(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn28938 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn28938
+func Fn28938(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn29073 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29073
-func Fn29073(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn28991 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn28991
+func Fn28991(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn29075 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn29075
-func Fn29075(m *base.Module, l0 int32) int32
-
-//go:linkname Fn29077 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29077
-func Fn29077(m *base.Module) int32
-
-//go:linkname Fn29078 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29078
-func Fn29078(m *base.Module) int32
-
-//go:linkname Fn29079 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29079
-func Fn29079(m *base.Module) int32
-
-//go:linkname Fn29080 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29080
-func Fn29080(m *base.Module) int32
-
-//go:linkname Fn29081 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29081
-func Fn29081(m *base.Module) int32
-
-//go:linkname Fn29082 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29082
-func Fn29082(m *base.Module) int32
-
-//go:linkname Fn29083 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29083
-func Fn29083(m *base.Module) int32
-
-//go:linkname Fn29084 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29084
-func Fn29084(m *base.Module) int32
-
-//go:linkname Fn29085 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29085
-func Fn29085(m *base.Module) int32
+//go:linkname Fn29082 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29082
+func Fn29082(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
 //go:linkname Fn29086 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29086
 func Fn29086(m *base.Module) int32
 
-//go:linkname Fn29087 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29087
+//go:linkname Fn29087 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29087
 func Fn29087(m *base.Module) int32
 
 //go:linkname Fn29088 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29088
@@ -6733,557 +6760,578 @@ func Fn29097(m *base.Module) int32
 //go:linkname Fn29098 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29098
 func Fn29098(m *base.Module) int32
 
-//go:linkname Fn29100 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn29100
-func Fn29100(m *base.Module, l0 int32) int32
+//go:linkname Fn29099 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29099
+func Fn29099(m *base.Module) int32
 
-//go:linkname Fn29101 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29101
-func Fn29101(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn29100 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29100
+func Fn29100(m *base.Module) int32
 
-//go:linkname Fn29108 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29108
-func Fn29108(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn29101 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29101
+func Fn29101(m *base.Module) int32
 
-//go:linkname Fn29110 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29110
+//go:linkname Fn29102 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29102
+func Fn29102(m *base.Module) int32
+
+//go:linkname Fn29103 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29103
+func Fn29103(m *base.Module) int32
+
+//go:linkname Fn29104 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29104
+func Fn29104(m *base.Module) int32
+
+//go:linkname Fn29105 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29105
+func Fn29105(m *base.Module) int32
+
+//go:linkname Fn29106 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29106
+func Fn29106(m *base.Module) int32
+
+//go:linkname Fn29107 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29107
+func Fn29107(m *base.Module) int32
+
+//go:linkname Fn29109 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn29109
+func Fn29109(m *base.Module, l0 int32) int32
+
+//go:linkname Fn29110 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29110
 func Fn29110(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn29111 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29111
-func Fn29111(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn29117 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29117
+func Fn29117(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn29112 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn29112
-func Fn29112(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn29119 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29119
+func Fn29119(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn29113 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29113
-func Fn29113(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn29120 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29120
+func Fn29120(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn29125 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29125
-func Fn29125(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn29121 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn29121
+func Fn29121(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn29127 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29127
-func Fn29127(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn29132 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn29132
-func Fn29132(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn29133 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn29133
-func Fn29133(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn29122 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29122
+func Fn29122(m *base.Module, l0 int32, l1 int32) int32
 
 //go:linkname Fn29134 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29134
-func Fn29134(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+func Fn29134(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn29137 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29137
-func Fn29137(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn29136 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29136
+func Fn29136(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn29170 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29170
-func Fn29170(m *base.Module, l0 int32) int32
+//go:linkname Fn29141 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn29141
+func Fn29141(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn29419 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29419
-func Fn29419(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn29142 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn29142
+func Fn29142(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn29614 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29614
-func Fn29614(m *base.Module, l0 int32) int32
+//go:linkname Fn29143 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29143
+func Fn29143(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn29633 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn29633
-func Fn29633(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn29146 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29146
+func Fn29146(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn29635 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29635
-func Fn29635(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn29179 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29179
+func Fn29179(m *base.Module, l0 int32) int32
 
-//go:linkname Fn29636 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn29636
-func Fn29636(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn29428 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29428
+func Fn29428(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn29637 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29637
-func Fn29637(m *base.Module, l0 int32) int32
+//go:linkname Fn29623 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29623
+func Fn29623(m *base.Module, l0 int32) int32
 
-//go:linkname Fn29638 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn29638
-func Fn29638(m *base.Module, l0 int32) int32
+//go:linkname Fn29642 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn29642
+func Fn29642(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn29641 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29641
-func Fn29641(m *base.Module, l0 int32) int32
+//go:linkname Fn29644 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29644
+func Fn29644(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn29643 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29643
-func Fn29643(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn29645 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn29645
+func Fn29645(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn29648 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29648
-func Fn29648(m *base.Module, l0 int32, l1 int32, l2 int64, l3 int32) int32
+//go:linkname Fn29646 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29646
+func Fn29646(m *base.Module, l0 int32) int32
 
-//go:linkname Fn29651 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29651
-func Fn29651(m *base.Module, l0 int32) int32
+//go:linkname Fn29647 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn29647
+func Fn29647(m *base.Module, l0 int32) int32
 
-//go:linkname Fn29653 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29653
-func Fn29653(m *base.Module, l0 int32) int32
+//go:linkname Fn29650 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29650
+func Fn29650(m *base.Module, l0 int32) int32
 
-//go:linkname Fn29656 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29656
-func Fn29656(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn29652 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29652
+func Fn29652(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn29661 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn29661
-func Fn29661(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn29657 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29657
+func Fn29657(m *base.Module, l0 int32, l1 int32, l2 int64, l3 int32) int32
 
-//go:linkname Fn29663 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn29663
-func Fn29663(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn29660 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29660
+func Fn29660(m *base.Module, l0 int32) int32
 
-//go:linkname Fn29673 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29673
-func Fn29673(m *base.Module, l0 int32) int64
+//go:linkname Fn29662 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn29662
+func Fn29662(m *base.Module, l0 int32) int32
 
-//go:linkname Fn29785 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29785
-func Fn29785(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn29665 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29665
+func Fn29665(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn29787 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29787
-func Fn29787(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn29670 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn29670
+func Fn29670(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn29798 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29798
-func Fn29798(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn29672 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn29672
+func Fn29672(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn30850 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30850
-func Fn30850(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn29682 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn29682
+func Fn29682(m *base.Module, l0 int32) int64
 
-//go:linkname Fn30851 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn30851
-func Fn30851(m *base.Module, l0 int32) int32
+//go:linkname Fn29807 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn29807
+func Fn29807(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn30856 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn30856
-func Fn30856(m *base.Module)
+//go:linkname Fn30859 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30859
+func Fn30859(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn30857 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30857
-func Fn30857(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn30859 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30859
-func Fn30859(m *base.Module)
-
-//go:linkname Fn30860 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn30860
+//go:linkname Fn30860 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn30860
 func Fn30860(m *base.Module, l0 int32) int32
 
-//go:linkname Fn30862 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30862
-func Fn30862(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn30864 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30864
-func Fn30864(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn30865 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30865
-func Fn30865(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
+//go:linkname Fn30865 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn30865
+func Fn30865(m *base.Module)
 
 //go:linkname Fn30866 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30866
-func Fn30866(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+func Fn30866(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn30868 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30868
-func Fn30868(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn30868 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30868
+func Fn30868(m *base.Module)
 
-//go:linkname Fn30869 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30869
-func Fn30869(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn30869 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30869
+func Fn30869(m *base.Module, l0 int32) int32
 
-//go:linkname Fn30880 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30880
-func Fn30880(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn30871 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30871
+func Fn30871(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn30895 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30895
-func Fn30895(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn30873 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30873
+func Fn30873(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn30920 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn30920
-func Fn30920(m *base.Module, l0 int32) int32
+//go:linkname Fn30874 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30874
+func Fn30874(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32)
 
-//go:linkname Fn30927 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30927
-func Fn30927(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn30875 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30875
+func Fn30875(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn30928 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30928
-func Fn30928(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn30877 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30877
+func Fn30877(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn30929 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30929
-func Fn30929(m *base.Module, l0 int32, l1 int64)
+//go:linkname Fn30878 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30878
+func Fn30878(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn30930 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30930
-func Fn30930(m *base.Module, l0 int32, l1 int64)
+//go:linkname Fn30889 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn30889
+func Fn30889(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn30933 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30933
-func Fn30933(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn30929 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn30929
+func Fn30929(m *base.Module, l0 int32) int32
 
-//go:linkname Fn31202 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31202
-func Fn31202(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn30936 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30936
+func Fn30936(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn31215 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31215
-func Fn31215(m *base.Module, l0 int32) int32
+//go:linkname Fn30937 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30937
+func Fn30937(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn31220 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31220
-func Fn31220(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn30938 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30938
+func Fn30938(m *base.Module, l0 int32, l1 int64)
 
-//go:linkname Fn31245 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31245
-func Fn31245(m *base.Module, l0 int32) int32
+//go:linkname Fn30939 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30939
+func Fn30939(m *base.Module, l0 int32, l1 int64)
 
-//go:linkname Fn31336 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31336
-func Fn31336(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn30942 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn30942
+func Fn30942(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn31341 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31341
-func Fn31341(m *base.Module, l0 int32) int32
+//go:linkname Fn31211 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31211
+func Fn31211(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn31362 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn31362
-func Fn31362(m *base.Module, l0 int32)
+//go:linkname Fn31224 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31224
+func Fn31224(m *base.Module, l0 int32) int32
 
-//go:linkname Fn31381 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31381
-func Fn31381(m *base.Module, l0 int32, l1 int64, l2 int64, l3 int64, l4 int64)
+//go:linkname Fn31254 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31254
+func Fn31254(m *base.Module, l0 int32) int32
 
-//go:linkname Fn31385 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31385
-func Fn31385(m *base.Module, l0 int32, l1 int64, l2 int64, l3 int64, l4 int64)
+//go:linkname Fn31345 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31345
+func Fn31345(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31399 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31399
-func Fn31399(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn31350 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31350
+func Fn31350(m *base.Module, l0 int32) int32
 
-//go:linkname Fn31403 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31403
-func Fn31403(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn31371 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn31371
+func Fn31371(m *base.Module, l0 int32)
 
-//go:linkname Fn31407 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31407
-func Fn31407(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn31390 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31390
+func Fn31390(m *base.Module, l0 int32, l1 int64, l2 int64, l3 int64, l4 int64)
 
-//go:linkname Fn31409 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31409
-func Fn31409(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn31394 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31394
+func Fn31394(m *base.Module, l0 int32, l1 int64, l2 int64, l3 int64, l4 int64)
 
-//go:linkname Fn31410 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31410
-func Fn31410(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn31411 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31411
+func Fn31411(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn31411 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31411
-func Fn31411(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn31413 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31413
+func Fn31413(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31416 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31416
-func Fn31416(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn31416 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31416
+func Fn31416(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn31453 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31453
+//go:linkname Fn31426 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31426
+func Fn31426(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
+
+//go:linkname Fn31445 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31445
+func Fn31445(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn31446 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31446
+func Fn31446(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn31449 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31449
+func Fn31449(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn31450 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31450
+func Fn31450(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn31451 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31451
+func Fn31451(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn31452 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31452
+func Fn31452(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn31453 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31453
 func Fn31453(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn31455 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31455
-func Fn31455(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn31454 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31454
+func Fn31454(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
 
-//go:linkname Fn31457 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31457
-func Fn31457(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32) int32
+//go:linkname Fn31455 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31455
+func Fn31455(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn31457 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31457
+func Fn31457(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
 //go:linkname Fn31458 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31458
-func Fn31458(m *base.Module, l0 int32, l1 int32) int32
+func Fn31458(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn31459 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31459
+func Fn31459(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
 //go:linkname Fn31470 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31470
 func Fn31470(m *base.Module, l0 int32, l1 int32)
 
 //go:linkname Fn31471 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31471
-func Fn31471(m *base.Module, l0 int32, l1 int32, l2 int32)
+func Fn31471(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31472 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31472
-func Fn31472(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn31473 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31473
+func Fn31473(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31474 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31474
-func Fn31474(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn31475 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31475
+func Fn31475(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31476 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31476
-func Fn31476(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn31479 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31479
+func Fn31479(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn31481 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31481
-func Fn31481(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn31480 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31480
+func Fn31480(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn31481 github.com/tyzerrr/spanneranalyzerwasm2go/p5.Fn31481
+func Fn31481(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
 
 //go:linkname Fn31482 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31482
-func Fn31482(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+func Fn31482(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
 //go:linkname Fn31483 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31483
-func Fn31483(m *base.Module, l0 int32, l1 int32) int32
+func Fn31483(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
 //go:linkname Fn31484 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31484
-func Fn31484(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+func Fn31484(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn31487 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31487
-func Fn31487(m *base.Module, l0 int32, l1 int32) int32
+//go:linkname Fn31485 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31485
+func Fn31485(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn31488 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31488
-func Fn31488(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn31486 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31486
+func Fn31486(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn31490 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31490
-func Fn31490(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn31487 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31487
+func Fn31487(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn31518 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31518
-func Fn31518(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
+//go:linkname Fn31489 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31489
+func Fn31489(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31536 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31536
-func Fn31536(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn31514 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31514
+func Fn31514(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31537 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31537
-func Fn31537(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn31515 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31515
+func Fn31515(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn31538 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31538
-func Fn31538(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+//go:linkname Fn31530 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31530
+func Fn31530(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn31539 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31539
-func Fn31539(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn31532 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31532
+func Fn31532(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn31558 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn31558
-func Fn31558(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32) int32
+//go:linkname Fn31563 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31563
+func Fn31563(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn31641 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31641
-func Fn31641(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn31565 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31565
+func Fn31565(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32) int32
+
+//go:linkname Fn31566 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31566
+func Fn31566(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn31568 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31568
+func Fn31568(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn31569 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31569
+func Fn31569(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn31573 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31573
+func Fn31573(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+
+//go:linkname Fn31601 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31601
+func Fn31601(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn31625 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31625
+func Fn31625(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn31659 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31659
+func Fn31659(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn31668 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31668
+func Fn31668(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn31674 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31674
+func Fn31674(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+
+//go:linkname Fn31675 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31675
+func Fn31675(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+
+//go:linkname Fn31676 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31676
+func Fn31676(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+
+//go:linkname Fn31677 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31677
+func Fn31677(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+
+//go:linkname Fn31678 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31678
+func Fn31678(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+
+//go:linkname Fn31682 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31682
+func Fn31682(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
 //go:linkname Fn31684 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31684
-func Fn31684(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+func Fn31684(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn31697 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31697
-func Fn31697(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn31686 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31686
+func Fn31686(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn31700 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31700
-func Fn31700(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+//go:linkname Fn31687 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31687
+func Fn31687(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn31702 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31702
-func Fn31702(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
+//go:linkname Fn31691 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31691
+func Fn31691(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
+
+//go:linkname Fn31698 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31698
+func Fn31698(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn31699 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31699
+func Fn31699(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn31704 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31704
+func Fn31704(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn31705 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31705
+func Fn31705(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn31709 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31709
+func Fn31709(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
+
+//go:linkname Fn31714 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31714
+func Fn31714(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn31715 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31715
+func Fn31715(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn31722 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31722
+func Fn31722(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn31726 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31726
+func Fn31726(m *base.Module, l0 int32, l1 int32, l2 int32)
 
 //go:linkname Fn31731 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31731
-func Fn31731(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+func Fn31731(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31736 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31736
-func Fn31736(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
+//go:linkname Fn31732 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31732
+func Fn31732(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn31737 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31737
-func Fn31737(m *base.Module, l0 int32, l1 int32, l2 int64) int32
+//go:linkname Fn31733 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31733
+func Fn31733(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn31738 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31738
-func Fn31738(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn31734 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31734
+func Fn31734(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn31741 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31741
-func Fn31741(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int64
+//go:linkname Fn31735 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31735
+func Fn31735(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31746 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31746
-func Fn31746(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn31762 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31762
+func Fn31762(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31747 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31747
-func Fn31747(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn31776 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31776
+func Fn31776(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn31764 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31764
-func Fn31764(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn31777 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31777
+func Fn31777(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
 
-//go:linkname Fn31765 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31765
-func Fn31765(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn31778 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31778
+func Fn31778(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
 
-//go:linkname Fn31766 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31766
-func Fn31766(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn31768 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31768
-func Fn31768(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31781 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31781
-func Fn31781(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn31783 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31783
-func Fn31783(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn31785 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31785
-func Fn31785(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31786 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31786
-func Fn31786(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn31789 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31789
-func Fn31789(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31793 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31793
-func Fn31793(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31795 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31795
-func Fn31795(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn31799 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31799
-func Fn31799(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn31801 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31801
-func Fn31801(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31802 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31802
-func Fn31802(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn31805 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31805
-func Fn31805(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31806 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31806
-func Fn31806(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31807 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31807
-func Fn31807(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn31808 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31808
-func Fn31808(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31810 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31810
-func Fn31810(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31814 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31814
-func Fn31814(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31818 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31818
-func Fn31818(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
-
-//go:linkname Fn31819 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31819
-func Fn31819(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn31822 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31822
-func Fn31822(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn31824 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31824
-func Fn31824(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn31825 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31825
-func Fn31825(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn31828 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31828
-func Fn31828(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
-
-//go:linkname Fn31830 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31830
-func Fn31830(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn31835 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31835
-func Fn31835(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn31837 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31837
-func Fn31837(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn31839 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31839
-func Fn31839(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn31840 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31840
-func Fn31840(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn31851 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31851
-func Fn31851(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32)
-
-//go:linkname Fn31852 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31852
-func Fn31852(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn31853 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31853
-func Fn31853(m *base.Module, l0 int32, l1 int32) int32
-
-//go:linkname Fn31854 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31854
-func Fn31854(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31857 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31857
-func Fn31857(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31859 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31859
-func Fn31859(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
-
-//go:linkname Fn31863 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31863
-func Fn31863(m *base.Module, l0 int32, l1 int32, l2 int32)
-
-//go:linkname Fn31867 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31867
-func Fn31867(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
-
-//go:linkname Fn31870 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31870
-func Fn31870(m *base.Module, l0 int32, l1 int64) int32
-
-//go:linkname Fn31871 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31871
-func Fn31871(m *base.Module, l0 int32, l1 int64, l2 int64) int32
-
-//go:linkname Fn31874 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31874
-func Fn31874(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
-
-//go:linkname Fn31880 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31880
-func Fn31880(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn31860 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31860
+func Fn31860(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
 //go:linkname Fn31881 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31881
 func Fn31881(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn31885 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31885
-func Fn31885(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn31930 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31930
+func Fn31930(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
-//go:linkname Fn31887 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31887
-func Fn31887(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn31947 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31947
+func Fn31947(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn31892 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31892
-func Fn31892(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn31952 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31952
+func Fn31952(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn31893 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31893
-func Fn31893(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn31955 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31955
+func Fn31955(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn31894 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31894
-func Fn31894(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn31957 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31957
+func Fn31957(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn31895 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31895
-func Fn31895(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
+//go:linkname Fn31960 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31960
+func Fn31960(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn31896 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31896
-func Fn31896(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn31897 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31897
-func Fn31897(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn31899 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31899
-func Fn31899(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn31900 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn31900
-func Fn31900(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32) int32
-
-//go:linkname Fn31946 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31946
-func Fn31946(m *base.Module, l0 int32, l1 int32, l2 int32) int32
-
-//go:linkname Fn31948 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31948
-func Fn31948(m *base.Module, l0 int32, l1 int32)
-
-//go:linkname Fn31952 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn31952
-func Fn31952(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn31961 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31961
+func Fn31961(m *base.Module, l0 int32, l1 int32, l2 int64) int32
 
 //go:linkname Fn31962 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31962
-func Fn31962(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+func Fn31962(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn31967 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31967
+func Fn31967(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn31969 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31969
+func Fn31969(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn31970 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31970
+func Fn31970(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int64
+
+//go:linkname Fn31974 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31974
+func Fn31974(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn31976 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn31976
+func Fn31976(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn31978 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31978
+func Fn31978(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn31981 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31981
+func Fn31981(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn31982 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31982
+func Fn31982(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn31993 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31993
+func Fn31993(m *base.Module, l0 int32, l1 int32)
+
+//go:linkname Fn31998 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31998
+func Fn31998(m *base.Module, l0 int32, l1 int32, l2 int32) int32
 
 //go:linkname Fn31999 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn31999
-func Fn31999(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+func Fn31999(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn32049 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32049
-func Fn32049(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn32001 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32001
+func Fn32001(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn32051 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn32051
-func Fn32051(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn32003 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn32003
+func Fn32003(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn32054 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32054
-func Fn32054(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn32006 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn32006
+func Fn32006(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
 
-//go:linkname Fn32057 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32057
-func Fn32057(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn32008 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32008
+func Fn32008(m *base.Module, l0 int32, l1 int64) int32
 
-//go:linkname Fn32067 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32067
-func Fn32067(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn32009 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32009
+func Fn32009(m *base.Module, l0 int32, l1 int64, l2 int64) int32
 
-//go:linkname Fn32083 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32083
-func Fn32083(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn32012 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32012
+func Fn32012(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
 
-//go:linkname Fn32086 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32086
-func Fn32086(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn32013 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32013
+func Fn32013(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
 
-//go:linkname Fn32145 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32145
-func Fn32145(m *base.Module, l0 int32, l1 int32)
+//go:linkname Fn32016 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32016
+func Fn32016(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn32150 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32150
-func Fn32150(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn32021 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32021
+func Fn32021(m *base.Module, l0 int32, l1 int32) int32
 
-//go:linkname Fn32151 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32151
-func Fn32151(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+//go:linkname Fn32022 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn32022
+func Fn32022(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32)
 
-//go:linkname Fn32152 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32152
-func Fn32152(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn32066 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32066
+func Fn32066(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn32156 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32156
-func Fn32156(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn32068 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn32068
+func Fn32068(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn32157 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32157
-func Fn32157(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+//go:linkname Fn32077 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32077
+func Fn32077(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn32158 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32158
-func Fn32158(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+//go:linkname Fn32082 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32082
+func Fn32082(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
 
-//go:linkname Fn32162 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32162
-func Fn32162(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+//go:linkname Fn32088 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn32088
+func Fn32088(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32)
+
+//go:linkname Fn32094 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32094
+func Fn32094(m *base.Module, l0 int32, l1 int32, l2 int32)
+
+//go:linkname Fn32110 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32110
+func Fn32110(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32)
+
+//go:linkname Fn32113 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32113
+func Fn32113(m *base.Module, l0 int32, l1 int32) int32
+
+//go:linkname Fn32115 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32115
+func Fn32115(m *base.Module, l0 int32, l1 int32, l2 int64, l3 int64) int64
 
 //go:linkname Fn32193 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32193
-func Fn32193(m *base.Module, l0 int32, l1 int32) int32
+func Fn32193(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn32208 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32208
-func Fn32208(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn32199 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn32199
+func Fn32199(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32, l7 int32, l8 int32, l9 int32) int32
 
-//go:linkname Fn32209 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32209
-func Fn32209(m *base.Module, l0 int32, l1 int32, l2 int32)
+//go:linkname Fn32212 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32212
+func Fn32212(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
 
-//go:linkname Fn32210 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32210
-func Fn32210(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
+//go:linkname Fn32213 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn32213
+func Fn32213(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn32217 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32217
-func Fn32217(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+//go:linkname Fn32222 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32222
+func Fn32222(m *base.Module, l0 int32, l1 int32, l2 int32)
 
-//go:linkname Fn32219 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn32219
-func Fn32219(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+//go:linkname Fn32223 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32223
+func Fn32223(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32) int32
 
-//go:linkname Fn32220 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn32220
-func Fn32220(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+//go:linkname Fn32226 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32226
+func Fn32226(m *base.Module, l0 int32, l1 int32)
 
-//go:linkname Fn32221 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32221
-func Fn32221(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
+//go:linkname Fn32232 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32232
+func Fn32232(m *base.Module, l0 int32, l1 int32, l2 int32) int32
+
+//go:linkname Fn32234 github.com/tyzerrr/spanneranalyzerwasm2go/p9.Fn32234
+func Fn32234(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn32235 github.com/tyzerrr/spanneranalyzerwasm2go/p6.Fn32235
+func Fn32235(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32, l6 int32)
+
+//go:linkname Fn32236 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32236
+func Fn32236(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32, l5 int32) int32
+
+//go:linkname Fn32244 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn32244
+func Fn32244(m *base.Module, l0 int32, l1 int32, l2 int32, l3 int32, l4 int32)
+
+//go:linkname Fn32245 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn32245
+func Fn32245(m *base.Module, l0 int32, l1 int32, l2 int32) int32

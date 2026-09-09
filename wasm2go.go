@@ -68,6 +68,8 @@ func NewWithWASIReserve(wasi_snapshot_preview1 base.Wasi_snapshot_preview1Import
 	InitElemSeg_10_19(m)
 	InitElemSeg_10_20(m)
 	InitElemSeg_10_21(m)
+	InitElemSeg_10_22(m)
+	InitElemSeg_10_23(m)
 	InitElemSeg_11_0(m)
 	InitElemSeg_11_1(m)
 	InitElemSeg_11_2(m)
@@ -117,9 +119,7 @@ func NewWithWASIReserve(wasi_snapshot_preview1 base.Wasi_snapshot_preview1Import
 	InitElemSeg_11_46(m)
 	InitElemSeg_11_47(m)
 	InitElemSeg_11_48(m)
-	InitElemSeg_11_49(m)
-	InitElemSeg_11_50(m)
-	m.DataEnd = 39387139
+	m.DataEnd = 39387109
 	initData_0(m)
 	return m
 }
@@ -199,6 +199,8 @@ func NewWithMemory(wasi_snapshot_preview1 base.Wasi_snapshot_preview1Imports, en
 	InitElemSeg_10_19(m)
 	InitElemSeg_10_20(m)
 	InitElemSeg_10_21(m)
+	InitElemSeg_10_22(m)
+	InitElemSeg_10_23(m)
 	InitElemSeg_11_0(m)
 	InitElemSeg_11_1(m)
 	InitElemSeg_11_2(m)
@@ -248,9 +250,7 @@ func NewWithMemory(wasi_snapshot_preview1 base.Wasi_snapshot_preview1Imports, en
 	InitElemSeg_11_46(m)
 	InitElemSeg_11_47(m)
 	InitElemSeg_11_48(m)
-	InitElemSeg_11_49(m)
-	InitElemSeg_11_50(m)
-	m.DataEnd = 39387139
+	m.DataEnd = 39387109
 	return m
 }
 func NewFromSnapshot(wasi_snapshot_preview1 base.Wasi_snapshot_preview1Imports, env base.EnvImports, memory []byte, memSize uint64, globals []uint64) *base.Module {
@@ -310,6 +310,8 @@ func NewFromSnapshot(wasi_snapshot_preview1 base.Wasi_snapshot_preview1Imports, 
 	InitElemSeg_10_19(m)
 	InitElemSeg_10_20(m)
 	InitElemSeg_10_21(m)
+	InitElemSeg_10_22(m)
+	InitElemSeg_10_23(m)
 	InitElemSeg_11_0(m)
 	InitElemSeg_11_1(m)
 	InitElemSeg_11_2(m)
@@ -359,15 +361,13 @@ func NewFromSnapshot(wasi_snapshot_preview1 base.Wasi_snapshot_preview1Imports, 
 	InitElemSeg_11_46(m)
 	InitElemSeg_11_47(m)
 	InitElemSeg_11_48(m)
-	InitElemSeg_11_49(m)
-	InitElemSeg_11_50(m)
-	m.DataEnd = 39387139
+	m.DataEnd = 39387109
 	base.RestoreGlobals(m, globals)
 	return m
 }
 func initData_0(m *base.Module) {
-	copy(m.Memory[33554432:], wasm2goData_data_bin[0:4617718])
-	copy(m.Memory[38173888:], wasm2goData_data_bin[4617718:5830969])
+	copy(m.Memory[33554432:], wasm2goData_data_bin[0:4617702])
+	copy(m.Memory[38173872:], wasm2goData_data_bin[4617702:5830939])
 }
 func Initialize(m *base.Module) {
 	Fn61(m)
@@ -379,13 +379,13 @@ func WasmFree(m *base.Module, l0 int32) {
 	Fn63(m, l0)
 }
 func WasmifyGetTypeName(m *base.Module, l0 int32, l1 int32) int64 {
-	return Fn85(m, l0, l1)
+	return Fn87(m, l0, l1)
 }
 func WasmInit(m *base.Module) int32 {
-	return Fn87(m)
+	return Fn89(m)
 }
 func WasmShutdown(m *base.Module) {
-	Fn88(m)
+	Fn90(m)
 }
 func Inv_0_0(m *base.Module, l0, l1 int32) (packed int64, err error) {
 	savedG0 := m.G0
@@ -416,7 +416,23 @@ func Inv_0_1(m *base.Module, l0, l1 int32) (packed int64, err error) {
 			}
 		}
 	}()
-	packed = Fn84(m, l0, l1)
+	packed = Fn85(m, l0, l1)
+	return
+}
+func Inv_0_2(m *base.Module, l0, l1 int32) (packed int64, err error) {
+	savedG0 := m.G0
+	defer func() {
+		r := recover()
+		if r != nil {
+			m.G0 = savedG0
+			if trapErr, trapIsErr := r.(error); trapIsErr {
+				err = fmt.Errorf("wasm trap: %w", trapErr)
+			} else {
+				err = fmt.Errorf("wasm trap: %v", r)
+			}
+		}
+	}()
+	packed = Fn86(m, l0, l1)
 	return
 }
 func Memory(m *base.Module) []byte {

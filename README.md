@@ -26,7 +26,7 @@ built from the emulator instead.
 |---|---|
 | cloud-spanner-emulator | `fc811a1` (patched to drop the PostgreSQL dialect, gRPC, and google-cloud-cpp — see `patches/` in go-spanner-analyzer) |
 | ICU | 76.1 (data trimmed to case folding, basic normalization, and the root collation only — see `tools/icu-keep.txt`) |
-| go-spanner-analyzer (generation config) | `d328734` |
+| go-spanner-analyzer (generation config) | v0.2.0 — adds `AnalyzeQuery`, so queries and DML are resolved and type-checked against the schema the DDL describes |
 | wasm input | 17.4 MB → this Go output |
 
 The generation pipeline (wasmify config, patches, ICU build, wasm2go

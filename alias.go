@@ -14,20 +14,23 @@ func Fn62(m *base.Module, l0 int32) int32
 //go:linkname Fn63 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn63
 func Fn63(m *base.Module, l0 int32)
 
-//go:linkname Fn64 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn64
+//go:linkname Fn64 github.com/tyzerrr/spanneranalyzerwasm2go/p7.Fn64
 func Fn64(m *base.Module, l0 int32, l1 int32) int64
 
-//go:linkname Fn84 github.com/tyzerrr/spanneranalyzerwasm2go/p1.Fn84
-func Fn84(m *base.Module, l0 int32, l1 int32) int64
-
-//go:linkname Fn85 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn85
+//go:linkname Fn85 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn85
 func Fn85(m *base.Module, l0 int32, l1 int32) int64
 
-//go:linkname Fn87 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn87
-func Fn87(m *base.Module) int32
+//go:linkname Fn86 github.com/tyzerrr/spanneranalyzerwasm2go/p8.Fn86
+func Fn86(m *base.Module, l0 int32, l1 int32) int64
 
-//go:linkname Fn88 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn88
-func Fn88(m *base.Module)
+//go:linkname Fn87 github.com/tyzerrr/spanneranalyzerwasm2go/p10.Fn87
+func Fn87(m *base.Module, l0 int32, l1 int32) int64
+
+//go:linkname Fn89 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn89
+func Fn89(m *base.Module) int32
+
+//go:linkname Fn90 github.com/tyzerrr/spanneranalyzerwasm2go/p11.Fn90
+func Fn90(m *base.Module)
 
 //go:linkname InitElemSeg_10_0 github.com/tyzerrr/spanneranalyzerwasm2go/p10.InitElemSeg_10_0
 func InitElemSeg_10_0(m *base.Module)
@@ -73,6 +76,12 @@ func InitElemSeg_10_20(m *base.Module)
 
 //go:linkname InitElemSeg_10_21 github.com/tyzerrr/spanneranalyzerwasm2go/p10.InitElemSeg_10_21
 func InitElemSeg_10_21(m *base.Module)
+
+//go:linkname InitElemSeg_10_22 github.com/tyzerrr/spanneranalyzerwasm2go/p10.InitElemSeg_10_22
+func InitElemSeg_10_22(m *base.Module)
+
+//go:linkname InitElemSeg_10_23 github.com/tyzerrr/spanneranalyzerwasm2go/p10.InitElemSeg_10_23
+func InitElemSeg_10_23(m *base.Module)
 
 //go:linkname InitElemSeg_10_3 github.com/tyzerrr/spanneranalyzerwasm2go/p10.InitElemSeg_10_3
 func InitElemSeg_10_3(m *base.Module)
@@ -227,14 +236,8 @@ func InitElemSeg_11_47(m *base.Module)
 //go:linkname InitElemSeg_11_48 github.com/tyzerrr/spanneranalyzerwasm2go/p11.InitElemSeg_11_48
 func InitElemSeg_11_48(m *base.Module)
 
-//go:linkname InitElemSeg_11_49 github.com/tyzerrr/spanneranalyzerwasm2go/p11.InitElemSeg_11_49
-func InitElemSeg_11_49(m *base.Module)
-
 //go:linkname InitElemSeg_11_5 github.com/tyzerrr/spanneranalyzerwasm2go/p11.InitElemSeg_11_5
 func InitElemSeg_11_5(m *base.Module)
-
-//go:linkname InitElemSeg_11_50 github.com/tyzerrr/spanneranalyzerwasm2go/p11.InitElemSeg_11_50
-func InitElemSeg_11_50(m *base.Module)
 
 //go:linkname InitElemSeg_11_6 github.com/tyzerrr/spanneranalyzerwasm2go/p11.InitElemSeg_11_6
 func InitElemSeg_11_6(m *base.Module)
